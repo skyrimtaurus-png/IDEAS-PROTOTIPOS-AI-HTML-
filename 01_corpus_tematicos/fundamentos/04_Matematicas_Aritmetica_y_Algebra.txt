@@ -1,0 +1,494 @@
+# CORPUS LIMPIO 04 — MATEMÁTICAS, LÓGICA NUMÉRICA, SECUENCIAS Y ÁLGEBRA
+La suma o adición es la operación matemática que reúne dos o más cantidades en un solo resultado llamado total.
+La resta o sustracción es la operación inversa a la suma que calcula la diferencia entre el minuendo y el sustraendo.
+La multiplicación es una operación aritmética que consiste en sumar un número tantas veces como indica otro factor.
+La división es la operación matemática que reparte una cantidad en partes iguales y no permite dividir ningún número entre cero.
+Un número par es todo número entero divisible exactamente entre dos, como cero, dos, cuatro, seis y ocho.
+Un número impar es todo número entero que al dividirse entre dos deja residuo uno, como uno, tres, cinco, siete y nueve.
+Un número primo es un número natural mayor que uno que únicamente tiene dos divisores positivos distintos: él mismo y el uno.
+El teorema de Pitágoras establece que en todo triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos: a² + b² = c².
+0 | El 0 es cero y representa ninguna cantidad (vacío).
+1 | El 1 es uno y representa una unidad: •
+2 | El 2 es dos y representa dos unidades: • •
+3 | El 3 es tres y representa tres unidades: • • •
+4 | El 4 es cuatro y representa cuatro unidades: • • • •
+5 | El 5 es cinco y representa cinco unidades: • • • • •
+6 | El 6 es seis y representa seis unidades: • • • • • •
+7 | El 7 es siete y representa siete unidades: • • • • • • •
+8 | El 8 es ocho y representa ocho unidades: • • • • • • • •
+9 | El 9 es nueve y representa nueve unidades: • • • • • • • • •
+10 | El 10 es diez, una decena completa: • • • • • • • • • •
+contar del 1 al 10 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+contar del 1 al 20 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+que es sumar | Sumar (+) es juntar cantidades para saber cuántas hay en total.
+que es restar | Restar (-) es quitar una cantidad a otra para saber cuántas quedan.
+que numero va despues del 0 | Después del 0 va el 1.
+que numero va despues del 1 | Después del 1 va el 2.
+que numero va despues del 2 | Después del 2 va el 3.
+que numero va despues del 3 | Después del 3 va el 4.
+que numero va despues del 4 | Después del 4 va el 5.
+que numero va despues del 5 | Después del 5 va el 6.
+que numero va despues del 6 | Después del 6 va el 7.
+que numero va despues del 7 | Después del 7 va el 8.
+que numero va despues del 8 | Después del 8 va el 9.
+que numero va despues del 9 | Después del 9 va el 10.
+que numero va antes del 2 | Antes del 2 va el 1.
+que numero va antes del 5 | Antes del 5 va el 4.
+que numero va antes del 10 | Antes del 10 va el 9.
+0+0 | 0 + 0 = 0
+1+0 | 1 + 0 = 1
+0+1 | 0 + 1 = 1
+1+1 | 1 + 1 = 2
+1+2 | 1 + 2 = 3
+2+1 | 2 + 1 = 3
+1+3 | 1 + 3 = 4
+3+1 | 3 + 1 = 4
+2+2 | 2 + 2 = 4
+2+3 | 2 + 3 = 5
+3+2 | 3 + 2 = 5
+1+4 | 1 + 4 = 5
+4+1 | 4 + 1 = 5
+3+3 | 3 + 3 = 6
+4+2 | 4 + 2 = 6
+2+4 | 2 + 4 = 6
+5+1 | 5 + 1 = 6
+1+5 | 1 + 5 = 6
+3+4 | 3 + 4 = 7
+4+3 | 4 + 3 = 7
+5+2 | 5 + 2 = 7
+2+5 | 2 + 5 = 7
+4+4 | 4 + 4 = 8
+5+3 | 5 + 3 = 8
+3+5 | 3 + 5 = 8
+6+2 | 6 + 2 = 8
+2+6 | 2 + 6 = 8
+5+4 | 5 + 4 = 9
+4+5 | 4 + 5 = 9
+6+3 | 6 + 3 = 9
+3+6 | 3 + 6 = 9
+7+2 | 7 + 2 = 9
+2+7 | 2 + 7 = 9
+5+5 | 5 + 5 = 10
+6+4 | 6 + 4 = 10
+4+6 | 4 + 6 = 10
+7+3 | 7 + 3 = 10
+3+7 | 3 + 7 = 10
+8+2 | 8 + 2 = 10
+2+8 | 2 + 8 = 10
+9+1 | 9 + 1 = 10
+1+9 | 1 + 9 = 10
+10+1 | 10 + 1 = 11
+10+2 | 10 + 2 = 12
+10+3 | 10 + 3 = 13
+10+4 | 10 + 4 = 14
+10+5 | 10 + 5 = 15
+10+6 | 10 + 6 = 16
+10+7 | 10 + 7 = 17
+10+8 | 10 + 8 = 18
+10+9 | 10 + 9 = 19
+10+10 | 10 + 10 = 20
+cuanto es 1 mas 1 | 1 más 1 es 2 (• + • = ••).
+cuanto es 2 mas 2 | 2 más 2 es 4 (•• + •• = ••••).
+cuanto es 3 mas 3 | 3 más 3 es 6.
+cuanto es 4 mas 4 | 4 más 4 es 8.
+cuanto es 5 mas 5 | 5 más 5 es 10.
+1-1 | 1 - 1 = 0
+2-1 | 2 - 1 = 1
+3-1 | 3 - 1 = 2
+3-2 | 3 - 2 = 1
+4-1 | 4 - 1 = 3
+4-2 | 4 - 2 = 2
+4-3 | 4 - 3 = 1
+5-1 | 5 - 1 = 4
+5-2 | 5 - 2 = 3
+5-3 | 5 - 3 = 2
+5-4 | 5 - 4 = 1
+5-5 | 5 - 5 = 0
+6-3 | 6 - 3 = 3
+8-4 | 8 - 4 = 4
+10-1 | 10 - 1 = 9
+10-2 | 10 - 2 = 8
+10-3 | 10 - 3 = 7
+10-4 | 10 - 4 = 6
+10-5 | 10 - 5 = 5
+cual es mayor 5 o 2 | El 5 es mayor que el 2 porque 5 tiene más unidades que 2 (5 > 2).
+cual es menor 3 o 7 | El 3 es menor que el 7 porque 3 tiene menos unidades que 7 (3 < 7).
+2*2 | 2 * 2 = 4
+2*3 | 2 * 3 = 6
+2*4 | 2 * 4 = 8
+2*5 | 2 * 5 = 10
+3*3 | 3 * 3 = 9
+4/2 | 4 / 2 = 2
+6/2 | 6 / 2 = 3
+10/2 | 10 / 2 = 5
+1 + 1 = 2
+1 + 2 = 3
+1 + 3 = 4
+1 + 4 = 5
+1 + 5 = 6
+2 + 1 = 3
+2 + 2 = 4
+2 + 3 = 5
+2 + 4 = 6
+2 + 5 = 7
+3 + 1 = 4
+3 + 2 = 5
+3 + 3 = 6
+3 + 4 = 7
+3 + 5 = 8
+4 + 1 = 5
+4 + 2 = 6
+4 + 3 = 7
+4 + 4 = 8
+4 + 5 = 9
+5 + 1 = 6
+5 + 2 = 7
+5 + 3 = 8
+5 + 4 = 9
+5 + 5 = 10
+6 + 4 = 10
+7 + 3 = 10
+8 + 2 = 10
+9 + 1 = 10
+7 + 7 = 14
+8 + 8 = 16
+9 + 9 = 18
+2 - 1 = 1
+3 - 1 = 2
+3 - 2 = 1
+4 - 1 = 3
+4 - 2 = 2
+4 - 3 = 1
+5 - 1 = 4
+5 - 2 = 3
+5 - 3 = 2
+5 - 4 = 1
+6 - 3 = 3
+7 - 2 = 5
+8 - 4 = 4
+9 - 5 = 4
+10 - 2 = 8
+10 - 5 = 5
+10 - 7 = 3
+10 - 8 = 2
+10 - 9 = 1
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+2 * 4 = 8
+2 * 5 = 10
+3 * 1 = 3
+3 * 2 = 6
+3 * 3 = 9
+3 * 4 = 12
+3 * 5 = 15
+4 * 2 = 8
+4 * 3 = 12
+4 * 4 = 16
+5 * 2 = 10
+5 * 5 = 25
+6 * 6 = 36
+7 * 7 = 49
+8 * 8 = 64
+9 * 9 = 81
+10 * 10 = 100
+1 < 2 : verdadero
+2 < 5 : verdadero
+3 < 9 : verdadero
+5 > 2 : verdadero
+8 > 3 : verdadero
+9 > 4 : verdadero
+4 = 4 : verdadero
+7 = 7 : verdadero
+10 = 10 : verdadero
+2 > 5 : falso
+1 > 9 : falso
+7 < 3 : falso
+8 < 2 : falso
+3 = 5 : falso
+9 = 2 : falso
+cuanto es 1 mas 1?: 1 mas 1 es 2.
+cuanto es 2 mas 2?: 2 mas 2 es 4.
+cuanto es 3 mas 3?: 3 mas 3 es 6.
+cuanto es 4 mas 4?: 4 mas 4 es 8.
+cuanto es 5 mas 5?: 5 mas 5 es 10.
+cuanto es 5 menos 2?: 5 menos 2 es 3.
+cuanto es 10 menos 4?: 10 menos 4 es 6.
+cuanto es 2 por 3?: 2 por 3 es 6.
+cuanto es 3 por 3?: 3 por 3 es 9.
+cuanto es 4 por 2?: 4 por 2 es 8.
+cuanto es 5 por 2?: 5 por 2 es 10.
+si tengo 2 manzanas y me dan 3 manzanas, cuantas tengo?: tengo 5 manzanas.
+si tengo 5 panes y como 2 panes, cuantos me quedan?: me quedan 3 panes.
+si tengo 4 monedas y gano 4 monedas, cuantas tengo?: tengo 8 monedas.
+si tengo 10 dulces y regalo 3 dulces, cuantos me quedan?: me quedan 7 dulces.
+# SISTEMA DECIMAL POSICIONAL, FRACCIONES Y GEOMETRÍA ESCOLAR
+El abecedario ordenado es: a b c d e f g h i j k l m n ñ o p q r s t u v w x y z.
+La letra a es la primera del abecedario.
+Después de la letra a viene la letra b.
+Después de la letra b viene la letra c.
+Después de la letra c viene la letra d.
+Después de la letra d viene la letra e.
+P con a dice pa. p con e dice pe. p con i dice pi. p con o dice po. p con u dice pu.
+L con a dice la. l con e dice le. l con i dice li. l con o dice lo. l con u dice lu.
+C con a dice ca. c con o dice co. c con u dice cu.
+Ma y ma forman mamá. mi mamá me ama y me cuida.
+Pa y pa forman papá. mi papá trabaja con esmero.
+La mesa es de madera sólida. la sopa caliente está lista.
+El sol sale temprano por la mañana.
+Los números secuenciales del uno al diez son: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+1 es uno. 2 es dos. 3 es tres. 4 es cuatro. 5 es cinco.
+6 es seis. 7 es siete. 8 es ocho. 9 es nueve. 10 es diez.
+Una manzana roja. dos manzanas rojas. tres manzanas rojas.
+Un libro en la mesa. dos libros en la mesa. tres libros en la repisa.
+Uno más uno es igual a dos: 1 + 1 = 2.
+Dos más uno es igual a tres: 2 + 1 = 3.
+Tres más uno es igual a cuatro: 3 + 1 = 4.
+Cuatro más uno es igual a cinco: 4 + 1 = 5.
+Dos más dos es igual a cuatro: 2 + 2 = 4.
+Tres más dos es igual a cinco: 3 + 2 = 5.
+Cinco más cinco es igual a diez: 5 + 5 = 10.
+Dos es mayor que uno: 2 > 1.
+Tres es mayor que dos: 3 > 2.
+Cuatro es mayor que tres: 4 > 3.
+Cinco es mayor que cuatro: 5 > 4.
+Diez es mayor que cinco: 10 > 5.
+Uno es menor que dos: 1 < 2.
+Dos es menor que tres: 2 < 3.
+Tres es menor que cuatro: 3 < 4.
+Cinco es menor que diez: 5 < 10.
+El perro corre alegre en el patio.
+El gato duerme tranquilo sobre la manta.
+El niño lee con atención un cuento corto.
+La niña escribe palabras con lápiz sobre el cuaderno.
+Las oraciones tienen sujeto, verbo y predicado.
+El sujeto nombra quién realiza la acción.
+El verbo expresa la acción o el estado del sujeto.
+El predicado describe lo que hace o le ocurre al sujeto.
+El niño feliz canta una canción. los niños felices cantan una canción.
+La casa blanca tiene un jardín verde. las casas blancas tienen jardines verdes.
+El árbol fuerte resiste el viento. los árboles fuertes resisten el viento.
+Hoy en presente yo camino por la calle.
+Ayer en pasado yo caminé por la calle.
+Mañana en futuro yo caminaré por la calle.
+Hoy el estudiante aprende la lección.
+Ayer el estudiante aprendió la lección.
+Mañana el estudiante aprenderá la lección.
+Feliz es igual a contento. alegre es igual a jubiloso.
+Fácil es igual a sencillo. rápido es igual a veloz.
+Iniciar es igual a comenzar. terminar es igual a concluir.
+Alto es lo opuesto de bajo: alto =/ bajo.
+Ancho es lo opuesto de angosto: ancho =/ angosto.
+Duro es lo opuesto de blando: duro =/ blando.
+Limpio es lo opuesto de sucio: limpio =/ sucio.
+Valiente es lo opuesto de cobarde: valiente =/ cobarde.
+10 diez, 20 veinte, 30 treinta, 40 cuarenta, 50 cincuenta, 60 sesenta, 70 setenta, 80 ochenta, 90 noventa, 100 cien.
+10 + 10 = 20. 20 + 20 = 40. 30 + 20 = 50. 50 + 50 = 100.
+20 - 10 = 10. 50 - 20 = 30. 100 - 50 = 50. 80 - 30 = 50.
+Cinco menos dos es igual a tres: 5 - 2 = 3.
+Ocho menos tres es igual a cinco: 8 - 3 = 5.
+Diez menos cuatro es igual a seis: 10 - 4 = 6.
+Nueve menos cinco es igual a cuatro: 9 - 5 = 4.
+El agricultor cultiva la tierra fértil en primavera. las lluvias de mayo riegan las semillas sembradas. el trigo dorado crece abundante bajo los rayos del sol.
+La luna plateada ilumina el sendero en la montaña. los búhos vigilan desde las ramas de los robles viejos. el arroyo cristalino desciende entre las rocas hacia el valle.
+2 es número par
+el número 2 es par
+3 es número impar
+el número 3 es impar
+4 es número par
+el número 4 es par
+5 es número impar
+el número 5 es impar
+6 es número par
+el número 6 es par
+7 es número impar
+el número 7 es impar
+8 es número par
+el número 8 es par
+9 es número impar
+el número 9 es impar
+10 es número par
+el número 10 es par
+los números pares terminan en cero, dos, cuatro, seis u ocho
+los números impares terminan en uno, tres, cinco, siete o nueve
+el doble de 1 es 2: doble(1) = 2
+el doble de 1 es igual a 2
+el doble de 2 es 4: doble(2) = 4
+el doble de 2 es igual a 4
+el doble de 3 es 6: doble(3) = 6
+el doble de 3 es igual a 6
+el doble de 4 es 8: doble(4) = 8
+el doble de 4 es igual a 8
+el doble de 5 es 10: doble(5) = 10
+el doble de 5 es igual a 10
+el doble de 10 es 20: doble(10) = 20
+el doble de 10 es igual a 20
+la mitad de 2 es 1: mitad(2) = 1
+la mitad de 2 es igual a 1
+la mitad de 4 es 2: mitad(4) = 2
+la mitad de 4 es igual a 2
+la mitad de 6 es 3: mitad(6) = 3
+la mitad de 6 es igual a 3
+la mitad de 8 es 4: mitad(8) = 4
+la mitad de 8 es igual a 4
+la mitad de 10 es 5: mitad(10) = 5
+la mitad de 10 es igual a 5
+la mitad de 20 es 10: mitad(20) = 10
+la mitad de 20 es igual a 10
+secuencia de dos en dos: 2 4 6 8 10 12 14 16 18 20
+los números de dos en dos son: 2, 4, 6, 8, 10
+secuencia de cinco en cinco: 5 10 15 20 25 30 35 40 45 50
+los números de cinco en cinco son: 5, 10, 15, 20, 25
+secuencia de diez en diez: 10 20 30 40 50 60 70 80 90 100
+los números de diez en diez son: 10, 20, 30, 40, 50, 60
+si 7 + 3 = 10 entonces 10 - 7 = 3 y 10 - 3 = 7
+si 8 + 2 = 10 entonces 10 - 8 = 2 y 10 - 2 = 8
+si 6 + 4 = 10 entonces 10 - 6 = 4 y 10 - 4 = 6
+si 5 + 3 = 8 entonces 8 - 5 = 3 y 8 - 3 = 5
+si x = 3 y y = 2 entonces x + y = 5
+si x = 3 y y = 2 , x + y = 5
+la suma de x más y es 5 si x = 3 y y = 2
+si x = 4 y y = 6 entonces x + y = 10
+si x = 4 y y = 6 , x + y = 10
+la suma de x más y es 10 si x = 4 y y = 6
+si a = 10 y b = 3 entonces a - b = 7
+si a = 10 y b = 3 , a - b = 7
+la resta de a menos b es 7 si a = 10 y b = 3
+si a = 8 y b = 5 entonces a - b = 3
+si a = 8 y b = 5 , a - b = 3
+la resta de a menos b es 3 si a = 8 y b = 5
+si x = 4 y y = 2 entonces x * y = 8
+si x = 4 y y = 2 , x * y = 8
+el producto de x por y es 8 si x = 4 y y = 2
+si x = 5 y y = 3 entonces x * y = 15
+si x = 5 y y = 3 , x * y = 15
+el producto de x por y es 15 si x = 5 y y = 3
+si x = 12 y y = 3 entonces x / y = 4
+si x = 12 y y = 3 , x / y = 4
+la división de x entre y es 4 si x = 12 y y = 3
+si x = 20 y y = 4 entonces x / y = 5
+si x = 20 y y = 4 , x / y = 5
+la división de x entre y es 5 si x = 20 y y = 4
+si x = 2 * y y y = 3 entonces x = 6
+si x = 2 * y y y = 3 , x = 6
+el valor de x es 6 si x es el doble de y cuando y vale 3
+si x = 3 * y y y = 2 entonces x = 6
+si x = 3 * y y y = 2 , x = 6
+si x = 3 * y y y = 4 entonces x = 12
+si x = 3 * y y y = 4 , x = 12
+si x = 2 * y y y = 5 entonces x = 10
+si x = 2 * y y y = 5 , x = 10
+si x > 3 y x < 5 entonces x = 4
+si x > 3 y x < 5 , x = 4
+el único número entero mayor que 3 y menor que 5 es 4
+si x > 8 y x < 10 entonces x = 9
+si x > 8 y x < 10 , x = 9
+el único número entero mayor que 8 y menor que 10 es 9
+si x > 1 y x < 3 entonces x = 2
+si x > 1 y x < 3 , x = 2
+el único número entero mayor que 1 y menor que 3 es 2
+si 2 * x + 1 = 7 entonces 2 * x = 6 y x = 3
+si 2 * x + 1 = 7 entonces x = 3
+si 2 * x + 1 = 7 , x = 3
+si 2 * x + 2 = 10 entonces 2 * x = 8 y x = 4
+si 2 * x + 2 = 10 entonces x = 4
+si 2 * x + 2 = 10 , x = 4
+si 3 * x + 1 = 10 entonces 3 * x = 9 y x = 3
+si 3 * x + 1 = 10 entonces x = 3
+si 3 * x + 1 = 10 , x = 3
+si 2 * x - 1 = 5 entonces 2 * x = 6 y x = 3
+si 2 * x - 1 = 5 entonces x = 3
+si 2 * x - 1 = 5 , x = 3
+si x + y = 10 y x = 7 entonces y = 3
+si x + y = 10 y x = 7 , y = 3
+el valor de y es 3 si x más y suman 10 y x vale 7
+si x + y = 8 y y = 2 entonces x = 6
+si x + y = 8 y y = 2 , x = 6
+el valor de x es 6 si x más y suman 8 y y vale 2
+si x - y = 4 y x = 9 entonces y = 5
+si x - y = 4 y x = 9 , y = 5
+el valor de y es 5 si la resta de x menos y es 4 y x vale 9
+La propiedad conmutativa de la suma establece que el orden de los sumandos no altera el resultado: A + B = B + A.
+La propiedad conmutativa de la multiplicación establece que el orden de los factores no altera el producto: A × B = B × A.
+La resta y la división no son operaciones conmutativas porque cambiar el orden de sus operandos altera el resultado: A - B es distinto de B - A salvo cuando A y B son iguales.
+La propiedad asociativa indica que al sumar o multiplicar tres o más números, la forma de agruparlos con paréntesis no modifica el resultado: (A + B) + C = A + (B + C).
+La propiedad distributiva conecta la multiplicación con la suma y la resta multiplicando el factor externo por cada término del paréntesis: A × (B + C) = A × B + A × C.
+El inverso aditivo u opuesto de un número A es -A, ya que la suma de ambos da el elemento neutro cero: A + (-A) = 0.
+El inverso multiplicativo o recíproco de un número distinto de cero A es 1/A, ya que su producto es igual a uno: A × (1/A) = 1.
+La división entre cero no está definida en aritmética ni en álgebra porque no existe ningún número real que multiplicado por cero produzca un dividendo distinto de cero.
+La jerarquía de operaciones matemáticas exige resolver primero los paréntesis y corchetes, en segundo lugar las potencias y raíces, en tercer lugar las multiplicaciones y divisiones de izquierda a derecha, y finalmente las sumas y restas.
+La ley de los signos en la multiplicación y división establece que el producto de dos números con el mismo signo es positivo y el producto de dos números con signos opuestos es negativo.
+Un número primo es un número entero mayor que uno que solo admite exactamente dos divisores positivos: el uno y él mismo, como 2, 3, 5, 7, 11, 13, 17, 19, 23 y 29.
+El número dos es el único número primo par que existe, porque todos los demás números pares son divisibles entre dos.
+El teorema fundamental de la aritmética demuestra que todo número entero mayor que uno es primo o puede descomponerse de manera única como producto de factores primos.
+El máximo común divisor de dos o más enteros es el mayor número entero positivo que los divide a todos de forma exacta sin dejar residuo.
+El mínimo común múltiplo de dos o más enteros es el menor múltiplo positivo común a todos ellos y sirve para sumar o restar fracciones con distinto denominador.
+Una fracción representa el cociente entre un numerador que indica cuántas partes se toman y un denominador distinto de cero que indica en cuántas partes iguales se divide la unidad.
+Para sumar dos fracciones con distinto denominador se reducen a un denominador común: (a/b) + (c/d) = (a×d + b×c) / (b×d).
+Para multiplicar dos fracciones se multiplican directamente numerador por numerador y denominador por denominador: (a/b) × (c/d) = (a×c) / (b×d).
+Para dividir dos fracciones se multiplica la primera fracción por el inverso multiplicativo de la segunda: (a/b) ÷ (c/d) = (a×d) / (b×c).
+Un porcentaje representa una fracción cuyo denominador es cien; calcular el P por ciento de una cantidad X equivale a multiplicar X por P y dividir entre 100.
+La regla de tres simple inversa se aplica cuando al aumentar una magnitud la otra disminuye en la misma proporción, como la velocidad y el tiempo necesario para recorrer una distancia fija: X = (A × B) / C.
+Para despejar una incógnita en una ecuación algebraica lineal se aplica la operación inversa a ambos lados de la igualdad manteniendo el equilibrio: lo que suma pasa restando y lo que multiplica pasa dividiendo.
+Una ecuación cuadrática o de segundo grado tiene la forma general a×x² + b×x + c = 0 y sus raíces se calculan mediante la fórmula general x = (-b ± √(b² - 4ac)) / (2a).
+El discriminante de una ecuación cuadrática es Δ = b² - 4ac: si es positivo existen dos soluciones reales distintas, si es cero existe una raíz real doble y si es negativo las raíces son complejas conjugadas.
+El binomio al cuadrado es un producto notable cuya expansión algebraica es (a + b)² = a² + 2ab + b².
+La diferencia de cuadrados es una identidad algebraica que se factoriza exactamente como el producto de una suma por una diferencia: a² - b² = (a + b) × (a - b).
+Las leyes de los exponentes establecen que al multiplicar potencias de la misma base se suman los exponentes (a^m × a^n = a^(m+n)) y al dividirlas se restan los exponentes (a^m / a^n = a^(m-n)).
+Todo número distinto de cero elevado al exponente cero es igual a uno (a^0 = 1), y un exponente negativo representa el inverso de la potencia positiva (a^(-n) = 1 / a^n).
+El logaritmo en base b de un número positivo x es el exponente al que se debe elevar la base b para obtener x: log_b(x) = y significa que b^y = x.
+El teorema de Pitágoras establece que en todo triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los dos catetos: c² = a² + b².
+El área de un rectángulo es igual al producto de su base por su altura (A = b × h), y su perímetro es el doble de la suma de su base más su altura (P = 2b + 2h).
+El área de un triángulo es igual a la mitad del producto de su base por su altura perpendicular: A = (b × h) / 2.
+La suma de los tres ángulos interiores de cualquier triángulo en geometría plana euclidiana es siempre igual a 180 grados o π radianes.
+La longitud de una circunferencia de radio r es L = 2 × π × r, y el área encerrada por el círculo es A = π × r², donde π vale aproximadamente 3,14159.
+El volumen de un cubo de arista L es V = L³, el volumen de un cilindro es V = π × r² × h y el volumen de una esfera de radio r es V = (4/3) × π × r³.
+En un triángulo rectángulo, el seno de un ángulo agudo es el cateto opuesto dividido entre la hipotenusa, el coseno es el cateto adyacente entre la hipotenusa y la tangente es el cateto opuesto entre el cateto adyacente.
+La identidad trigonométrica pitagórica fundamental establece que para cualquier ángulo θ se cumple sen²(θ) + cos²(θ) = 1.
+La pendiente m de una recta que pasa por dos puntos (x1, y1) y (x2, y2) mide su inclinación y se calcula como m = (y2 - y1) / (x2 - x1).
+La distancia euclidiana entre dos puntos en el espacio tridimensional (x1, y1, z1) y (x2, y2, z2) se calcula como d = √((x2 - x1)² + (y2 - y1)² + (z2 - z1)²).
+El producto punto o escalar de dos vectores mide su alineación direccional, y la similitud coseno divide ese producto punto entre el producto de sus magnitudes produciendo un valor entre -1 y +1.
+La derivada de una función en cálculo diferencial mide la tasa de cambio instantánea de una magnitud respecto a otra y representa geométricamente la pendiente de la recta tangente.
+La integral definida en cálculo acumula cantidades infinitesimales continuas y representa el área neta bajo la curva de una función en un intervalo cerrado.
+El teorema fundamental del cálculo demuestra que la derivación y la integración son operaciones inversas entre sí.
+La probabilidad matemática de un evento mide su posibilidad de ocurrencia en una escala de 0 (evento imposible) a 1 (evento seguro).
+El teorema de Bayes calcula la probabilidad condicional posterior de una hipótesis H dada una nueva evidencia E mediante la fórmula P(H|E) = P(E|H) × P(H) / P(E). Sirve para actualizar creencias de forma racional conforme llegan datos nuevos.
+La media aritmética o promedio de un conjunto de datos se obtiene sumando todos los valores y dividiendo el total entre la cantidad de elementos.
+La mediana es el valor central de un conjunto de datos ordenados de menor a mayor, y es más robusta que el promedio frente a valores extremos atípicos.
+La desviación estándar cuantifica qué tan dispersos o alejados están los datos respecto a su media aritmética.
+¿Cómo se resuelve un problema de velocidad, distancia y tiempo? | En movimiento rectilíneo uniforme la distancia es igual a la velocidad multiplicada por el tiempo (d = v × t); por tanto la velocidad es v = d / t y el tiempo es t = d / v.
+¿Cómo se calcula el precio final tras aplicar un descuento porcentual? | Si un artículo cuesta P y tiene un descuento del D por ciento, el ahorro es P × (D / 100) y el precio final a pagar es P × (1 - D / 100).
+¿Cuál es la fórmula para calcular el área de un triángulo? | La fórmula para calcular el área de un triángulo es A = 1/2 * base * altura.
+En teoría de conjuntos, la unión A ∪ B contiene todos los elementos que pertenecen a A, a B o a ambos conjuntos.
+En teoría de conjuntos, la intersección A ∩ B contiene únicamente los elementos que pertenecen simultáneamente tanto a A como a B.
+El conjunto vacío ∅ es el único conjunto matemático que carece de elementos y es subconjunto de cualquier otro conjunto.
+En lógica proposicional, la conjunción (P ∧ Q) solo es verdadera cuando ambas proposiciones P y Q son verdaderas al mismo tiempo.
+En lógica proposicional, la disyunción inclusiva (P ∨ Q) es verdadera cuando al menos una de las dos proposiciones es verdadera, y solo es falsa cuando ambas son falsas.
+Las leyes de De Morgan establecen que la negación de una conjunción equivale a la disyunción de las negaciones ¬(P ∧ Q) ≡ (¬P ∨ ¬Q), y la negación de una disyunción equivale a la conjunción de las negaciones ¬(P ∨ Q) ≡ (¬P ∧ ¬Q).
+El principio de modus ponens es la regla de inferencia deductiva según la cual, si se sabe que P implica Q (P → Q) y se confirma que P es verdadero, entonces necesariamente Q es verdadero.
+El principio de modus tollens establece que si P implica Q (P → Q) y se observa que Q es falso (¬Q), entonces necesariamente P también es falso (¬P).
+Una progresión aritmética es una sucesión numérica en la que cada término se obtiene sumando una diferencia constante d al anterior: a_n = a_1 + (n - 1) × d.
+La suma de los primeros n números enteros positivos consecutivos (1 + 2 + 3 + ... + n) se calcula con la fórmula de Gauss: S = n × (n + 1) / 2.
+Una progresión geométrica es una sucesión en la que cada término se obtiene multiplicando el anterior por una razón constante r: a_n = a_1 × r^(n - 1).
+El factorial de un entero positivo n (escrito n!) es el producto de todos los enteros positivos desde 1 hasta n, y cuenta cuántas permutaciones ordenadas distintas tienen n elementos; por definición 0! = 1.
+Las permutaciones importan el orden de los elementos (como una clave o podio), mientras que en las combinaciones C(n, k) = n! / (k! × (n - k)!) no importa el orden en que se eligen los elementos.
+En interés simple el rendimiento se calcula siempre sobre el capital inicial C: I = C × r × t; en interés compuesto los intereses se reinvierten en cada período creciendo exponencialmente: M = C × (1 + r)^t.
+Un sistema de dos ecuaciones lineales con dos incógnitas (x, y) representa geométricamente dos rectas en el plano: si se cortan en un punto tiene solución única, si son paralelas distintas no tiene solución y si coinciden tiene infinitas soluciones.
+Una matriz cuadrada A posee matriz inversa A^(-1) sí y solo si su determinante det(A) es distinto de cero.
+Un polígono regular tiene todos sus lados de igual longitud y todos sus ángulos interiores congruentes: el de 3 lados es el triángulo equilátero, el de 4 es el cuadrado, el de 5 es el pentágono regular y el de 6 es el hexágono regular.
+La suma de los ángulos interiores de cualquier polígono convexo de n lados se calcula con la fórmula exacta S = (n - 2) × 180 grados.
+Dos triángulos son semejantes cuando tienen sus tres ángulos respectivamente iguales y sus lados homólogos proporcionales, principio que permite medir la altura de edificios o árboles usando la longitud de su sombra (teorema de Tales).
+En un sistema de coordenadas cartesianas bidimensional, el eje horizontal X se denomina eje de las abscisas y el eje vertical Y se denomina eje de las ordenadas; ambos se cruzan perpendicularmente en el origen (0, 0).
+Los números racionales son todos aquellos que pueden expresarse como el cociente exacto p/q de dos números enteros con denominador q distinto de cero; incluyen a los enteros y a los decimales exactos o periódicos.
+Los números irracionales como √2, el número π (pi) y el número de Euler e poseen infinitas cifras decimales no periódicas y no pueden escribirse como fracción de dos enteros.
+El valor absoluto |x| de un número real representa su distancia geométrica al cero sobre la recta numérica, por lo que nunca es negativo: |-7| = 7 y |7| = 7.
+En álgebra simbólica, los términos semejantes son aquellos monomios que tienen exactamente las mismas variables elevadas a los mismos exponentes; se reducen sumando o restando sus coeficientes numéricos: ax + bx = (a + b)x.
+Para simplificar un polinomio multivariable como 3x + 5y - 2x + 8 - 3y - 4, se agrupan por separado las variables iguales y las constantes: (3 - 2)x + (5 - 3)y + (8 - 4) = x + 2y + 4.
+La propiedad distributiva del producto sobre la suma establece que a(b + c) = ab + ac y permite expandir paréntesis en expresiones algebraicas.
+Un polinomio cuadrático o de segundo grado tiene la forma general ax² + bx + c con a ≠ 0; su discriminante es Δ = b² - 4ac.
+La fórmula cuadrática general halla las raíces exactas de ax² + bx + c = 0 mediante x = (-b ± √(b² - 4ac)) / (2a): si Δ > 0 hay dos raíces reales distintas, si Δ = 0 hay una raíz real doble y si Δ < 0 las raíces son complejas conjugadas.
+Para factorizar un trinomio cuadrático mónico x² + bx + c se buscan dos números p y q tales que p + q = b y p × q = c, obteniendo (x + p)(x + q); por ejemplo, x² - 7x + 12 = (x - 3)(x - 4) porque (-3) + (-4) = -7 y (-3)(-4) = 12.
+Los productos notables fundamentales del álgebra son el binomio al cuadrado (a + b)² = a² + 2ab + b², (a - b)² = a² - 2ab + b², y la diferencia de cuadrados a² - b² = (a - b)(a + b).
+Las leyes de los exponentes establecen que al multiplicar potencias de igual base se suman los exponentes (x^m · x^n = x^(m+n)), al dividirlas se restan (x^m / x^n = x^(m-n)) y en potencia de una potencia se multiplican ((x^m)^n = x^(m·n)).
+Para resolver un sistema lineal de dos ecuaciones con dos incógnitas (a₁x + b₁y = c₁ y a₂x + b₂y = c₂) por la regla de Cramer o eliminación, el determinante principal es D = a₁b₂ - a₂b₁; si D ≠ 0 existe solución única x = (c₁b₂ - c₂b₁)/D, y = (a₁c₂ - a₂c₁)/D.
+Para calcular la edad de una persona a partir de su año de nacimiento y el año actual se resta el año de nacimiento al año actual: Edad = Año_actual - Año_nacimiento (restando 1 si aún no ha llegado el día de su cumpleaños en el año en curso).

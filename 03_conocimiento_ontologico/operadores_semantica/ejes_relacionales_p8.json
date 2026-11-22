@@ -1,0 +1,371 @@
+{
+  "version": "1.0-P8",
+  "descripcion": "Ontologia declarativa monosemica de tercer nivel (14 diadas relacionales, topologicas, cuantitativas y de fase = 28 operadores P8, mas 7 pares bipolares macro). Auditada sobre las 13.683 palabras de corpus limpios con 0 falsos positivos morfologicos y 0 colisiones bipolares simultaneas. Cero contacto con corpus 2.0.",
+  "pares_macro_bipolares": [
+    ["EXCESO_SOBRECARGA", "DEFICIT_ESCASEZ"],
+    ["AUMENTO_EXPANSION", "REDUCCION_CONTRACCION"],
+    ["BLOQUEO_CIERRE", "APERTURA_LIBERACION"],
+    ["DEGRADACION_AVERIA", "REPARACION_RENOVACION"],
+    ["DIVISION_MODULARIDAD", "AGREGACION_CONCENTRACION"],
+    ["CATALISIS_FACILITACION", "FRICCION_COSTE_RESISTENCIA"],
+    ["AISLAMIENTO_DESACOPLE", "INTERCAMBIO_COBERTURA"]
+  ],
+  "diadas": [
+    {
+      "id_diada": "FLUJO_FRONTERA_ESPACIAL",
+      "polo_a": {
+        "nombre": "REL_ADMISION_ENTRADA_INTERIOR",
+        "definicion": "Ingreso, captacion, absorcion o confinamiento hacia el interior de un compartimento o sistema.",
+        "prefijos": [
+          "entrad", "ingres", "admision", "admit", "aspirac", "inhal", "absorc", "absorb",
+          "adsorc", "adsorb", "endocit", "importac", "recaudac", "captac", "interior",
+          "adentr", "citosol", "intracelul", "sumerg", "inmers", "inmerg",
+          "inyect", "inyecc", "alimentac", "abastec", "recepc", "reclut", "incorpor"
+        ],
+        "palabras_exactas": ["entra", "entran", "entrar", "dentro", "interno", "interna", "internos", "internas"]
+      },
+      "polo_b": {
+        "nombre": "REL_EXPULSION_SALIDA_EXTERIOR",
+        "definicion": "Evacuacion, secrecion, drenaje, emision o expulsion a traves de la frontera exterior.",
+        "prefijos": [
+          "salid", "exterior", "afuer", "vente", "excrec", "excret", "secret",
+          "segreg", "expuls", "evacu", "emision", "emit", "desagu", "drenaj", "dren",
+          "exportac", "reembols", "desemboc", "periferi", "envoltur",
+          "carcas", "cortez", "epiteli", "membran", "recubrim", "revestim",
+          "transpir", "sudor", "verteder", "escape", "fuga", "abandon"
+        ],
+        "palabras_exactas": ["sale", "salen", "salir", "fuera", "piel", "capa", "capas", "chapa"]
+      }
+    },
+    {
+      "id_diada": "ESCALA_MAGNITUD_RELATIVA",
+      "polo_a": {
+        "nombre": "REL_ESCALA_MINIMA_TRAZA_UNICO",
+        "definicion": "Magnitud infima, dosis traza, elemento singular o perturbacion de baja amplitud.",
+        "prefijos": [
+          "pequen", "minuscul", "diminut", "minim", "infim", "insignificant",
+          "tenu", "debil", "estrech", "angost", "liger", "livian", "centim",
+          "minoritari", "escas", "exigu", "microscop", "micrometr", "nano", "chisp",
+          "puntual", "sutil", "modest", "fraccion"
+        ],
+        "palabras_exactas": [
+          "unico", "unica", "solo", "sola", "gota", "gotas", "poco", "poca",
+          "pocos", "pocas", "baja", "bajo", "leve", "leves", "menor", "menores",
+          "uno", "una", "traza", "trazas"
+        ]
+      },
+      "polo_b": {
+        "nombre": "REL_ESCALA_MASIVA_MULTIPLO_ALTA",
+        "definicion": "Magnitud masiva, gran escala, multiplo elevado o intensidad macroscopica.",
+        "prefijos": [
+          "grand", "enorm", "masiv", "maxim", "suprem", "pesad", "anch", "fuerte",
+          "intens", "potenci", "elevad", "millon", "centenar", "abundant",
+          "copios", "gigant", "inmens", "multitud", "enjambre", "avalanch"
+        ],
+        "palabras_exactas": [
+          "alta", "alto", "altas", "altos", "mayor", "mayores", "miles", "mil",
+          "cientos", "decena", "decenas", "mucho", "mucha", "muchos", "muchas",
+          "pleno", "plena", "gran", "largo", "larga"
+        ]
+      }
+    },
+    {
+      "id_diada": "METRICA_CONTEO_VS_GRADIENTE",
+      "polo_a": {
+        "nombre": "REL_CONTEO_QUORUM_DISCRETO",
+        "definicion": "Conteo entero, quorum discreto, votacion, repeticiones contadas o proporcion cardinal.",
+        "prefijos": [
+          "contad", "conteo", "cuantific", "quorum", "votac", "mayori", "porcentaj",
+          "proporc", "cocient", "intent", "repetid", "consecutiv", "seguid",
+          "multipl", "doble", "tripl", "cuadrupl", "veint", "treint",
+          "cuarent", "cincuent", "sesent", "setent", "ochent", "novent"
+        ],
+        "palabras_exactas": [
+          "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez",
+          "cien", "veces", "voto", "votos", "numero", "numeros"
+        ]
+      },
+      "polo_b": {
+        "nombre": "REL_GRADIENTE_DENSIDAD_CONTINUA",
+        "definicion": "Magnitud intensiva continua: presion, temperatura, concentracion, densidad o potencial.",
+        "prefijos": [
+          "gradient", "concentrac", "densid", "pendient", "inclinad", "viscos",
+          "fluenci", "temperatur", "voltaj", "osmolar", "acidez", "salinid",
+          "humedad", "caudal", "altitud", "profundid", "presion", "calor", "termic"
+        ],
+        "palabras_exactas": ["nivel", "niveles", "cota", "cotas", "grado", "grados", "dosis"]
+      }
+    },
+    {
+      "id_diada": "SIMETRIA_INTERACCION",
+      "polo_a": {
+        "nombre": "REL_SINCRONIA_IGUALDAD_CONSENSO",
+        "definicion": "Acoplamiento simetrico, reciprocidad mutua, consenso bilateral o sincronia en fase.",
+        "prefijos": [
+          "sincroniz", "sincronic", "unison", "igual", "identic", "mutu", "reciproc",
+          "bilateral", "consens", "coordin", "armoniz", "replic", "simetric",
+          "equival", "compart", "conjunt", "cooper", "arbitraj", "sindicat"
+        ],
+        "palabras_exactas": ["mismo", "misma", "mismos", "mismas", "par", "ambos", "ambas", "juntos", "juntas", "comun"]
+      },
+      "polo_b": {
+        "nombre": "REL_ASIMETRIA_ARRASTRE_SUBSIDIO",
+        "definicion": "Relacion unilateral asimetrica de arrastre, subordinacion, subsidio o imposicion.",
+        "prefijos": [
+          "asimetric", "unilateral", "subsidi", "arrastr", "induc", "inductiv",
+          "forzand", "oblig", "subordin", "dependient", "predomin", "dominan", "dominad",
+          "repercut", "traslad", "impon"
+        ],
+        "palabras_exactas": ["fuerza", "forza"]
+      }
+    },
+    {
+      "id_diada": "MEDIO_ACOPLAMIENTO_VS_CANJE",
+      "polo_a": {
+        "nombre": "REL_CONTACTO_ACOPLAMIENTO_INTERFAZ",
+        "definicion": "Enlace fisico directo, interfaz mecanica/sinaptica, puente estructural o nodo de conexion.",
+        "prefijos": [
+          "contact", "acopl", "sinaps", "sinaptic", "conexion", "conect", "engranaj",
+          "embragu", "articulac", "puent", "enlac", "enlaz", "vincul", "adher",
+          "adhes", "anclaj", "fijac", "interfaz", "interruptor", "microinterruptor",
+          "contactor", "rele", "rotor", "biela", "pinon", "dentad"
+        ],
+        "palabras_exactas": ["union", "eje", "ejes", "nodos", "nodo"]
+      },
+      "polo_b": {
+        "nombre": "REL_CANJE_CONVERSION_TRANSACCION",
+        "definicion": "Transferencia contractual, canje de valor, colateral, prima o liquidacion de pasivos.",
+        "prefijos": [
+          "canje", "intercambi", "convertibl", "entreg", "transfier", "transfer",
+          "traspas", "reestructur", "refinanci", "descuent", "amortiz", "liquidac",
+          "liquidez", "fianz", "colateral", "hipotec", "arrend", "contrat", "suscrip",
+          "suscrib", "adquisic", "bonific", "impositiv", "fiscal"
+        ],
+        "palabras_exactas": [
+          "cambio", "prima", "primas", "bono", "bonos", "cuota", "cuotas",
+          "deuda", "deudas", "credito", "creditos", "pago", "pagos", "venta", "ventas", "compra", "compras"
+        ]
+      }
+    },
+    {
+      "id_diada": "CONMUTACION_VS_PERMANENCIA",
+      "polo_a": {
+        "nombre": "REL_CONMUTACION_INVERSION_TRANSICION",
+        "definicion": "Inversion de signo/estado, conmutacion brusca, ignicion o transicion de regimen.",
+        "prefijos": [
+          "conmut", "inviert", "invert", "inversion", "invers", "despolariz",
+          "hiperpolariz", "desinhib", "autoenciend", "autoignic", "ignicion",
+          "enciend", "encendid", "arranc", "arranqu", "transicion", "bascul",
+          "oscurec", "despiert", "despert", "altera", "modific", "mutac", "cambi"
+        ],
+        "palabras_exactas": ["salta", "saltan", "salto", "vira", "giro"]
+      },
+      "polo_b": {
+        "nombre": "REL_CONSERVACION_PERMANENCIA_RESTO",
+        "definicion": "Retencion estacionaria, permanencia basal, custodia invariante o conservacion del remanente.",
+        "prefijos": [
+          "mantien", "manten", "conserv", "preserv", "permanec", "restant",
+          "calibrad", "basal", "repos", "estatic", "inmovil", "constant",
+          "sostien", "sosten", "custodi", "depositad", "retenid", "reten"
+        ],
+        "palabras_exactas": ["queda", "quedan", "quedar", "resto", "fijo", "fija"]
+      }
+    },
+    {
+      "id_diada": "MODO_MECANICO_ROTURA_VS_FLEXION",
+      "polo_a": {
+        "nombre": "REL_FRACTURA_DESALINEACION_FALLO",
+        "definicion": "Rotura fragil, cizalla, perforacion, fisura o colapso estructural.",
+        "prefijos": [
+          "fractur", "quiebr", "quebr", "romp", "rotur", "ruptur", "cizall",
+          "perfor", "estall", "fisur", "microfisur", "griet", "desgarr", "colaps",
+          "desplom", "hundim", "demolic", "petarde", "desaline", "averi", "fision"
+        ],
+        "palabras_exactas": ["roto", "rota", "fallo", "fallos", "fallan", "falla"]
+      },
+      "polo_b": {
+        "nombre": "REL_FLEXION_ELASTICIDAD_AMORTIGUACION",
+        "definicion": "Deformacion complaciente, plegado, arqueo, elongacion o compresion de muelle.",
+        "prefijos": [
+          "plieg", "pleg", "arque", "dobl", "flexion", "estir", "elong",
+          "retra", "retracc", "encog", "dilat", "hinch", "comprim", "aplast",
+          "muell", "resort", "bimetal", "diafragm", "amortigu", "elastic"
+        ],
+        "palabras_exactas": ["cede", "ceden", "curva", "arco"]
+      }
+    },
+    {
+      "id_diada": "HORIZONTE_DEMORA_VS_PULSO",
+      "polo_a": {
+        "nombre": "REL_ACUMULACION_DEMORA_ANTERIOR",
+        "definicion": "Horizonte temporal acumulado, historial previo, vencimiento diferido o mora.",
+        "prefijos": [
+          "transcurr", "vencimient", "envejec", "historial", "antiguedad", "continuad",
+          "prolongad", "sostenid", "demor", "retras", "moros", "acumul",
+          "anterior", "previ", "pasad", "antigu", "madur", "mensual", "anual"
+        ],
+        "palabras_exactas": [
+          "hora", "horas", "dia", "dias", "semana", "semanas", "mes", "meses",
+          "ano", "anos", "mora", "plazo", "plazos", "antes", "tarde"
+        ]
+      },
+      "polo_b": {
+        "nombre": "REL_PULSO_INSTANTE_INMEDIATO",
+        "definicion": "Evento puntual de milisegundos, choque instantaneo o pulso inmediato.",
+        "prefijos": [
+          "milisegund", "microsegund", "instant", "inmediat", "latid", "destell",
+          "colision", "impact", "choqu", "rafag", "subit", "brusc", "repentin",
+          "relampag", "adelant", "recient"
+        ],
+        "palabras_exactas": [
+          "segundo", "segundos", "ciclo", "ciclos", "pulso", "golpe", "golpes",
+          "pronto", "nuevo", "nueva", "nuevos", "nuevas"
+        ]
+      }
+    },
+    {
+      "id_diada": "MODALIDAD_DEONTICA_OMISION_VS_VERIFICACION",
+      "polo_a": {
+        "nombre": "REL_NEGACION_INCUMPLIMIENTO_OMISION",
+        "definicion": "Ausencia, omision, impago, prohibicion, carencia o incumplimiento de condicion.",
+        "prefijos": [
+          "ausenci", "omision", "omit", "incumpl", "impag", "fallid", "iliquid",
+          "irrepar", "indefens", "incapaz", "imposibl", "inviabl",
+          "prohib", "suspens", "desprovist", "carent", "carenc", "inactiv",
+          "prescindibl", "perdida", "perdid", "falso", "falsa", "esceptic"
+        ],
+        "palabras_exactas": ["sin", "nunca", "jamas", "falta", "faltan", "veta", "veto", "nulo", "nula"]
+      },
+      "polo_b": {
+        "nombre": "REL_VERIFICACION_OBLIGACION_REQUISITO",
+        "definicion": "Autenticacion, auditoria, requisito vinculante, credencial o validacion formal.",
+        "prefijos": [
+          "identificac", "verific", "validac", "confirm", "aprueb", "aprob",
+          "exigid", "exigenc", "obligatori", "vinculant", "requisit",
+          "estatut", "credencial", "reconoc", "certific", "autoriz", "habilit",
+          "auditor", "inspecc", "oficial"
+        ],
+        "palabras_exactas": ["clave", "pin", "regla", "norma", "ley", "junta", "comite", "consejo"]
+      }
+    },
+    {
+      "id_diada": "JERARQUIA_NUCLEO_VS_PERIFERIA",
+      "polo_a": {
+        "nombre": "REL_NUCLEO_PRINCIPAL_TOTALIDAD",
+        "definicion": "Nucleo vital, sistema matriz, tronco principal o totalidad del organismo/red.",
+        "prefijos": [
+          "principal", "central", "primari", "esencial", "troncal", "maestr",
+          "soberan", "organism", "sistem", "corporac", "patrimoni", "general",
+          "global", "matriz", "totalid", "complet", "lider"
+        ],
+        "palabras_exactas": ["vital", "vitales", "flota", "todo", "toda", "todos", "todas", "entero", "entera", "enteros", "enteras"]
+      },
+      "polo_b": {
+        "nombre": "REL_AUXILIAR_PERIFERICO_PARTE",
+        "definicion": "Rama secundaria, modulo auxiliar/suplente, filial periferica o remanente parcial.",
+        "prefijos": [
+          "secundari", "auxiliar", "suplent", "periferic", "filial", "sucursal",
+          "adicional", "remanent", "sobrant", "excedent", "accesori", "marginal",
+          "especulativ", "parcial", "localiz", "porcion", "seguidor", "subconjunt", "apendic"
+        ],
+        "palabras_exactas": ["rama", "ramas", "hilo", "hilos", "socio", "socios", "anexo", "anexos"]
+      }
+    },
+    {
+      "id_diada": "CINEMATICA_TASA_VS_GEOMETRIA",
+      "polo_a": {
+        "nombre": "REL_RITMO_VELOCIDAD_TIEMPO",
+        "definicion": "Parametro cinemático de velocidad, cadencia, tasa temporal, latencia o periodo.",
+        "prefijos": [
+          "velocid", "ritm", "cadenci", "tardanz", "tiemp", "latenci", "durac",
+          "rapidez", "lentitud", "celerid", "turn", "frecuenci", "period",
+          "esprint", "migrac", "duplicac", "resintes"
+        ],
+        "palabras_exactas": ["tasa", "tasas", "fase", "fases", "etapa", "etapas"]
+      },
+      "polo_b": {
+        "nombre": "REL_APERTURA_GEOMETRIA_CAPACIDAD",
+        "definicion": "Parametro geometrico de seccion transversal, diametro, porosidad o capacidad volumetrica.",
+        "prefijos": [
+          "diametr", "orifici", "boquill", "seccion", "calibr", "conducto",
+          "gargant", "estrecham", "estrangul", "taman", "volumen",
+          "capacid", "espaci", "superfici", "anchur", "grosor", "espesor",
+          "poros", "porosid", "almacen", "recint", "envas"
+        ],
+        "palabras_exactas": ["poro", "boca", "hueco", "aforo", "cupo"]
+      }
+    },
+    {
+      "id_diada": "ESPECTRO_FLUCTUACION_VS_SUAVIZADO",
+      "polo_a": {
+        "nombre": "REL_OSCILACION_TRANSITORIO_RUIDO",
+        "definicion": "Fluctuacion de alta frecuencia, turbulencia, ruido transitorio o vibracion alternante.",
+        "prefijos": [
+          "oscil", "vibr", "ondul", "fluctu", "transitori", "intermitent",
+          "altern", "pulsac", "perturb", "turbulen", "inestabl", "volatil",
+          "variac", "rumor", "sacud", "temblor"
+        ],
+        "palabras_exactas": ["ondas", "onda", "ruido", "ruidos", "picos", "pico", "bache", "baches"]
+      },
+      "polo_b": {
+        "nombre": "REL_SUAVIZADO_ESTACIONARIO_PROMEDIO",
+        "definicion": "Filtrado de media movil, flujo laminar estacionario, homogenizacion o regularidad plana.",
+        "prefijos": [
+          "suaviz", "promedi", "estacionari", "uniform", "homogen",
+          "regulariz", "estabiliz", "continu", "persistent",
+          "constanc", "equilibr", "lineal", "laminar"
+        ],
+        "palabras_exactas": ["plana", "plano", "firme", "estable"]
+      }
+    },
+    {
+      "id_diada": "INTEGRIDAD_IMPUREZA_VS_CONFORMIDAD",
+      "polo_a": {
+        "nombre": "REL_IMPUREZA_DEFECTO_INSOLVENCIA",
+        "definicion": "Contaminacion, toxina, defecto patologico, insolvencia, fraude o deterioro residual.",
+        "prefijos": [
+          "impurez", "sucied", "contamin", "deform", "danad", "defectu",
+          "insolven", "incobrabl", "deficitari", "patolog", "sospechos",
+          "atipic", "toxin", "toxic", "venen", "escori", "turbid", "arenisc",
+          "hollin", "residu", "desech", "basur", "corrupt", "fraud", "erron",
+          "malig", "infect", "viej", "obsolet", "desgast"
+        ],
+        "palabras_exactas": ["malo", "mala", "malas", "malos", "sucio", "sucia"]
+      },
+      "polo_b": {
+        "nombre": "REL_PUREZA_CONFORMIDAD_SOLVENCIA",
+        "definicion": "Pureza verificada, solvencia sana, inocuidad, autotolerancia o aptitud integra.",
+        "prefijos": [
+          "purific", "limpi", "transparent", "potabl", "solven", "conform",
+          "saludabl", "intact", "integr", "autentic", "legitim", "inocu",
+          "autotoler", "fresc", "optim", "cualific", "fiabl", "confiabl"
+        ],
+        "palabras_exactas": ["puro", "pura", "sano", "sana", "sanos", "sanas", "limpio", "limpia", "util", "apto", "apta"]
+      }
+    },
+    {
+      "id_diada": "ESPECIFICIDAD_ESCALON_VS_LLAVE",
+      "polo_a": {
+        "nombre": "REL_CLASIFICACION_ESCALON_PRIORIDAD",
+        "definicion": "Estratificacion por tramos, prioridad jerarquica, tarifa graduada o adjudicacion por lotes.",
+        "prefijos": [
+          "clasific", "calific", "escalon", "gradu", "segment", "categor",
+          "jerarqu", "priorid", "prioriz", "ordenam", "puntuac",
+          "ranking", "tarif", "diferenci", "estrato", "estratific", "repart",
+          "asign", "adjudic", "prorrate"
+        ],
+        "palabras_exactas": ["nota", "notas", "rango", "rangos", "tramo", "tramos", "lote", "lotes"]
+      },
+      "polo_b": {
+        "nombre": "REL_COMPLEMENTARIEDAD_EXCLUSIVA_LLAVE",
+        "definicion": "Reconocimiento complementario exclusivo 1-a-1 tipo llave-cerradura o bolsillo especifico.",
+        "prefijos": [
+          "complementari", "especific", "unicament", "exclusiv", "bolsill",
+          "cerradur", "encaj", "exact", "selectiv", "individual",
+          "dedicad", "particular", "afinidad", "antigen", "anticuerp"
+        ],
+        "palabras_exactas": ["llave", "propio", "propia", "propios", "propias"]
+      }
+    }
+  ]
+}

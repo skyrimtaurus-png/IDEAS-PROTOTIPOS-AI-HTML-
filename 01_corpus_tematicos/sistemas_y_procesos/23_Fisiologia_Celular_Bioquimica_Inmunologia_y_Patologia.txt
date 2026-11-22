@@ -1,0 +1,265 @@
+El sistema neuroendocrino mantiene la homeostasis orgánica ante fluctuaciones térmicas y metabólicas del entorno mediante bucles de retroalimentación negativa que estabilizan las constantes vitales.
+El organismo sufre una ruptura irreversible de la homeostasis fisiológica ante un shock distributivo descompensado mediante el colapso multiorgánico provocado por acidosis metabólica generalizada.
+El hipotálamo regula la homeostasis de la glucemia ante la ingesta de hidratos de carbono mediante la secreción coordinada de insulina pancreática para almacenar el exceso de glucosa.
+La pérdida progresiva de la homeostasis hídrica deshidrata el medio extracelular ante pérdidas continuadas de electrolitos mediante una elevación crítica de la osmolaridad plasmática.
+Los barorreceptores carotídeos restauran la homeostasis de la presión arterial ante bipedestaciones súbitas mediante ajustes reflejos de la frecuencia cardíaca y tono vascular.
+La descompensación crónica de la homeostasis del calcio induce resorción ósea masiva ante hipocalcemias no corregidas mediante la secreción sostenida de hormona paratiroidea.
+El endotelio vascular modula la homeostasis hemostática ante fuerzas de cizallamiento hidrodinámico mediante la síntesis basal de prostaciclina y óxido nítrico antiagregante.
+La quiebra de la homeostasis térmica sobreviene ante el golpe de calor severo mediante la desnaturalización masiva de proteínas celulares por hipertermia superior a cuarenta y dos grados.
+El riñón preserva la homeostasis ácido-base ante sobrecargas ácidas del metabolismo celular mediante la secreción activa de protones y la reabsorción neta de bicarbonato.
+El fracaso de la homeostasis celular acelera el envejecimiento tisular ante estrés oxidativo no compensado mediante la acumulación progresiva de radicales libres no neutralizados.
+El agua difunde por ósmosis transmembrana a través de las acuaporinas ante gradientes de concentración de solutos impermeables para equilibrar el potencial químico a ambos lados de la bicapa lipídica.
+El eritrocito experimenta lisis osmótica irreversible ante la inmersión en una solución marcadamente hipotónica mediante la entrada masiva de agua que estalla la membrana plasmática.
+La célula epitelial renal previene la crenación osmótica ante fluidos intersticiales hipertónicos mediante la acumulación intracelular compensatoria de osmolitos orgánicos neutros.
+La presión oncótica plasmática ejercida por la albúmina contrarresta la filtración hidrostática capilar ante gradientes de Starling mediante atracción osmótica que reabsorbe el líquido tisular.
+El edema tisular agudo sobreviene ante hipoalbuminemias severas mediante el descenso de la presión coloidosmótica que favorece la acumulación anormal de agua en el intersticio.
+La pared celular de las bacterias resiste la elevada presión de turgencia osmótica interna ante medios acuosos diluidos mediante la rigidez estructural de su malla de peptidoglicano.
+La rotura de la barrera osmótica celular sobreviene ante toxinas formadoras de poros transmembrana mediante la entrada descontrolada de iones sodio y calcio que hinchan la célula.
+El flujo neto osmótico se anula de forma reversible ante el equilibrio isotónico exacto de osmolaridades entre el citosol y el medio extracelular sin variaciones de volumen.
+La deshidratación osmótica neuronal acontece ante estados de hiperosmolaridad hiperglucémica grave mediante la salida brusca de agua intracelular hacia el espacio intravascular.
+Las células vegetales generan turgencia mecánica indispensable para el sostén de tallos herbáceos mediante la absorción osmótica de agua almacenada en su vacuola central.
+La vesícula secretora ejecuta la exocitosis regulada de neurotransmisores ante la elevación del calcio citosólico mediante el ensamblaje en cremallera del complejo proteico SNARE transmembrana.
+La toxina botulínica bloquea de forma irreversible la exocitosis colinérgica en la placa motora terminal ante la escisión enzimática de las proteínas sinaptobrevina y SNAP-25 causando parálisis flácida.
+La célula beta pancreática libera insulina mediante exocitosis pulsátil ante la entrada de glucosa y aumento del ratio ATP sobre ADP que despolariza la membrana plasmática.
+El mastocito desgranula histamina mediante exocitosis masiva anafiláctica ante el entrecruzamiento de receptores Fc de inmunoglobulina E por alérgenos específicos desencadenando vasodilatación.
+La vía de exocitosis constitutiva suministra lípidos y proteínas estructurales a la membrana plasmática ante el crecimiento celular continuo mediante vesículas que no requieren señal inductora externa.
+El fallo en el reciclaje de membrana por endocitosis posterior a la exocitosis agota las vesículas sinápticas ante estimulaciones de alta frecuencia mediante parálisis de la transmisión nerviosa.
+La sinaptotagmina actúa como sensor molecular de calcio en la exocitosis rápida ante la unión de cationes divalentes mediante la facilitación de la fusión lipídica de la vesícula con la membrana diana.
+La acumulación de vesículas no fusionadas en el citoplasma ocurre ante mutaciones genéticas en proteínas Rab efectoras mediante la interrupción del tráfico vesicular hacia la corteza celular.
+La secreción exocítica de enzimas digestivas en el páncreas exocrino vierte zimógenos al conducto pancreático ante el estímulo hormonal de la colecistoquinina duodenal.
+La inhibición farmacológica de la exocitosis vesicular reduce la inflamación neurogénica ante dolores crónicos mediante el bloqueo de la liberación periférica de sustancia P.
+La membrana plasmática invagina vesículas de endocitosis mediada por clatrina ante la unión de ligandos específicos a sus receptores extracelulares mediante el reclutamiento de adaptadores proteicos.
+La bacteria patógena secuestra la maquinaria de endocitosis celular para invadir el epitelio ante el reconocimiento de integrinas mediante la inducción de una macropinocitosis forzada.
+El hepatocito internaliza partículas de lipoproteínas de baja densidad LDL mediante endocitosis ante la interacción con su receptor específico para captar colesterol plasmático.
+La mutación congénita del receptor de LDL impide la endocitosis normal del colesterol ante defectos en el dominio citoplasmático de internalización causando hipercolesterolemia familiar grave.
+La dinamina GTPasa estrangula y corta el cuello de la vesícula de endocitosis ante la polimerización de clatrina mediante hidrólisis de GTP que desprende la vesícula hacia el citosol.
+El bloqueo químico de la acidificación del endosoma temprano impide la disociación reversible del complejo ligando-receptor ante tratamientos con cloroquina mediante acumulación de vesículas estériles.
+La transcitosis transporta anticuerpos maternos a través de células endoteliales mediante endocitosis basal acoplada a posterior exocitosis apical para conferir inmunidad pasiva al feto.
+El virus de la inmunodeficiencia humana penetra en el linfocito tras endocitosis o fusión directa ante el anclaje con el correceptor CCR5 mediante la inserción de su péptido de fusión viral.
+La autofagia y la endocitosis convergen funcionalmente en el anfisoma ante la necesidad de reciclar componentes endocitados mediante la fusión vesicular previa a la llegada de hidrolasas.
+La pinocitosis en fase fluida capta solutos extracelulares inespecíficos de forma continua ante el recambio basal de membrana mediante pequeñas vesículas recubiertas de caveolina.
+El páncreas sintetiza enzimas proteolíticas en forma de zimógenos inactivos ante el peligro de autodigestión glandular mediante su almacenamiento confinado en gránulos de zimógeno protegidos.
+La activación prematura del zimógeno tripsinógeno dentro del tejido pancreático desencadena una pancreatitis aguda irreversible mediante una autodigestión necrosante de los acinos glandulares.
+La enteropeptidasa del borde en cepillo duodenal activa el zimógeno tripsinógeno mediante la escisión de un hexapéptido terminal que genera tripsina activa catalíticamente.
+La tripsina libre activa en cascada a los restantes zimógenos pancreáticos como el quimotripsinógeno y la procarboxipeptidasa ante su llegada a la luz del intestino delgado.
+El pepsinógeno gástrico experimenta autoescisión ácida activadora ante el descenso del pH luminal por debajo de dos mediante el cambio conformacional inducido por el ácido clorhídrico estomacal.
+La deficiencia genética en el inhibidor de serina proteasas permite la activación descontrolada de zimógenos pancreáticos ante microlesiones celulares causando pancreatitis crónica hereditaria.
+Los factores de coagulación sanguínea circulan en el plasma como zimógenos solubles ante la necesidad de responder instantáneamente al daño vascular sin generar trombosis espontáneas.
+El corte proteolítico del zimógeno reordena la tríada catalítica de la enzima ante la escisión del fragmento inhibidor mediante la estructuración precisa del centro activo.
+La caspasa zimogénica o procaspasa permanece inerte en el citosol celular ante la ausencia de señales de muerte mediante la presencia de un prodominio amino-terminal que bloquea su dímero activo.
+La liberación accidental de zimógenos digestivos al espacio retroperitoneal disuelve la grasa peripancreática mediante necrosis grasa esteatonecrótica por acción de fosfolipasas activadas.
+La proteína quinasa transfiere un grupo fosfato gamma desde una molécula de ATP hacia residuos específicos de serina, treonina o tirosina ante señales extracelulares para modular la actividad enzimática.
+La mutación con ganancia de función en una tirosina quinasa desata una proliferación celular descontrolada e irreversible ante la pérdida del control inhibitorio mediante la inducción de oncogénesis maligna.
+La proteína quinasa A se activa ante elevaciones de adenosín monofosfato cíclico AMPc mediante la disociación reversible de sus subunidades reguladoras que libera las subunidades catalíticas.
+La proteína fosfatasa desfosforila el sustrato diana restableciendo el estado basal ante la atenuación del estímulo celular mediante la terminación precisa de la cascada de señalización.
+La quinasa dependiente de ciclina CDK orquesta la transición de fases del ciclo celular ante la unión con su ciclina reguladora mediante la fosforilación de la proteína del retinoblastoma.
+La inhibición farmacológica de la quinasa BCR-ABL bloquea la proliferación leucémica ante la presencia del cromosoma Filadelfia mediante fármacos inhibidores competitivos de ATP.
+La quinasa Akt fosforila factores proapoptóticos citosólicos ante señales de factores de crecimiento mediante su inactivación funcional que promueve la supervivencia celular.
+La cascada de quinasas activadas por mitógenos MAPK amplifica exponencialmente la señal mitogénica ante estímulos de membrana mediante tres niveles sucesivos de fosforilaciones secuenciales.
+La autofosforilación cruzada de los dominios intracelulares de receptores tirosina quinasa crea sitios de anclaje para dominios SH2 ante la unión del factor de crecimiento epidérmico.
+La sobreactivación crónica de quinasas inflamatorias como IKK fosforila e inactiva el inhibidor IkB ante estrés celular mediante la translocación nuclear del factor NF-kB.
+La enzima E3 ligasa transfiere moléculas de ubiquitina sobre residuos de lisina de la proteína sustrato ante su desnaturalización o senescencia para marcarla para su destrucción en el proteasoma 26S.
+El fallo en la ubiquitinación de proteínas mal plegadas provoca su agregación neurotóxica irreversible ante el colapso de la chaperonización mediante la formación de inclusiones insolubles amiloides.
+La poliubiquitinación de cadena enlazada por lisina 48 dirige a la proteína marcada hacia el proteasoma ante exigencias de recambio metabólico mediante reconocimiento por subunidades del anillo regulador 19S.
+Las enzimas desubiquitinasas eliminan las cadenas de ubiquitina rescatando al sustrato de la degradación ante señales de supervivencia celular mediante escisión isopeptídica del marcaje.
+La monoubiquitinación no conduce al proteasoma sino que señaliza el tráfico endocítico de receptores de membrana ante internalización mediante reconocimiento por proteínas adaptadoras de vesícula.
+La inhibición farmacológica del proteasoma induce apoptosis en células de mieloma múltiple ante la acumulación masiva de inmunoglobulinas defectuosas mediante la activación del estrés de retículo.
+La ubiquitinación y degradación rápida de p53 por la ligasa MDM2 mantiene niveles basales mínimos del supresor tumoral ante la ausencia de daño genotóxico en células normales.
+La fosforilación previa del sustrato suele ser un requisito de reconocimiento para la ubiquitinación específica ante señales de diferenciación mediante la generación de fosfodegrones moleculares.
+La acumulación de agregados proteicos ubiquitinados satura físicamente la entrada del barril catalítico del proteasoma ante enfermedades neurodegenerativas mediante inhibición estérica de su actividad.
+El complejo promotor de la anafase APC/C actúa como una E3 ubiquitina ligasa que destruye securina y ciclina B ante la alineación cromosómica en metafase para permitir la anafase.
+La célula activa la macroautofagia ante privación aguda de nutrientes mediante la nucleación de una doble membrana aislante que engloba orgánulos envejecidos en un autofagosoma.
+La desregulación irreversible de la autofagia conduce a la muerte celular no apoptótica ante agresiones oxidativas extremas mediante la autodegradación excesiva del citoplasma vital.
+La quinasa sensor mTOR inhibe la iniciación de la autofagia ante concentraciones elevadas de aminoácidos y factores de crecimiento mediante la fosforilación bloqueante del complejo ULK1.
+El autofagosoma maduro se fusiona con el lisosoma formando un autofagolisosoma ante la presencia de proteínas de fusión SNARE mediante la digestión enzimática de la carga luminal por hidrolasas ácidas.
+La mitofagia selectiva elimina mitocondrias despolarizadas ante la acumulación de la quinasa PINK1 y la ubiquitina ligasa Parkina en su membrana externa para evitar la salida de especies reactivas.
+El bloqueo del flujo autofágico por fármacos inhibidores de la bomba de protones lisosomal acumula autofagosomas estériles ante la incapacidad de degradar su contenido a pH neutro.
+La autofagia de chaperonas transporta directamente proteínas solubles con el motivo KFERQ al lisosoma ante estrés metabólico mediante el receptor transmembrana LAMP2A.
+Las células tumorales en el núcleo hipóxico de neoplasias sólidas explotan la autofagia para sobrevivir ante la escasez de vascularización mediante el reciclaje interno de metabolitos esenciales.
+La disminución senescente de la capacidad autofágica de los miocardiocitos acumula lipofuscina intracelular ante el paso del tiempo mediante la pérdida progresiva de contractilidad cardíaca.
+La autofagia selectiva de agregados proteicos o agreganofagia previene la citotoxicidad en motoneuronas ante proteínas mutadas mediante receptores adaptadores como p62 o SQSTM1.
+La célula ejecuta la apoptosis intrínseca ante daño irreparable en el ADN genómico mediante la permeabilización mitocondrial por proteínas Bax y Bak que liberan citocromo c al citosol.
+La evasión de la apoptosis celular confiere inmortalidad oncogénica irreversible a células premalignas ante la sobreexpresión patológica de la proteína antiapoptótica Bcl-2.
+El citocromo c citosólico se une a la proteína adaptadora Apaf-1 ante la presencia de dATP formando el apoptosoma que activa a la caspasa 9 iniciadora de la cascada proteolítica.
+La vía extrínseca de la apoptosis se dispara ante la unión del ligando Fas a su receptor de muerte de superficie mediante el reclutamiento del dominio FADD que activa directamente a la caspasa 8.
+Las caspasas efectoras 3 y 7 fragmentan sustratos celulares vitales ante su activación proteolítica mediante la degradación del citoesqueleto y la activación de la endonucleasa CAD que rompe el ADN.
+El desprendimiento de cuerpos apoptóticos rodeados de membrana previene la inflamación tisular ante la muerte celular mediante la exposición en su superficie de fosfatidilserina que induce fagocitosis.
+La proteína p53 activa la transcripción de genes proapoptóticos como Puma y Noxa ante estrés genotóxico no reparable mediante el arresto permanente del ciclo celular en G1.
+La condensación de la cromatina y la formación de ampollas en la membrana plasmática caracterizan morfológicamente a la apoptosis ante microscopía electrónica sin rotura precoz de la envoltura celular.
+La inactivación por caspasas de la enzima de reparación del ADN PARP acelera el compromiso apoptótico definitivo mediante el ahorro de reservas energéticas de ATP celular.
+El fallo en la apoptosis fisiológica durante el desarrollo embrionario causa malformaciones congénitas como sindactilia ante la persistencia indebida de membranas interdigitales.
+La célula sufre necrosis traumática ante la falta absoluta de oxígeno y nutrientes por isquemia aguda mediante la parada de la bomba sodio-potasio que causa hinchamiento osmótico y rotura de membrana.
+La rotura irreversible de la membrana plasmática durante la necrosis derrama el contenido citosólico hacia el intersticio mediante la liberación de patrones moleculares asociados a daño DAMPs.
+Los DAMPs liberados por células necróticas reclutan neutrófilos y macrófagos ante receptores tipo Toll mediante la inducción de una intensa respuesta inflamatoria aguda local.
+La necroptosis constituye una forma regulada de necrosis ante la inhibición de caspasas en vías de receptores de muerte mediada por las quinasas RIPK1 y RIPK3 que activan al poro MLKL.
+La necrosis coagulativa preserva transitoriamente el contorno estructural de los tejidos muertos ante infartos de miocardio mediante la desnaturalización térmica o ácida de enzimas autolíticas.
+La necrosis licuefactiva transforma el tejido cerebral isquémico en una masa líquida viscosa ante la acción de enzimas hidrolíticas potentes liberadas por microglía y lisosomas lisados.
+La sobrecarga intracelular masiva de calcio activa calpaínas y fosfolipasas citosólicas durante la necrosis mediante la digestión incontrolada de orgánulos y citoesqueleto.
+La necrosis caseosa característica de los granulomas de tuberculosis produce un material blanquecino pastoso ante la lisis de macrófagos infectados por micobacterias resistentes.
+El choque por descompresión o congelación severa provoca necrosis tisular periférica ante la formación de cristales de hielo intracelulares mediante el desgarro mecánico de las membranas.
+La esteatonecrosis enzimática calcifica los ácidos grasos liberados por lipasas en tejidos adiposos ante inflamaciones agudas mediante la formación de jabones de calcio insolubles.
+El vaso sanguíneo lesionado inicia la hemostasia primaria ante la exposición del colágeno subendotelial mediante vasoconstricción refleja y adhesión inmediata de plaquetas circulantes.
+La hemostasia fracasa de forma irreversible ante una trombocitopenia grave con recuentos plaquetarios inferiores a diez mil por microlitro mediante la aparición de hemorragias espontáneas letales.
+El factor von Willebrand plasmático ancla las plaquetas al endotelio denudado ante fuerzas de cizallamiento arterial mediante su unión al receptor glicoproteico plaquetario Ib-IX.
+Las plaquetas adheridas se activan y liberan adenosín difosfato ADP y tromboxano A2 ante estímulos de colágeno mediante gránulos densos que reclutan y activan más plaquetas circundantes.
+El complejo de glicoproteína IIb/IIIa activado en la membrana plaquetaria une moléculas de fibrinógeno ante la presencia de calcio formando puentes interplaquetarios de agregación reversible.
+El ácido acetilsalicílico inhibe de forma irreversible la ciclooxigenasa-1 plaquetaria ante dosis antiagregantes bajas mediante el bloqueo permanente de la síntesis de tromboxano A2 durante toda la vida plaquetaria.
+La retracción del coágulo plaquetario consolida el tapón hemostático ante la polimerización de actina y miosina plaquetarias mediante la tracción centrípeta de los filamentos de fibrina.
+La deficiencia congénita de factor von Willebrand altera tanto la hemostasia primaria como la secundaria ante la pérdida de protección del factor VIII circulante mediante diátesis hemorrágica.
+Los anticoagulantes naturales como la prostaciclina y el óxido nítrico limitan el tapón plaquetario a la zona lesionada ante endotelios sanos contiguos mediante inhibición de la activación plaquetaria.
+El tapón hemostático inestable se disolvería por el flujo pulsátil sin la intervención de la coagulación plasmática mediante la formación de una red externa envolvente de fibrina insoluble.
+La cascada de coagulación sanguínea amplifica la respuesta hemostática ante la exposición del factor tisular extravascular mediante la activación secuencial de proteasas serínicas dependientes de vitamina K.
+La coagulación intravascular diseminada genera trombosis microvascular masiva y consumo irreversible de factores ante sepsis bacteriana grave mediante la activación sistémica descontrolada de trombina.
+El complejo de tenasa extrínseca formado por factor tisular y factor VIIa activa rápidamente al factor X ante microtraumatismos vasculares mediante la iniciación de la vía común.
+El complejo de protrombinasa ensamblado sobre la superficie de fosfolípidos plaquetarios corta la protrombina ante la presencia de factor Xa y Va generando una ráfaga masiva de trombina libre.
+La trombina escinde los fibrinopéptidos A y B del fibrinógeno soluble transformándolo en monómeros de fibrina que polimerizan espontáneamente en una red tridimensional insoluble.
+El factor XIIIa activado por trombina estabiliza mecánicamente la malla de fibrina ante tensiones hidrodinámicas mediante la formación de enlaces covalentes cruzados entre residuos de glutamina y lisina.
+La heparina potencia mil veces la acción de la antitrombina III ante la necesidad de anticoagulación rápida mediante un cambio conformacional que neutraliza trombina y factor Xa.
+La mutación del factor V Leiden confiere resistencia a la escisión proteolítica por la proteína C activada ante la sustitución de una arginina por glutamina aumentando el riesgo de trombosis venosa.
+La hemofilia A cursa con hemartros y hematomas musculares severos ante traumatismos mínimos debido a la deficiencia congénita del factor VIII que bloquea la tenasa intrínseca.
+Los fármacos antagonistas de la vitamina K como el acenocumarol inhiben la enzima epóxido reductasa impidiendo la carboxilación gamma de los factores II, VII, IX y X en el hígado.
+El endotelio vascular activa la fibrinólisis fisiológica ante el cese del sangrado mediante la secreción del activador tisular del plasminógeno tPA que disuelve la malla de fibrina consolidada.
+La fibrinólisis patológica hiperaguda desbarata la hemostasia de forma irreversible ante la sobredosis de agentes trombolíticos mediante la lisis sistémica de fibrinógeno que induce hemorragia masiva.
+El plasminógeno se adsorbe selectivamente sobre los polímeros de fibrina ante la formación del trombo mediante dominios kringle con alta afinidad por residuos de lisina expuestos.
+El activador tisular del plasminógeno escinde el enlace arginina-valina del plasminógeno adsorbido transformándolo en plasmina activa que hidroliza enzimáticamente la fibrina en dímeros D.
+El inhibidor del activador del plasminógeno PAI-1 frena la fibrinólisis prematura ante coágulos recién formados mediante la inactivación estequiométrica irreversible del tPA circulante.
+La alfa-2-antiplasmina circulante neutraliza de forma inmediata cualquier molécula de plasmina libre en el torrente sanguíneo protegiendo a los factores de coagulación sistémicos de su degradación proteolítica.
+La determinación analítica del dímero D en plasma delata la degradación activa de fibrina intravascular ante sospechas de tromboembolismo pulmonar mediante anticuerpos monoclonales de alta sensibilidad.
+El ácido tranexámico bloquea de forma competitiva los sitios de unión de lisina en el plasminógeno ante cirugías con alto riesgo de sangrado impidiendo su fijación a la fibrina y reduciendo la hemorragia.
+La oclusión trombótica persistente en el infarto agudo de miocardio se trata mediante fibrinólisis farmacológica intravenosa ante ventanas de tiempo terapéuticas tempranas para reperfundir el vaso.
+El envejecimiento del trombo con retracción intensa y formación de colágeno fibrilar disminuye la susceptibilidad a la fibrinólisis farmacológica mediante la compactación física de los filamentos.
+El sistema tampón bicarbonato amortigua alzas repentinas de iones hidrógeno en el plasma ante el metabolismo anaerobio celular mediante la formación transitoria de ácido carbónico disociable en agua y CO2.
+El tampón químico resulta superado de forma irreversible ante una cetoacidosis diabética descompensada mediante la acumulación masiva de ácido beta-hidroxibutírico que desciende el pH sanguíneo por debajo de siete.
+El centro respiratorio bulbar hiperventila ante la detección de acidosis metabólica por quimiorreceptores centrales mediante la eliminación acelerada de dióxido de carbono que desplaza el equilibrio químico hacia la alcalinidad.
+El sistema tampón fosfato disódico/monosódico amortigua activamente protones en el fluido tubular renal ante la filtración glomerular facilitando la excreción de acidez titulable en la orina.
+La hemoglobina actúa como un potente tampón proteico eritrocitario ante la captación de protones liberados en tejidos periféricos gracias al efecto amortiguador de sus residuos de histidina desoxigenados.
+La compensación renal ante una acidosis respiratoria crónica por enfermedad pulmonar obstructiva requiere días mediante la retención tubular activa y generación de nuevo bicarbonato plasmático.
+El vómito incoercible con pérdida masiva de ácido clorhídrico estomacal provoca una alcalosis metabólica aguda ante la elevación desproporcionada de bicarbonato con hipocloremia asociada.
+La anhidrasa carbónica eritrocitaria cataliza a velocidad extrema la hidratación reversible de dióxido de carbono en ácido carbónico facilitando el transporte de gases sanguíneos.
+El colapso de la función amortiguadora proteica tisular ocurre ante acidemias extremas mediante la pérdida de cargas electrostáticas terciarias y la consiguiente desnaturalización enzimática.
+La administración terapéutica intravenosa de bicarbonato sódico corrige la acidemia extrema en paradas cardíacas prolongadas ante la necesidad de restaurar la respuesta miocárdica a las catecolaminas.
+El neutrófilo orienta su citoesqueleto y migra por quimiotaxis hacia el foco infeccioso ante gradientes químicos crecientes de interleucina-8 y péptidos formilados mediante la polimerización polarizada de actina.
+El leucocito sufre una parálisis quimiotáctica irreversible ante intoxicaciones graves por toxina pertussis mediante la inactivación de proteínas G inhibitorias que acoplan los receptores de quimioatrayentes.
+El fragmento C5a del sistema de complemento actúa como un potente agente quimiotáctico local ante infecciones bacterianas mediante la atracción de granulocitos y monocitos al lecho extravascular.
+Los macrófagos residentes emiten quimioquinas inflamatorias ante la detección de endotoxinas bacterianas mediante la creación de un gradiente de difusión que guía a las células defensivas circulantes.
+El proceso de rodamiento y adhesión firme leucocitaria sobre selectinas e integrinas endoteliales precede a la quimiotaxis extravascular ante la inducción inflamatoria de ICAM-1 vascular.
+La diapédesis o transmigración leucocitaria a través de las uniones interendoteliales acontece ante el gradiente quimiotáctico mediante la deformación celular extrema guiada por moléculas PECAM-1.
+El síndrome de deficiencia de adhesión leucocitaria LAD-1 impide la migración quimiotáctica tisular ante mutaciones en la subunidad beta-2 de integrinas causando infecciones bacterianas recurrentes sin pus.
+El leucotrieno B4 sintetizado por la vía de la 5-lipoxigenasa amplifica la quimiotaxis de neutrófilos ante reacciones inflamatorias agudas promoviendo su agregación y desgranulación local.
+La desensibilización homóloga de receptores quimiotácticos por fosforilación mediada por GRK frena la migración ante concentraciones saturantes del ligando en el epicentro de la lesión tisular.
+Las células tumorales metastásicas secuestran receptores quimiotácticos como CXCR4 ante ligandos en órganos diana para guiar su diseminación preferente hacia médula ósea y ganglios linfáticos.
+El anticuerpo IgG opsoniza la cápsula bacteriana ante el reconocimiento específico de antígenos de superficie mediante la fijación de su fracción Fab dejando expuesta su porción Fc constante al exterior.
+La bacteria elude la opsonización protectora mediante la secreción enzimática de proteasas que escinden la región bisagra de los anticuerpos inactivando la función efectora de la molécula de inmunoglobulina.
+La fracción C3b del complemento recubre covalentemente las membranas microbianas ante la activación de la convertasa de C3 actuando como la principal opsonina del sistema inmune innato.
+Los macrófagos y neutrófilos reconocen al patógeno opsonizado con extraordinaria avidez ante la presencia de receptores Fc-gamma y receptores de complemento CR1 en sus membranas fagocíticas.
+La proteína C reactiva pentamérica actúa como opsonina soluble de fase aguda ante infecciones bacterianas mediante la unión a fosfocolina de la pared microbiana facilitando la fagocitosis.
+El bazo es el órgano crítico para la eliminación de bacterias encapsuladas opsonizadas ante el flujo sanguíneo sinusoidal mediante los macrófagos de la pulpa roja ricos en receptores fagocíticos.
+La deficiencia congénita de las fracciones tempranas del complemento C1, C4 o C2 entorpece la opsonización de inmunocomplejos circulantes predisponiendo a enfermedades autoinmunes por depósito.
+Las lectinas fijadoras de manosa del plasma opsonizan hongos y levaduras ante la identificación de patrones de carbohidratos conservados activando la vía de las lectinas del complemento.
+La cubierta polisacarídica de Streptococcus pneumoniae bloquea físicamente el acceso de las opsoninas al receptor fagocítico hasta que el paciente produce anticuerpos capsulares específicos.
+La vacunación conjugada induce títulos elevados de anticuerpos opsonizantes ante bacterias encapsuladas infantiles mediante la activación de linfocitos T colaboradores por proteínas transportadoras.
+El fagocito engloba la partícula extraña opsonizada ante el reconocimiento por receptores de membrana mediante la emisión de prolongaciones de pseudópodos que confluyen cerrando el fagosoma.
+El patógeno intracelular bloquea de forma irreversible la maduración del fagosoma impidiendo su acidificación ante la infección activa mediante toxinas que neutralizan las bombas de protones vacuolares.
+El fagosoma recién formado se fusiona con gránulos lisosomales primarios formando el fagolisosoma mediante el aporte de hidrolasas ácidas, lisozima y proteínas catiónicas defensinas.
+El estallido respiratorio del fagocito ensambla el complejo enzimático NADPH oxidasa en la membrana del fagosoma ante la activación celular para generar radicales superóxido altamente microbicidas.
+La mieloperoxidasa de los gránulos azurófilos transforma el peróxido de hidrógeno en ácido hipocloroso ante la presencia de iones cloruro mediante la síntesis de un potente agente oxidante citotóxico.
+La enfermedad granulomatosa crónica cursa con infecciones bacterianas y fúngicas recidivantes graves debido al defecto congénito en subunidades de la NADPH oxidasa que anula el estallido oxidativo.
+La enzima óxido nítrico sintasa inducible iNOS sintetiza grandes cantidades de óxido nítrico en macrófagos activados generando peroxinitrito letal en combinación con radicales libres de oxígeno.
+El desecho de restos digestivos microbianos no digeribles culmina mediante exocitosis del fagolisosoma o su permanencia intracelular como cuerpos residuales pigmentados de lipofuscina.
+La bacteria Mycobacterium tuberculosis escapa a la destrucción fagocítica ante la fagocitosis mediante la inhibición del tráfico de calcio que impide la fusión del fagosoma con los lisosomas.
+La eferocitosis fagocítica especializada elimina células apoptóticas envejecidas sin liberar mediadores proinflamatorios mediante la secreción activa de citoquinas antiinflamatorias IL-10 y TGF-beta.
+La neurona presináptica transmite el impulso nervioso ante la llegada de un potencial de acción al axón terminal mediante la apertura de canales de calcio dependientes de voltaje que desatan la liberación sináptica.
+El veneno de cobra bloquea de forma irreversible la transmisión colinérgica en la hendidura sináptica ante la unión competitiva de alta afinidad de la alfa-bungarotoxina con los receptores nicotínicos musculares.
+El neurotransmisor liberado difunde a través de la hendidura sináptica de veinte nanómetros y se une a receptores ionotrópicos postsinápticos abriendo canales de sodio que generan un potencial excitador EPSP.
+La acetilcolinesterasa anclada en la membrana basal sináptica hidroliza la acetilcolina en colina y acetato en milisegundos terminando con precisión la excitación del receptor nicotínico.
+Los fármacos organofosforados inhiben de forma irreversible la acetilcolinesterasa mediante fosforilación del centro activo causando una crisis colinérgica mortal por despolarización sostenida.
+El neurotransmisor inhibidor GABA abre canales de cloruro en receptores postsinápticos ionotrópicos hiperpolarizando la membrana neuronal mediante la generación de potenciales inhibidores IPSP.
+La recaptación presináptica de monoaminas mediante transportadores dependientes de sodio finaliza la acción sináptica de dopamina y serotonina ante su transporte activo hacia el citosol terminal.
+La plasticidad sináptica a largo plazo LTP consolida memorias ante estimulaciones tetánicas de alta frecuencia mediante la inserción de receptores AMPA adicionales en la espina postsináptica.
+Los canales de NMDA para glutamato actúan como detectores de coincidencia molecular ante la despolarización previa que expulsa el ion magnesio que bloqueaba el poro permitiendo la entrada de calcio.
+La miastenia gravis cursa con fatiga muscular fluctuante debido a la destrucción autoinmune mediada por anticuerpos contra los receptores nicotínicos de acetilcolina en la unión neuromuscular.
+La vaina de mielina aísla eléctricamente los axones neuronales ante la propagación de impulsos mediante envolturas concéntricas ricas en lípidos sintetizadas por células de Schwann y oligodendrocitos.
+La desmielinización autoinmune destruye de forma irreversible la cubierta de mielina en la esclerosis múltiple mediante un ataque citotóxico de linfocitos T que bloquea la conducción axonal saltatoria.
+Los canales de sodio dependientes de voltaje se agrupan en altísima densidad en los nodos de Ranvier desprovistos de mielina ante la necesidad de regenerar el potencial de acción cada milímetro.
+La conducción saltatoria del potencial de acción de nodo a nodo incrementa cien veces la velocidad de propagación neural mediante la disminución drástica de la capacitancia de la membrana axonal.
+El adelgazamiento o pérdida focal de la mielina provoca una disipación pasiva de la corriente axoplásmica mediante fugas iónicas que extinguen el impulso antes de alcanzar el nodo siguiente.
+La proteína básica de la mielina MBP compacta estrechamente las capas lipídicas adyacentes ante el ensamblaje de la vaina mediante interacciones electrostáticas con los fosfolípidos de membrana.
+El síndrome de Guillain-Barré desencadena una polineuropatía desmielinizante inflamatoria aguda ante infecciones previas mediante reactividad cruzada de anticuerpos contra gangliósidos de nervios periféricos.
+La velocidad de conducción nerviosa desciende proporcionalmente al grado de afectación mielínica ante neuropatías compresivas mediante la dispersión temporal del potencial motor compuesto.
+Los axones amielínicos de pequeño calibre conducen los estímulos dolorosos de forma lenta y continua ante la carencia de mielina mediante la despolarización progresiva de cada tramo de membrana.
+La remielinización espontánea incompleta en lesiones crónicas genera vainas de mielina anormalmente delgadas con entrenudos cortos mediante la diferenciación limitada de precursores de oligodendrocitos.
+El plexo mientérico de Auerbach orquesta la onda de peristaltismo intestinal ante la distensión del quimo mediante la contracción del músculo liso circular proximal y relajación simultánea del distal.
+El intestino entra en íleo paralítico irreversible ante una peritonitis difusa mediante la inhibición refleja simpática de los marcapasos intersticiales de Cajal deteniendo el tránsito abdominal.
+La liberación de acetilcolina y sustancia P por motoneuronas excitadoras contrae la capa muscular circular tras el bolo alimenticio aumentando la presión intraluminal impulsora.
+El óxido nítrico y el péptido intestinal vasoactivo VIP median la relajación receptiva de la capa muscular lisa por delante del bolo facilitando el avance anterógrado del contenido digestivo.
+El complejo motor migratorio CMM limpia el estómago e intestino delgado de residuos indigestibles ante periodos de ayuno interdigestivo mediante ondas peristálticas regulares coordinadas por motilina.
+La enfermedad de Hirschsprung o megacolon agangliónico congénito bloquea el peristaltismo colónico ante la ausencia del desarrollo embrionario de plexos intramurales causando obstrucción neonatal.
+La hiperactividad peristáltica desatada por enterotoxinas bacterianas acorta el tiempo de tránsito intestinal impidiendo la absorción de agua y solutos mediante diarreas acuosas osmóticas.
+Los fármacos opioides inhiben el peristaltismo intestinal ante su unión a receptores mu mientéricos reduciendo drásticamente la liberación de acetilcolina y provocando estreñimiento pertinaz.
+Las células intersticiales de Cajal generan ondas lentas despolarizantes rítmicas basales que fijan la frecuencia máxima del peristaltismo en cada segmento del tubo digestivo.
+El antiperistaltismo retrógrado violento precede a la emesis o vómito ante intoxicaciones alimentarias agudas vaciando el contenido duodenal hacia el estómago para su expulsión gástrica.
+La fibra muscular lisa arteriolar ejecuta la vasoconstricción periférica ante la estimulación de receptores alfa-1 adrenérgicos por noradrenalina mediante la elevación del calcio y activación de la quinasa de miosina.
+La vasoconstricción sostenida extrema desencadena necrosis isquémica irreversible en dedos y extremidades ante crisis vasoespásticas de Raynaud severas mediante la anulación total de la perfusión capilar.
+La angiotensina II induce una potente vasoconstricción arteriolar sistémica ante caídas en la perfusión renal activando receptores AT1 que elevan de inmediato la resistencia vascular periférica.
+La endotelina-1 sintetizada por células endoteliales lesionadas actúa como el vasoconstrictor endógeno más potente ante hemorragias locales reduciendo el calibre del vaso para limitar la pérdida hemática.
+El aumento del tono arteriolar precapilar eleva la presión arterial diastólica ante descargas simpáticas masivas mediante la reducción del radio vascular según la ley de Poiseuille a la cuarta potencia.
+El tromboxano A2 liberado por plaquetas activadas provoca intensa vasoconstricción local ante heridas vasculares impidiendo el lavado mecánico de los factores de coagulación incipientes.
+El enfriamiento cutáneo desata vasoconstricción simpática refleja en la dermis ante bajas temperaturas ambientales para evitar la pérdida calórica y proteger la temperatura central del núcleo corporal.
+La vasoconstricción renal excesiva durante el shock hipovolémico profundo colapsa el filtrado glomerular mediante el cierre de la arteriola aferente desencadenando necrosis tubular aguda.
+Los fármacos antagonistas de los canales de calcio dihidropiridínicos inhiben la vasoconstricción arterial bloqueando la entrada de calcio extracelular para reducir la hipertensión arterial.
+El vasoespasmo cerebral tardío post-hemorragia subaracnoidea provoca infartos isquémicos diferidos ante la exposición prolongada a productos de degradación de la hemoglobina en el líquido cefalorraquídeo.
+Las células endoteliales inducen vasodilatación arteriolar ante el aumento de fricción de la sangre mediante la síntesis de óxido nítrico por la eNOS que difunde al músculo liso y eleva el GMP cíclico.
+El shock anafiláctico desata una vasodilatación sistémica irreversible y colapso cardiovascular ante la liberación explosiva de histamina masiva mediante el desplome de las resistencias periféricas.
+El péptido natriurético auricular promueve vasodilatación y excreción renal de sodio ante la distensión de las aurículas cardíacas por sobrecarga de volumen mediante la reducción de la precarga.
+La acidosis láctica, la adenosina y el aumento de potasio inducen vasodilatación metabólica activa ante el ejercicio muscular intenso incrementando el flujo sanguíneo local hasta veinte veces.
+La prostaglandina I2 prostaciclina coopera con el óxido nítrico en mantener el lecho vascular dilatado y antiagregante ante condiciones basales de flujo sanguíneo laminar fisiológico.
+La vasodilatación en el territorio esplácnico en pacientes cirróticos con hipertensión portal agrava la hipotensión arterial sistémica mediante la activación refleja de mecanismos de retención hidrosalina.
+Los nitratos orgánicos como la nitroglicerina liberan óxido nítrico en la pared vascular venosa ante episodios de angina coronaria reduciendo la demanda miocárdica de oxígeno mediante venodilatación.
+El enrojecimiento cutáneo y calor local en la inflamación emanan de la vasodilatación de esfínteres precapilares mediada por bradicinina e histamina que incrementan el volumen sanguíneo superficial.
+El fallo de la autorregulación miogénica cerebral ante aumentos extremos de presión produce vasodilatación forzada con edema cerebral e hiperemia en la encefalopatía hipertensiva.
+La inhibición farmacológica de la fosfodiesterasa 5 prolonga la vasodilatación inducida por óxido nítrico ante disfunción eréctil o hipertensión pulmonar impidiendo la degradación de GMPc.
+La hoja vegetal ejecuta la transpiración mediante la evaporación de vapor de agua a través de las células oclusivas de los estomas ante la absorción de radiación solar para enfriar la superficie foliar.
+El haz vascular del xilema experimenta cavitación y embolia gaseosa irreversible ante sequías meteorológicas severas mediante la ruptura de la columna líquida tensada que interrumpe el flujo hídrico ascendente.
+La teoría de la tensión-cohesión explica el ascenso de la savia bruta desde las raíces hasta copas de árboles de cien metros ante la fuerza de tracción generada por la transpiración foliar continua.
+Las células de la guarda del estoma se cierran ante el estrés hídrico mediado por ácido abscísico mediante la expulsión de iones potasio y cloro que provoca pérdida osmótica de turgencia.
+La transpiración excesiva en horas de máxima insolvencia hídrica provoca marchitamiento temporal de brotes tiernos ante una tasa de evaporación foliar que supera la capacidad de absorción radicular.
+La cutícula cerosa hidrófoba en la epidermis de las hojas limita la transpiración cuticular incontrolada ante atmósferas secas reduciendo las pérdidas pasivas de agua celular.
+La gutación vegetal expulsa gotas de agua líquida por hidátodos marginales ante ambientes saturados de humedad y suelo encharcado donde la presión radicular sustituye a la transpiración nula.
+El índice de conductancia estomática modula la tasa neta de transpiración y fijación de carbono ante variaciones de la humedad relativa del aire y la concentración de CO2 intercelular.
+La embolia del xilema por congelación invernal bloquea los vasos leñosos ante la formación de burbujas de gas atrapadas durante el deshielo en especies leñosas de vasos anchos.
+Las plantas xerófitas reducen su superficie de transpiración modificando sus hojas en espinas o localizando estomas en criptas pilosas húmedas para maximizar la resistencia a la aridez extrema.
+La planta inicia la abscisión foliar controlada ante la senescencia estacional o la sequía mediante la síntesis activa del gas etileno que debilita enzimáticamente la zona de abscisión en el pecíolo.
+El daño helado prematuro provoca la momificación foliar irreversible sin abscisión normal ante la congelación súbita de tejidos antes de estructurarse la capa de separación protectora.
+La degradación de la lámina media por poligalacturonasas y celulasas en las células diana de la zona de abscisión fractura el soporte mecánico del pecíolo ante el balance hormonal entre etileno y auxinas.
+La elevada concentración de auxinas procedentes del limbo foliar joven bloquea la abscisión foliar ante tejidos sanos en desarrollo mediante la insensibilización celular al etileno inductor.
+La formación previa de una capa suberosa y lignificada sobre el tallo sella la herida antes del desprendimiento foliar mediante el bloqueo del acceso a hongos y bacterias patógenas oportunistas.
+La abscisión de flores y frutos inmaduros ocurre ante sobrecargas de fructificación o falta de polinización mediante un mecanismo de autorregulación de la inversión energética reproductiva.
+El tratamiento hormonal con etefón induce la abscisión uniforme de frutos maduros ante la cosecha industrial mecanizada facilitando su recolección mediante vibradores de tronco.
+La pérdida progresiva de clorofila y la degradación de proteínas durante la senescencia previa a la abscisión movilizan nitrógeno y fósforo hacia los tejidos leñosos de reserva perenne.
+Las mutaciones en receptores de etileno bloquean de forma permanente la abscisión foliar en otoño reteniendo hojas secas sobre las ramas ante la incapacidad de percibir la señal hormonal gaseosa.
+El estrés oxidativo foliar inducido por ozono o contaminantes atmosféricos acelera la abscisión prematura mediante el incremento de la síntesis endógena del precursor ACC de etileno.
+El linfocito T colaborador se activa ante el reconocimiento de péptidos antigénicos foráneos presentados por moléculas del complejo mayor de histocompatibilidad MHC clase II en células dendríticas.
+La quiebra de los mecanismos de tolerancia inmunológica desata enfermedades autoinmunes irreversibles ante la falta de supresión de clones de linfocitos autorreactivos que atacan tejidos propios.
+La selección negativa en el timo elimina por apoptosis a los timocitos que muestran afinidad excesiva por autoantígenos ante la proteína AIRE garantizando la tolerancia central del sistema inmune.
+Los linfocitos T reguladores FoxP3 positivos frenan respuestas inmunitarias excesivas ante antígenos inocuos mediante la secreción de citoquinas inmunosupresoras como interleucina-10.
+La selección clonal y mutación somática en los centros germinales de los ganglios linfáticos optimiza la afinidad de los anticuerpos ante exposiciones continuas o repetidas al antígeno.
+El cambio de clase de inmunoglobulina de IgM a IgG, IgA o IgE se orquesta ante señales de citoquinas específicas de linfocitos T colaboradores mediante recombinación por cambio de clase en el ADN.
+Las células de memoria inmunitaria de larga vida persisten en médula ósea y tejidos linfoides ante la resolución de la infección garantizando respuestas secundarias protectoras ultrarrápidas.
+La evasión de la presentación antigénica por células tumorales mediante la pérdida de expresión de beta-2-microglobulina bloquea el reconocimiento citotóxico por linfocitos CD8.
+Los anticuerpos monoclonales bloqueadores de puntos de control inmunitario PD-1 o CTLA-4 liberan la inhibición de linfocitos T exhaustos ante el tratamiento oncológico avanzado.
+La anergia clonal inmunitaria sumerge al linfocito en un estado de no respuesta funcional permanente ante el reconocimiento de antígeno sin coestimulación por CD80 o CD86 en la sinapsis inmunitaria.
+La ATP sintasa mitocondrial genera trifosfato de adenosina ante el flujo retrógrado de protones desde el espacio intermembrana hacia la matriz mediante el acoplamiento quimiosmótico rotacional.
+El cianuro potásico bloquea de forma irreversible la citocromo c oxidasa de la cadena respiratoria ante su fijación férrica mediante la parada inmediata de la fosforilación oxidativa celular.
+La glicólisis anaerobia citosólica sintetiza dos moles de ATP por mol de glucosa ante la privación hipóxica de oxígeno mediante la reducción de piruvato a lactato por la lactato deshidrogenasa.
+La sobreproducción de ácido láctico desencadena acidosis metabólica severa ante estados de hipoperfusión tisular o choque séptico mediante el agotamiento de los tampones alcalinos.
+La beta-oxidación mitocondrial fragmenta ácidos grasos en unidades de acetil-CoA ante estados de ayuno prolongado mediante ciclos repetidos de deshidrogenación, hidratación y tiolisis.
+El desacoplamiento farmacológico de la fosforilación oxidativa por dinitrofenol disipa el gradiente electroquímico de protones en forma de calor incontrolado mediante hipertermia letal.
+El ciclo de Krebs oxida grupos acetilo liberando equivalentes reductores NADH y FADH2 ante la presencia de transportadores oxidados para alimentar los complejos de la cadena de transporte electrónico.
+La hipoglucemia aguda severa priva a las neuronas cerebrales de su sustrato energético primordial mediante la pérdida de conciencia y daño cerebral excitotóxico irreversible.
+La lanzadera de malato-aspartato transfiere equivalentes de reducción citosólicos al interior mitocondrial en células cardíacas y hepáticas maximizando el rendimiento energético aerobio.
+La acumulación celular de cuerpos cetónicos en diabetes descompensada genera cetoacidosis grave ante la incapacidad de oxidar grasa de forma completa en ausencia de insulina.
+La gluconeogénesis hepática sintetiza glucosa a partir de lactato, glicerol y aminoácidos ante ayunos prolongados para sostener las demandas glucídicas del sistema nervioso central.
+El agotamiento de las reservas de glucógeno hepático tras veinticuatro horas de inanición fuerza la proteólisis muscular masiva para suministrar esqueletos carbonados al hígado.
+La enzima fosfofructoquinasa-1 actúa como el principal marcapasos de la vía glicolítica ante niveles de ATP mediante inhibición alostérica retroalimentada por altos niveles energéticos.
+La isquemia tisular prolongada despolariza la membrana mitocondrial abriendo el poro de transición de permeabilidad que sella el destino de muerte de la célula por lisis o apoptosis.
+La creatina quinasa regenera ATP muscular en milisegundos ante contracciones intensas mediante la transferencia de un grupo fosfato desde la reserva de fosfocreatina sarcoplásmica.

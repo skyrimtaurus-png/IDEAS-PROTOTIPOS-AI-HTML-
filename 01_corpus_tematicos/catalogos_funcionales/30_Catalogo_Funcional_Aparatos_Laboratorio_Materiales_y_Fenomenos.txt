@@ -1,0 +1,270 @@
+El péndulo oscila isócronamente ante la aceleración de la gravedad mediante masa suspendida de un hilo con el efecto de medir periodos de tiempo.
+El péndulo amortigua sus oscilaciones hasta detención irreversible cuando la fricción viscosa del aire disipa toda la energía cinética del sistema.
+El giroscopio mantiene la orientación de su eje ante pares perturbadores mediante conservación del momento angular con el efecto de estabilizar rumbos.
+El giroscopio padece precesión con colapso irreversible de giro cuando el rozamiento mecánico de sus cardanes frena el disco volante rotatorio.
+El diapasón vibra a una frecuencia acústica patrón pura ante impactos mecánicos mediante brazos de acero elásticos con el efecto de emitir tonos de afinación.
+El diapasón pierde su afinación de modo irreversible cuando un recrecido térmico o fatiga del metal deforma permanentemente la masa de sus ramas.
+El calorímetro cuantifica intercambios de energía térmica ante reacciones químicas mediante vaso adiabático aislado con el efecto de medir entalpías.
+El calorímetro falsea mediciones con error irreversible cuando fugas térmicas en el cierre adiabático disipan calor hacia el entorno exterior.
+El matraz aforado contiene volúmenes exactos de disolución ante preparaciones normalizadas mediante cuello estrecho con enrase con el efecto de calibrar reactivos.
+El matraz sufre fractura catastrófica irreversible cuando el calentamiento directo de su base de fondo plano genera tensiones térmicas destructivas.
+La bureta descarga volúmenes gota a gota ante valoraciones ácido-base mediante tubo cilíndrico graduado con llave con el efecto de detectar el punto de viraje.
+La bureta queda inutilizada con fuga irreversible de reactivo cuando el ataque cáustico de álcalis concentrados corroe y traba la llave de teflón.
+La pipeta transfiere alícuotas volumétricas precisas ante ensayos cuantitativos mediante aspiración controlada con émbolo con el efecto de dosificar muestras.
+La pipeta pierde calibración volumétrica de modo irreversible cuando el astillado de su punta capilar altera el volumen residual de descarga.
+El crisol calcina precipitados minerales ante hornos de alta temperatura mediante cuerpo de porcelana o platino con el efecto de obtener cenizas puras.
+El crisol se raja con rotura irreversible por choque térmico cuando se deposita bruscamente una pieza incandescente sobre una superficie fría metálica.
+La retorta destila sustancias volátiles ante calefacción de mezclas mediante cuello curvado hacia abajo con el efecto de condensar vapores en recipientes.
+La retorta estalla con peligro irreversible si la condensación de sólidos en el cuello largo estrangula la salida provocando sobrepresión interna.
+El alambique separa mezclas líquidas por volatilidad ante fuentes de calor mediante caldera y serpentín refrigerado con el efecto de purificar alcoholes.
+El alambique padece fuga con incendio irreversible cuando la sobrecarga de fuego directo agrieta las costuras de soldadura de la caldera de cobre.
+El autoclave esteriliza material quirúrgico y medios ante microorganismos viables mediante vapor de agua saturado a presión con el efecto de desnaturalizar esporas.
+El autoclave revienta con despresurización explosiva irreversible si el fallo del manorreductor y de la válvula de alivio sobrepasa la resistencia de la compuerta.
+La centrífuga separa fases de distinta densidad ante suspensiones celulares mediante rotación a miles de revoluciones con el efecto de decantar precipitados.
+La centrífuga se desintegra con destrucción irreversible del rotor cuando el desbalanceo de tubos con masas desiguales arranca el eje motriz.
+La membrana semipermeable retiene solutos de gran tamaño ante gradientes de presión mediante poros microscópicos calibrados con el efecto de filtrar líquidos.
+La membrana sufre colmatación irreversible por ensuciamiento cuando agregados coloidales compactados ciegan definitivamente la estructura porosa.
+La diálisis depura toxinas y moléculas pequeñas ante gradientes de concentración mediante difusión a través de celulosa con el efecto de purificar sueros.
+La diálisis falla con pérdida irreversible del gradiente de separación cuando una rotura física de la bolsa de membrana vierte solutos al baño exterior.
+El tamiz clasifica partículas sólidas ante vibración mecánica mediante malla metálica de luz normalizada con el efecto de separar granulometrías.
+El tamiz queda deformado de modo irreversible cuando el cepillado abrasivo o sobrecarga de mineral desgaja los hilos de la trama de tamizado.
+El espectrómetro descompone radiación luminosa ante absorciones moleculares mediante prisma o red difractora con el efecto de identificar componentes químicos.
+El espectrómetro pierde resolución de modo irreversible cuando la desalineación óptica por vibración desenfoca las líneas espectrales en el detector.
+El interferómetro mide distancias nanométricas ante división de haz luminoso mediante figuras de interferencia óptica con el efecto de detectar desplazamientos.
+El interferómetro pierde coherencia con desajuste irreversible cuando choques mecánicos desalinean los espejos semirreflectantes divisores de haz.
+El prisma refracta longitudes de onda angulares ante haces de luz blanca mediante dispersión cromática en vidrio óptico con el efecto de separar el espectro.
+El prisma sufre astillado con daño irreversible cuando golpes o tensiones de apriete fracturan los vértices pulidos perdiendo la geometría refractora.
+La lente enfoca o diverge rayos lumínicos ante frentes de onda planos mediante curvatura dióptrica pulida con el efecto de formar imágenes ampliadas.
+La lente padece aberración esférica irreversible cuando el rayado abrasivo de sus caras ópticas dispersa la luz anulando la nitidez focal.
+La red de difracción dispersa haces policromáticos ante incisiones paralelas mediante interferencia de ranuras con el efecto de analizar espectros finos.
+La red de difracción se inutiliza de modo irreversible si la condensación de vapores corrosivos carcome el rayado microscópico de su superficie aluminizada.
+El polarizador selecciona planos de vibración electromagnética ante ondas no polarizadas mediante cristales dicroicos con el efecto de transmitir luz lineal.
+El polarizador sufre despolarización irreversible ante sobrecalentamiento por radiación láser cuando el calor desorienta la alineación polimérica del filtro.
+El láser emite radiación monocromática coherente ante bombeo óptico mediante emisión estimulada en cavidad resonante con el efecto de concentrar potencia.
+El láser pierde ganancia con cese irreversible de emisión cuando el envejecimiento del medio activo o daño en los espejos extingue la oscilación óptica.
+La cavidad resonante confina ondas estacionarias electromagnéticas ante frecuencias sintonizadas mediante paredes conductoras con el efecto de amplificar campos.
+La cavidad padece perforación por arco irreversible cuando intensidades de campo excesivas inducen ruptura dieléctrica del vacío interior.
+El termopar transduce gradientes de temperatura ante la unión de dos metales distintos mediante fuerza termoeléctrica Seebeck con el efecto de medir calor extremo.
+El termopar deriva en lectura errónea irreversible cuando la oxidación progresiva de los hilos bimetálicos en la soldadura altera el potencial generado.
+El cátodo reduce cationes en disolución ante la corriente de electrolisis mediante transferencia de electrones libres con el efecto de depositar metales puros.
+El cátodo padece envenenamiento irreversible por pasivación cuando especies tensioactivas bloquean la superficie electroquímica activa de reducción.
+El ánodo oxida aniones o cede electrones ante cubas electrolíticas mediante disolución metálica con el efecto de sostener la corriente faradaica.
+El ánodo sufre corrosión anódica con destrucción irreversible cuando el consumo del material reactivo rebasa el espesor útil del electrodo.
+El electrólito transporta iones solvatados ante gradientes de potencial electroquímico mediante disociación en solvente polar con el efecto de cerrar el circuito.
+El electrólito se descompone con parada irreversible de la celda cuando una sobretensión extrema gasifica el solvente secando la batería.
+El coloide mantiene partículas microscópicas suspendidas ante la gravedad mediante repulsión electrostática de doble capa con el efecto de evitar sedimentación.
+El coloide sufre coagulación irreversible ante la adición de electrolitos concentrados cuando la neutralización de cargas colapsa los agregados al fondo.
+El aerosol dispersa gotas líquidas o partículas sólidas finas ante corrientes de gas propelente mediante atomización mecánica con el efecto de flotar en aire.
+El aerosol colapsa con decantación irreversible cuando la coalescencia de microgotas aumenta el tamaño de partícula acelerando su caída por gravedad.
+La espuma confina gas en celdas poliédricas delgadas ante agitación con surfactante mediante películas interfaciales con el efecto de aislar o amortiguar.
+La espuma se desvanece con colapso irreversible de burbujas cuando el drenaje del líquido en las laminillas adelgaza la película hasta su rotura.
+La aleación combina metales base con elementos de adición ante procesos de fundición mediante enlaces metálicos con el efecto de incrementar dureza.
+La aleación padece fragilización intergranular irreversible ante corrosión bajo tensión cuando precipitados de borde de grano inducen rotura súbita.
+El cristal ordena átomos en una red periódica tridimensional ante la solidificación lenta mediante enlaces direccionales con el efecto de maximizar simetría.
+El cristal sufre fractura concoidea irreversible por exfoliación mecánica cuando una carga de cizalla supera la cohesión de los planos cristalográficos.
+La dislocación facilita la deformación plástica progresiva ante esfuerzos cortantes mediante deslizamiento de planos atómicos con el efecto de dar ductilidad.
+La dislocación se ancla con fragilización irreversible ante densidades extremas por acritud impidiendo el movimiento de nuevos defectos reticulares.
+El grano cristalino confina redes atómicas con orientación uniforme ante la nucleación de fundición mediante límites de frontera con el efecto de dar tenacidad.
+El grano padece crecimiento anómalo irreversible ante recocidos excesivos cuando el engrosamiento de bordes fragiliza la resistencia mecánica del metal.
+El isótopo mantiene el número atómico variando neutrones ante núcleos pesados mediante estabilidad nuclear con el efecto de servir de trazador radiológico.
+El isótopo decae radiactivamente de modo irreversible mediante emisión alfa o beta transmutando el elemento en un núcleo atómico hijo diferente.
+El moderador frena neutrones rápidos haciéndolos térmicos ante fisuras nucleares mediante colisiones elásticas con átomos ligeros con el efecto de sostener la reacción.
+El moderador pierde eficacia con parada irreversible del reactor cuando la radiación neutrónica acumulada hincha y agrieta los bloques de grafito.
+El blindaje atenúa radiaciones ionizantes penetrantes ante emisiones gamma mediante plomo u hormigón de alta densidad con el efecto de proteger operadores.
+El blindaje sufre activación neutrónica irreversible tras años de servicio transformando sus elementos estructurales en residuos radiactivos secundarios.
+La probeta mide volúmenes aproximados de líquidos ante dosificaciones rápidas mediante tubo vertical graduado con base con el efecto de verter reactivos.
+La probeta se rompe con pérdida irreversible de muestra cuando un vuelco accidental fractura el vidrio contra la bancada del laboratorio.
+El matraz erlenmeyer homogeniza disoluciones sin salpicaduras ante agitaciones vigorosas mediante cuerpo cónico con boca estrecha con el efecto de titular.
+El erlenmeyer sufre rotura por tensión irreversible si se somete a vacío interno directo careciendo de las paredes reforzadas necesarias.
+El vaso de precipitados disuelve solutos y calienta mezclas ante agitaciones magnéticas mediante boca ancha con pico con el efecto de facilitar trasvases.
+El vaso se fisura de modo irreversible por choque térmico cuando se retira de la llama caliente posándolo sobre un poyo húmedo y frío.
+El embudo canaliza líquidos hacia bocas estrechas ante trasvases y filtraciones mediante cono divergente con vástago con el efecto de evitar derrames.
+El embudo sufre astillamiento irreversible en el vástago de salida cuando un golpe contra el cuello del matraz rompe el tubo capilar.
+El desecador mantiene crisoles y reactivos libres de humedad ante enfriamientos mediante silica gel en atmósfera cerrada con el efecto de preservar anhidros.
+El desecador pierde su estanqueidad de vacío de modo irreversible cuando grasa reseca en la junta esmerilada permite la entrada de aire húmedo.
+El picnómetro determina la densidad exacta de fluidos ante pesadas de precisión mediante volumen fijo calibrado por tapón capilar con el efecto de medir masas.
+El picnómetro pierde calibración analítica irreversible cuando el desgaste abrasivo o microfisuras en el esmerilado del tapón alteran el volumen interno.
+El reómetro caracteriza viscosidades y viscoelasticidades ante esfuerzos de cizalladura mediante platos paralelos giratorios con el efecto de evaluar geles.
+El reómetro sufre descalibración irreversible del par de torsión cuando una muestra con partículas duras atasca y raya el entrehierro de medida.
+El refractómetro mide el índice de refracción y sólidos solubles ante soluciones azucaradas mediante ángulo crítico en prisma con el efecto de inferir grados Brix.
+El refractómetro queda ciego con rayado irreversible de su prisma principal cuando el raspado con espátula metálica estropea la cara de incidencia óptica.
+El polarímetro cuantifica el desvío óptico de moléculas quirales ante luz polarizada plana mediante analizador rotatorio con el efecto de determinar enantiómeros.
+El polarímetro arroja medidas nulas con error irreversible cuando la turbidez o burbujas de aire en el tubo de muestra bloquean el haz de luz.
+El fotómetro mide intensidades lumínicas transmitidas ante filtros de color selectivos mediante fotodiodos sensores con el efecto de evaluar concentraciones.
+El fotómetro pierde linealidad de respuesta irreversible cuando el envejecimiento fotoeléctrico del sensor degrada su rendimiento cuántico de fotones.
+El colorímetro cuantifica la absorbancia de soluciones coloreadas ante longitudes de onda discretas mediante células fotoeléctricas con el efecto de aplicar Beer-Lambert.
+El colorímetro padece deriva de línea base irreversible si la lámpara halógena de emisión sufre fluctuaciones por agotamiento del filamento incandescente.
+El turbidímetro evalúa la claridad del agua ante partículas coloidales en suspensión mediante dispersión de luz nefelométrica con el efecto de medir nefelometrías.
+El turbidímetro se satura con lectura errónea irreversible cuando la sedimentación de lodos mancha la cubeta óptica de cuarzo.
+El conductímetro mide la conductividad eléctrica de disoluciones ante iones libres disueltos mediante electrodos de platino platinado con el efecto de tasar sales.
+El conductímetro pierde sensibilidad de modo irreversible cuando la incrustación de carbonatos aísla químicamente la superficie del platino.
+El pehachímetro determina la concentración de protones ante equilibrios ácido-base mediante electrodo combinado de vidrio con el efecto de registrar unidades de acidez.
+El pehachímetro se arruina con descalibración irreversible cuando la deshidratación de la membrana de vidrio por almacenaje seco destruye la respuesta iónica.
+El aerómetro flota a distintas alturas según la densidad del baño ante mezclas líquidas mediante ampolla lastrada graduada con el efecto de leer densidades.
+El aerómetro se hunde con rotura irreversible en el fondo de la probeta cuando la ampolla de vidrio lastrada con perdigones se suelta del cuello.
+El higrómetro monitoriza la humedad ambiental relativa ante atmósferas controladas mediante sensor de polímero capacitivo con el efecto de prevenir condensaciones.
+El higrómetro pierde precisión de modo irreversible ante vapores amoniacales cuando la contaminación química satura irreversiblemente el dieléctrico sensible.
+El psicrómetro deduce la humedad atmosférica ante evaporaciones de agua mediante termómetros de bulbo seco y bulbo húmedo con el efecto de tabular tablas.
+El psicrómetro falsea lecturas con error irreversible cuando la gasa del bulbo húmedo se ensucia impidiendo la evaporación libre del agua pura.
+El pirómetro mide temperaturas elevadas sin contacto ante radiaciones infrarrojas de hornos mediante detectores ópticos térmicos con el efecto de controlar fundiciones.
+El pirómetro subestima lecturas con peligro irreversible cuando la presencia de humos o lentes sucias atenúa la radiación térmica recibida.
+El bolómetro detecta radiaciones milimétricas y submilimétricas ante variaciones térmicas mínimas mediante resistencia absorbente enfriada con el efecto de astronomía.
+El bolómetro pierde superconductividad con parada irreversible cuando el agotamiento del helio líquido eleva la temperatura por encima del punto crítico.
+La termorresistencia incrementa su valor óhmico linealmente ante ascensos de calor mediante hilo de platino bobinado con el efecto de sensorizar temperaturas.
+La termorresistencia sufre desvío irreversible de curva cuando vibraciones continuas en tuberías deforman la resistencia interna de platino.
+El vacuómetro monitoriza presiones inferiores a la atmosférica ante cámaras de alto vacío mediante sensor capacitivo o Pirani con el efecto de verificar estanqueidad.
+El vacuómetro se calcina con rotura irreversible del filamento Pirani si se ventila accidentalmente la cámara a presión atmosférica con el sensor encendido.
+El estroboscopio inmoviliza visualmente piezas rotativas rápidas ante frecuencias sincronizadas mediante destellos luminosos breves con el efecto de observar fallos.
+El estroboscopio quema su lámpara de xenón con corte irreversible tras horas de destello continuo cuando los electrodos de descarga se evaporan.
+El espectrofotómetro barre el espectro ultravioleta y visible ante soluciones complejas mediante monocromador de rejilla con el efecto de registrar perfiles.
+El espectrofotómetro padece desviación de longitud de onda irreversible cuando el motor paso a paso del monocromador pierde pasos por holgura mecánica.
+El fluorímetro cuantifica emisiones fluorescentes ante excitaciones luminosas de longitud corta mediante fotomultiplicadores con el efecto de detectar trazas.
+El fluorímetro sufre decaimiento irreversible por fotoblanqueo de muestra cuando la exposición continuada destruye la estructura del fluoróforo analizado.
+El luminómetro mide emisión de fotones biológicos ante reacciones de luciferasa mediante contador de fotones con el efecto de monitorizar adenosín trifosfato.
+El luminómetro pierde linealidad irreversible por fatiga del fotomultiplicador cuando la entrada accidental de luz ambiente satura el detector encendido.
+El cromatógrafo separa componentes de mezclas complejas ante interacciones diferenciales mediante fase móvil forzada a través de columna con el efecto de resolver picos.
+El cromatógrafo sufre sobrepresión con parada irreversible de bombas cuando micropartículas no filtradas colmatan la cabeza de la columna analítica.
+La columna cromatográfica retiene selectivamente analitos ante la elución continua mediante relleno de sílice funcionalizada con el efecto de separar sustancias.
+La columna pierde eficacia de platos teóricos de modo irreversible cuando la rotura del lecho empaquetado genera canalizaciones internas de flujo.
+El eluyente arrastra los solutos a través de la fase estacionaria ante gradientes de polaridad mediante mezclas de solventes con el efecto de modular tiempos de retención.
+El eluyente desgasificado incorrectamente introduce burbujas con ruido irreversible en detectores ópticos cuando el aire interrumpe el flujo continuo.
+La fase estacionaria interacciona fisicoquímicamente con los analitos ante el paso del flujo mediante grupos químicos anclados con el efecto de retener selectivamente.
+La fase se hidroliza con pérdida irreversible de retención cuando se utilizan tampones acuosos a valores de potencial de hidrógeno fuera de tolerancia.
+El soporte universal sostiene montajes de vidrio ante reacciones de laboratorio mediante barra de acero vertical y base pesada con el efecto de dar estabilidad.
+El soporte se vence con rotura irreversible del montaje de vidrio si el apriete defectuoso de la nuez permite el deslizamiento brusco de las pinzas.
+La gradilla aloja tubos de ensayo en posición vertical ante baterías de pruebas mediante estructura ranurada con el efecto de organizar series de tubos.
+La gradilla de plástico se deforma de modo irreversible ante altas temperaturas si se introduce accidentalmente en hornos de secado no compatibles.
+El mortero tritura sólidos compactos ante moliendas mecánicas manuales mediante cuenco de ágata o porcelana con el efecto de homogenizar polvos finos.
+El mortero padece abrasión con contaminación irreversible de muestras cuando se muelen minerales de dureza superior a la de la pared del cuenco.
+El pilón pulveriza cristales contra las paredes del mortero ante la fuerza manual mediante mazo redondeado con el efecto de reducir el tamaño de partícula.
+El pilón se fractura de modo irreversible por impacto cuando se utiliza como mazo de golpe en lugar de herramienta de frotamiento rotatorio.
+La espátula trasvasa pequeñas cantidades de reactivos sólidos ante pesadas analíticas mediante lámina de acero inoxidable con el efecto de dosificar en balanza.
+La espátula sufre ataque corrosivo irreversible con picaduras cuando se utiliza con ácidos oxidantes fuertes que destruyen su capa pasivada.
+La pinza sujeta matraces y buretas al soporte ante destilaciones mediante mordazas recubiertas de corcho con el efecto de inmovilizar vidrio caliente.
+La pinza aplasta el cuello del matraz con rotura irreversible de vidrio cuando un operario aprieta excesivamente el tornillo de sujeción sin tacto.
+El trípode eleva recipientes sobre la llama del mechero ante calefacciones de reactivos mediante aro de hierro sobre tres patas con el efecto de calentar.
+El trípode sufre oxidación con pandeo irreversible de sus patas cuando el derrame de sales corrosivas calientes debilita la estructura de fundición.
+La rejilla reparte uniformemente el calor de la llama ante vasos y matraces mediante malla de alambre con centro cerámico con el efecto de evitar fracturas térmicas.
+La rejilla se desintegra con rotura irreversible del centro cerámico cuando el fuego directo continuado desmorona la fibra protectora aislante.
+El mechero combustiona gas combustible y aire ante esterilizaciones y calentamientos mediante tubo vertical con virola con el efecto de producir llama azul sin hollín.
+El mechero sufre retroceso de llama con peligro irreversible de incendio cuando un exceso de apertura de aire quema el gas dentro del inyector.
+La mufla alcanza temperaturas de más de mil grados ante calcinaciones industriales mediante resistencias eléctricas embebidas con el efecto de incinerar muestras.
+La mufla sufre corte irreversible de circuito térmico cuando la rotura de una resistencia interior por sobrecalentamiento interrumpe el ciclo de calcinación.
+La estufa seca material de vidrio y deshidrata muestras ante ciclos controlados mediante circulación de aire caliente con el efecto de evaporar agua.
+La estufa quema las muestras con carbonización irreversible cuando la avería del termostato de seguridad dispara la temperatura sin desconexión.
+El baño termostático calienta recipientes de forma suave y homogénea ante temperaturas límite mediante agua o aceite circulante con el efecto de termostatizar.
+El baño de aceite sufre ignición con incendio irreversible cuando la evaporación del fluido o fallo de control térmico supera el punto de inflamación.
+El rotavapor evapora disolventes orgánicos a baja temperatura ante presiones reducidas mediante matraz rotativo en baño caliente con el efecto de concentrar extractos.
+El rotavapor implode con proyección irreversible de vidrio cuando microfisuras invisibles en el balón de evaporación ceden bajo el alto vacío de trabajo.
+El liofilizador sublima agua de muestras congeladas ante vacío extremo mediante condensador criogénico con el efecto de obtener polvos estables termosensibles.
+El liofilizador colapsa la estructura con fusión irreversible del producto si la pérdida de vacío descongela el hielo transformándolo en líquido.
+El destilador purifica agua corriente ante ensayos químicos mediante evaporación y condensación continua con el efecto de suministrar agua de baja conductividad.
+El destilador quema sus resistencias eléctricas con destrucción irreversible cuando una interrupción en el suministro de agua corriente vacía el calderín activo.
+El agitador magnético mezcla fases líquidas ante disoluciones homogéneas mediante imán rotatorio bajo plato calefactor con el efecto de mover moscas teflonadas.
+El agitador pierde acoplamiento con giro loco irreversible cuando un exceso de viscosidad en la disolución frena la mosca desacoplándola del motor.
+El vórtex homogeneiza suspensiones celulares en tubos de ensayo ante agitaciones rápidas mediante cabezal oscilante excéntrico con el efecto de resuspender pellets.
+El vórtex rompe los tubos con vertido irreversible de patógenos si se emplean recipientes de plástico fatigados sometidos a frecuencias máximas.
+El sonicador lisa paredes celulares y dispersa nanopartículas ante ultrasonidos de potencia mediante sonda de titanio piezoeléctrica con el efecto de cavitar líquidos.
+El sonicador padece erosión con picadura irreversible en la punta de titanio cuando millones de ciclos de cavitación arrancan metal contaminando la muestra.
+El homogeneizador desintegra tejidos biológicos densos ante extracciones de proteínas mediante rotor y estator de corte rápido con el efecto de homogeneizar.
+El homogeneizador agarrota sus cuchillas de modo irreversible cuando fragmentos óseos o conectivos no triturados traban el estator a veinte mil revoluciones.
+El microscopio resuelve detalles celulares micrométricos ante haces luminosos enfocados mediante sistema compuesto de objetivo y ocular con el efecto de ampliar imágenes.
+El microscopio sufre rayado irreversible de la lente frontal del objetivo de inmersión cuando se enfoca en seco forzando el cristal contra el cubreobjetos.
+El micrótomo corta secciones tisulares de pocas micras ante tinciones histológicas mediante cuchilla de diamante o acero templado con el efecto de montar cortes.
+El micrótomo produce mellas con cortes estriados irreversibles cuando la presencia de grapas quirúrgicas o calcificaciones en la parafina desboca la cuchilla.
+El portaobjetos sostiene extensiones citológicas fijadas ante el microscopio mediante lámina de vidrio óptico transparente con el efecto de permitir el examen.
+El portaobjetos se quiebra de modo irreversible bajo la presión del condensador cuando el tope mecánico de enfoque desajustado aplasta la preparación.
+El cubreobjetos aplana y protege la preparación histológica ante resinas de montaje mediante lámina de vidrio ultrafina con el efecto de evitar aberraciones.
+El cubreobjetos se fragmenta con desgarro irreversible de la muestra cuando burbujas de aire atrapadas obligan a presionar sin la debida elasticidad.
+La cámara de Neubauer cuantifica células microscópicas en volumen conocido ante retículas grabadas mediante recuento en cuadrícula con el efecto de tasar densidades.
+La cámara pierde nitidez de modo irreversible cuando el frotado con polvos abrasivos borra las finas líneas grabadas al ácido de la retícula.
+La incubadora mantiene cultivos microbianos a temperatura y dióxido de carbono óptimos ante cinéticas de crecimiento mediante control de atmósfera con el efecto de proliferar.
+La incubadora destruye cepas con muerte celular irreversible cuando una deriva térmica ascendente descontrolada cocina los cultivos en placas.
+La campana de gases evacua vapores tóxicos o inflamables ante manipulaciones químicas mediante tiro forzado y guillotina frontal con el efecto de proteger al personal.
+La campana pierde contención con intoxicación irreversible del área si el fallo del extractor de tejado genera retorno de gases hacia el laboratorio.
+La cápsula de evaporación concentra disoluciones salinas a sequedad ante llamas directas mediante cuenco semiesférico de porcelana con el efecto de evaporar agua.
+La cápsula se agrieta con vertido irreversible de sal fundida cuando sales anhidras hidratadas bruscamente desatan proyecciones térmicas explosivas.
+El tubo de ensayo contiene microensayos químicos cualitativos ante precipitaciones rápidas mediante cilindro de vidrio borosilicatado con el efecto de observar virajes.
+El tubo se raja con fractura irreversible cuando el calentamiento puntual en el fondo sin agitación genera vapor súbito que proyecta el reactivo hirviente.
+El vial preserva muestras volátiles o cromatográficas ante inyectores automáticos mediante frasco de vidrio cerrado con tapón perforable con el efecto de inyectar.
+El vial sufre evaporación con pérdida irreversible del estándar analítico si la aguja del automuestreador rasga el septo de teflón perdiendo estanqueidad.
+La placa de Petri contiene medios de agar sólido ante cultivos microbiológicos mediante caja plana circular con tapa con el efecto de aislar colonias puras.
+La placa sufre contaminación con destrucción irreversible del cultivo cuando la condensación de la tapa gotea sobre el agar mezclando colonias disjuntas.
+El asa de siembra siembra inóculos bacterianos en estrías ante placas estériles mediante hilo de platino o nicrom estéril con el efecto de aislar clones.
+El asa quema las bacterias con esterilización fallida irreversible si se toma el inóculo antes de que el filamento incandescentemente enrojecido se enfríe.
+El filtro intercepta fases sólidas suspendidas ante vacíos de laboratorio mediante membrana porosa retentiva con el efecto de clarificar el líquido filtrado.
+El filtro se rompe con paso irreversible de turbidez cuando la depresión de la trompa de agua supera la resistencia mecánica del disco filtrante mojado.
+El papel de filtro retiene precipitados gravimétricos ante lavados de sales mediante celulosa pura sin cenizas con el efecto de calcinar cuantitativamente.
+El papel se desgarra con fuga irreversible del analito cuando un chorro directo de agua desde el frasco lavador perfora el vértice del cono plegado.
+El embudo büchner acelera filtraciones al vacío de grandes volúmenes ante matraces kitasato mediante placa perforada plana con el efecto de secar tortas.
+El büchner sufre fisuras irreversibles en la base perforada cuando tensiones mecánicas o impactos desprenden trozos de la porcelana vidriada.
+El matraz kitasato soporta depresiones de vacío durante filtraciones forzadas ante bombas de succión mediante paredes de vidrio extragruesas con tubuladura lateral.
+El kitasato implode con estallido destructivo irreversible si defectos superficiales o tensiones internas colapsan el vidrio sometido a alto vacío.
+La trampa de vacío condensa vapores corrosivos antes de la bomba ante destilaciones al vacío mediante dedo frío criogénico con el efecto de proteger el aceite mecánico.
+La trampa rebosa con corrosión irreversible de la bomba si el calentamiento del refrigerante licúa los ácidos vertiéndolos a los pistones mecánicos.
+El tubo refrigerante condensa vapores de ebullición ante síntesis a reflujo mediante camisa de agua fría circulante con el efecto de mantener constante el volumen.
+El refrigerante desata sobrepresión con explosión irreversible del balón cuando el fallo de corte en el suministro de agua sobrecalienta la columna de reflujo.
+El serpentín maximiza el intercambio de calor en espacios reducidos ante condensadores mediante tubo helicoidal continuo con el efecto de enfriar vapores rápidos.
+El serpentín se calcifica con pérdida irreversible de transferencia térmica cuando aguas duras taponan las espiras interiores del circuito de refrigeración.
+La llave de paso intercepta o desvía flujos de fluidos de vidrio ante montajes complejos mediante macho esmerilado de vidrio o teflón con el efecto de canalizar gases.
+La llave se agarrota con bloqueo irreversible cuando reactivos alcalinos atacan el vidrio desmoronando la película de ajuste esmerilada.
+El inóculo inicia la fermentación biológica ante biorreactores estériles mediante biomasa celular activa con el efecto de sintetizar metabolitos de interés.
+El inóculo fracasa con muerte celular irreversible si la adición de la suspensión celular se realiza en un medio cuya temperatura excede los límites biológicos.
+El soluto se disuelve a nivel molecular en el seno del solvente ante mezclas homogéneas mediante solvatación de iones o moléculas con el efecto de formar disoluciones.
+El soluto precipita con decantación irreversible cuando la evaporación del solvente o descenso térmico supera la curva de solubilidad de saturación.
+El solvente disgrega las fuerzas de cohesión del soluto ante la agitación química mediante interacciones dipolares con el efecto de homogeneizar la mezcla.
+El solvente se inflama con deflagración irreversible en el laboratorio si sus vapores volátiles alcanzan puntos calientes que superen su temperatura de autoignición.
+La solución constituye un sistema monofásico termodinámicamente estable ante mezclas de dos o más componentes con el efecto de permitir reacciones en fase líquida.
+La solución sufre enturbiamiento irreversible con descomposición química cuando la oxidación o ataque bacteriano desestabiliza los reactivos en disolución.
+La suspensión mantiene partículas sólidas no solubles dispersas temporalmente ante agitación mediante energía mecánica con el efecto de dosificar suspensiones.
+La suspensión experimenta caking con compactación irreversible en el fondo del frasco cuando las partículas desestabilizadas forman un sedimento duro no redispersable.
+La emulsión dispersa microgotas de un líquido inmiscible en otro ante la presencia de emulgentes mediante tensión interfacial baja con el efecto de mezclar fases.
+La emulsión se rompe con separación irreversible de fases en capas cuando temperaturas extremas o sales rompen la película protectora del surfactante.
+El gel retiene grandes cantidades de solvente en una red polimérica tridimensional ante coagulaciones controladas mediante enlaces cruzados con el efecto de dar consistencia.
+El gel sufre sinéresis con exudación irreversible de líquido cuando el encogimiento espontáneo de la red polimérica expulsa el solvente ocluido.
+El sol coloidal exhibe fluidez líquida con partículas sólidas en suspensión ante movimientos brownianos mediante repulsión electrostática con el efecto de permanecer estable.
+El sol transiciona a gel con inmovilidad irreversible cuando la adición de electrolitos flocula las cargas superficiales desatando la gelificación masiva.
+El gas ocupa la totalidad del volumen del recipiente contenedor ante expansiones libres mediante energía cinética molecular con el efecto de ejercer presión.
+El gas se fuga con peligro irreversible de asfixia o explosión cuando la pérdida de estanqueidad de las conducciones vacía el cilindro presurizado.
+El vapor coexiste en equilibrio termodinámico con su fase condensada ante temperaturas inferiores a la crítica mediante presión de vapor de saturación con el efecto de calentar.
+El vapor colapsa con condensación súbita e implosión irreversible cuando el enfriamiento brusco de una tubería cerrada genera un vacío extremo.
+El condensado recupera agua pura destilada ante enfriamientos de vapor en plantas térmicas mediante cesión de calor latente con el efecto de cebar calderas.
+El condensado corroe tuberías con picaduras irreversibles cuando la absorción de oxígeno disuelto o dióxido de carbono genera ácido carbónico agresivo.
+La amalgama disuelve metales como plata u oro en mercurio líquido ante uniones químicas mediante aleación pastosa con el efecto de rellenar obturaciones dentales.
+La amalgama se degrada con porosidad irreversible ante corrosión galvánica en la boca cuando diferencias de potencial liberan microtrazas de mercurio elemental.
+La ferrita confiere ductilidad y ferromagnetismo suave a los aceros ante temperaturas ordinarias mediante red cúbica centrada en el cuerpo con el efecto de dar tenacidad.
+La ferrita pierde magnetismo con transición paramagnética irreversible por encima de la temperatura de Curie cuando el desorden térmico desorienta los espines.
+La austenita disuelve hasta dos por ciento de carbono en el hierro ante altas temperaturas mediante red cúbica centrada en las caras con el efecto de admitir temple.
+La austenita se descompone con distorsión volumétrica irreversible ante enfriamientos rápidos cuando la transformación martensitica deforma la pieza templada.
+La martensita maximiza la dureza mecánica de los aceros templados ante enfriamientos bruscos mediante estructura tetragonal distorsionada sobresaturada con el efecto de resistir desgaste.
+La martensita padece fragilidad extrema con agrietamiento irreversible si no se somete inmediatamente a un tratamiento de revenido que alivie tensiones internas.
+La cementita aporta elevada dureza mineral y resistencia al rayado ante el equilibrio hierro-carbono mediante carburo de hierro ortorrómbico con el efecto de reforzar aleaciones.
+La cementita se descompone en ferrita y grafito de modo irreversible ante recocidos de grafitización prolongados cuando temperaturas extremas rompen el carburo.
+La perlita combina resistencia mecánica con ductilidad moderada ante enfriamientos lentos mediante láminas alternas de ferrita y cementita con el efecto de dar tenacidad.
+La perlita padece esferoidización con ablandamiento irreversible cuando calentamientos prolongados bajo la línea eutectoide transforman las láminas en glóbulos.
+El grafito conduce electricidad y lubrica en seco ante cizalladuras mediante capas planas hexagonales de carbono con enlaces débiles con el efecto de resistir fuego.
+El grafito se exfolia con pérdida irreversible de masa ante atmósferas oxidantes a más de setecientos grados cuando el oxígeno volatiliza el carbono como dióxido.
+El diamante exhibe la máxima dureza mineral y altísima conductividad térmica ante abrasiones mediante red cristalina tetraédrica covalente sp3 con el efecto de cortar metales.
+El diamante se grafitiza con alteración irreversible a más de mil quinientos grados en ausencia de oxígeno cuando la red se reorganiza en láminas hexagonales.
+El fullereno atrapa moléculas y neutraliza radicales libres ante procesos nanotecnológicos mediante jaula esferoidal de sesenta átomos de carbono con el efecto de catalizar.
+El fullereno se destruye con rotura irreversible de jaula ante ataques fotoquímicos intensos de oxígeno singlete cuando se abren los anillos pentagonales.
+El grafeno conduce electrones con velocidad balística y ofrece resistencia mecánica récord ante tensiones planas mediante monocapa bidimensional hexagonal de carbono con el efecto de revolucionar chips.
+El grafeno pierde conductividad con defecto irreversible ante desgarros mecánicos o funcionalización oxidativa que rompa la hibridación plana de electrones pi.
+El nanotubo soporta esfuerzos de tracción extremos y conduce calor axialmente ante nanoestructuras mediante láminas cilíndricas enrolladas con el efecto de reforzar materiales.
+El nanotubo padece aplastamiento con colapso irreversible ante presiones hidrostáticas ultraaltas cuando el pandeo radial cierra el conducto hueco cilíndrico.
+La zeolita intercambia cationes y tamiza moléculas ante procesos de ablandamiento de agua mediante armazón aluminosilicato microporoso regular con el efecto de secar gases.
+La zeolita colapsa con destrucción irreversible de su red porosa ante soluciones de ácido fluorhídrico que disuelven los puentes de sílice y alúmina.
+El aerogel aísla térmicamente con la menor densidad sólida conocida ante choques de calor mediante red nanoporosa de sílice con el efecto de evitar conducción térmica.
+El aerogel se desmorona con pulverización irreversible ante contactos con agua líquida cuando las tensiones capilares desintegran la frágil red nanoporosa.
+El hidrogel absorbe cientos de veces su peso en agua ante apósitos biomédicos mediante cadenas hidrófilas entrecruzadas con el efecto de mantener heridas húmedas.
+El hidrogel sufre deshidratación irreversible con rigidización quebradiza ante ambientes secos prolongados cuando la pérdida de agua rompe la elasticidad.
+El elastómero recupera grandes deformaciones elásticas ante tensiones de tracción mediante cadenas poliméricas enrolladas con enlaces cruzados con el efecto de sellar juntas.
+El elastómero se vuelve quebradizo con rotura irreversible por envejecimiento con ozono cuando el ataque atmosférico corta los dobles enlaces de la goma.
+El polímero termoestable mantiene su rigidez y no funde ante el calor mediante reticulación química tridimensional densa con el efecto de fabricar carcasas rígidas.
+El termoestable sufre carbonización irreversible sin fundir ante excesos térmicos cuando el calor descompone los enlaces covalentes destruyendo la pieza.
+El termoplástico se ablanda y moldea repetidamente ante aportes de calor mediante cadenas lineales unidas por fuerzas de Van der Waals con el efecto de extruir tubos.
+El termoplástico se degrada con pérdida irreversible de peso molecular ante sobrecalentamientos en husillo cuando la degradación térmica rompe las cadenas poliméricas.
+El material composito combina ligereza de matriz polimérica con alta resistencia mecánica ante esfuerzos estructurales mediante fibras de carbono con el efecto de aligerar aviones.
+El composito sufre delaminación interna catastrófica irreversible ante impactos cuando las capas de fibra se separan perdiendo la resistencia a compresión.
+La cerámica avanzada resiste desgastes abrasivos y altísimas temperaturas ante toberas mediante enlaces iónicos y covalentes refractarios con el efecto de aislar calor.
+La cerámica padece fractura frágil catastrófica irreversible sin deformación previa cuando el choque térmico o mecánico propaga microgrietas a velocidad del sonido.

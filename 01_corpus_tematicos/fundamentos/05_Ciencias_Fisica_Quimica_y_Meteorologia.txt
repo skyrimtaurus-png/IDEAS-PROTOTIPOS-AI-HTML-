@@ -1,0 +1,117 @@
+# CORPUS LIMPIO 05 — FÍSICA, QUÍMICA, ASTRONOMÍA Y METEOROLOGÍA (TRIPLETAS S→V→O)
+El viento es el flujo de aire en movimiento a gran escala dentro de la atmósfera terrestre. Surge por las diferencias de presión atmosférica y de temperatura causadas por el calentamiento solar desigual de la Tierra. Además, sirve para transportar humedad, regular el clima planetario y generar energía eólica mediante aerogeneradores.
+La presión atmosférica es la fuerza por unidad de superficie que ejerce el peso de la columna de aire sobre la Tierra. Disminuye a medida que aumenta la altitud sobre el nivel del mar.
+El ciclo hidrológico es el proceso continuo de circulación del agua en la Tierra. La radiación del Sol calienta y evapora el agua líquida de océanos y ríos formando vapor de agua. El vapor asciende, se enfría y se condensa en nubes que precipitan en forma de lluvia o nieve.
+La termodinámica es la rama de la física que estudia la transferencia de calor, la energía interna y el trabajo mecánico. En los motores térmicos sirve para convertir la energía calorífica de la combustión en movimiento útil.
+La entropía es la magnitud termodinámica que mide el grado de desorden molecular y la dispersión de energía en un sistema físico. Su concepto opuesto es la neguentropía, que representa el orden y la organización estructural.
+La segunda ley de Newton establece que la fuerza neta aplicada sobre un cuerpo es igual al producto de su masa por su aceleración (F = m * a).
+La ley de Ohm establece que el voltaje o diferencia de potencial en un circuito eléctrico es igual al producto de la intensidad de corriente por la resistencia eléctrica (V = I * R).
+La energía cinética es la energía que posee un cuerpo debido a su movimiento y se calcula como la mitad de la masa por la velocidad al cuadrado (Ec = 0.5 * m * v²).
+La energía potencial gravitatoria es la energía almacenada por un cuerpo en virtud de su altura dentro de un campo gravitatorio (Ep = m * g * h).
+La potencia eléctrica mide la energía eléctrica transferida por unidad de tiempo, se expresa en vatios y es igual al voltaje multiplicado por la corriente (P = V * I).
+La densidad es una propiedad intensiva de la materia igual al cociente entre la masa de un cuerpo y el volumen que ocupa (ρ = m / V).
+El hielo flota sobre el agua líquida porque al congelarse sus moléculas forman una red cristalina hexagonal con menor densidad que el agua en estado líquido.
+La conducción térmica transfiere calor por contacto directo entre partículas en materiales sólidos como los metales.
+La convección térmica transporta calor mediante el movimiento ascendente y descendente de fluidos líquidos o gaseosos.
+La radiación térmica propaga energía térmica mediante ondas electromagnéticas infrarrojas incluso a través del vacío espacial.
+Un catalizador es una sustancia química que acelera la velocidad de una reacción reduciendo su energía de activación sin consumirse en el proceso.
+La ley de Boyle-Mariotte demuestra que a temperatura constante la presión de un gas ideal es inversamente proporcional a su volumen.
+El átomo es la unidad fundamental de la materia compuesta por un núcleo de protones y neutrones rodeado por electrones con carga negativa.
+El cobre y la plata son metales con electrones libres de valencia que conducen con gran eficiencia la corriente eléctrica y el calor.
+El vidrio, la madera seca, el caucho y el plástico son materiales aislantes dieléctricos que impiden el paso libre de la corriente eléctrica.
+El titanio es un metal de transición muy ligero que resiste la corrosión marina. Posee una alta biocompatibilidad con el tejido óseo humano. Además, se utiliza para construir implantes médicos y naves espaciales.
+El grafeno es una lámina de carbono puro de un solo átomo de espesor dispuesta en red hexagonal. El grafeno sirve para fabricar baterías ultrarrápidas, pantallas flexibles y sensores cuánticos.
+El litio es un metal alcalino blando y el elemento sólido más ligero de la tabla periódica. Posee un elevado potencial electroquímico para almacenar energía. Se utiliza para fabricar baterías recargables de teléfonos y vehículos eléctricos.
+La fotosíntesis es un proceso bioquímico mediante el cual las plantas transforman la luz solar en energía química. Consume dióxido de carbono y agua para producir glucosa. Además, libera oxígeno puro hacia la atmósfera terrestre.
+La gravedad es una fuerza física fundamental que atrae entre sí a todos los cuerpos con masa. Mantiene a los planetas en órbita alrededor del Sol y sujeta la atmósfera terrestre. Surge de la curvatura del espacio-tiempo causada por la masa.
+El sistema solar es un sistema planetario ubicado en la galaxia Vía Láctea cuyo centro es el Sol. Contiene ocho planetas principales, lunas, asteroides y cometas. La Tierra ocupa la tercera órbita dentro de la zona habitable.
+El oxígeno es un elemento químico gaseoso esencial para la respiración celular de los seres vivos. Representa cerca del veintiuno por ciento de la atmósfera terrestre. Además, permite las reacciones de combustión y oxidación.
+El silicio es un elemento metaloide semiconductor muy abundante en la corteza terrestre. Permite controlar el paso de corriente eléctrica en circuitos integrados. Se utiliza para fabricar microprocesadores, transistores y paneles solares.
+El agujero negro es una región del espacio-tiempo cuya enorme concentración de masa genera un campo gravitatorio extremo. Posee una frontera llamada horizonte de sucesos de la que no escapa la luz. Surge tras el colapso gravitacional de estrellas supermasivas.
+La electricidad es un fenómeno físico originado por la presencia y el flujo de cargas eléctricas. Se manifiesta mediante corriente eléctrica, campos electromagnéticos y diferencia de potencial. Sirve para alimentar motores, iluminación, telecomunicaciones y computadoras.
+El agua es una sustancia líquida transparente compuesta por dos átomos de hidrógeno y uno de oxígeno. Es indispensable para el mantenimiento de toda forma de vida celular. Además, regula el clima del planeta mediante el ciclo hidrológico.
+El cobre es un metal de transición rojizo que posee una altísima conductividad eléctrica y térmica. Resiste el desgaste mecánico y permite una fácil maleabilidad industrial. Se utiliza para fabricar cables eléctricos, bobinas de motores y tuberías.
+El hidrógeno es el elemento químico más ligero y más abundante de todo el universo observable. Posee un único protón y un electrón en su estado neutro. Alimenta la fusión nuclear de las estrellas y sirve como combustible limpio.
+La placa tectónica es un fragmento rígido de la litosfera terrestre que flota sobre el manto superior. Se desplaza lentamente debido a las corrientes de convección térmica del interior planetario. Su choque produce cordilleras montañosas, terremotos y actividad volcánica.
+El láser es un dispositivo óptico que emite un haz de luz coherente, monocromático y altamente concentrado. Funciona mediante la emisión estimulada de radiación electromagnética. Se utiliza para realizar cirugías oculares, cortes industriales de precisión y telecomunicaciones por fibra óptica.
+La entropía es una magnitud física termodinámica que mide el grado de desorden molecular de un sistema. Aumenta siempre en todo proceso irreversible dentro de un sistema aislado. Determina la dirección natural del flujo de calor y la flecha del tiempo.
+El cuásar es un núcleo galáctico activo extremadamente luminoso alimentado por un agujero negro supermasivo. Emite gigantescas cantidades de radiación electromagnética al acretar materia circundante. Permite estudiar la evolución temprana del universo distante.
+La Tierra es el tercer planeta del sistema solar y gira alrededor del sol.
+El sol es una estrella gigante que proporciona luz y calor a nuestro mundo.
+La luna es el satélite natural de la Tierra y no tiene luz propia.
+Un día en la Tierra dura veinticuatro horas y un año dura trescientos sesenta y cinco días.
+El agua cubre la mayor parte de la superficie del planeta en océanos y mares.
+La atmósfera terrestre contiene el oxígeno que respiran todos los seres vivos.
+Las plantas producen su propio alimento mediante la luz solar y la fotosíntesis.
+La materia existe en tres estados fundamentales: sólido, líquido y gaseoso.
+El hielo es agua en estado sólido, el río es agua líquida y el vapor es gas.
+La gravedad es la fuerza invisible que atrae los objetos hacia el centro de la Tierra.
+El imán tiene dos polos magnéticos llamados norte y sur.
+Polos magnéticos iguales se repelen y polos magnéticos opuestos se atraen.
+La primera ley de Newton o ley de la inercia establece que todo cuerpo permanece en reposo o en movimiento rectilíneo uniforme a menos que una fuerza externa neta actúe sobre él.
+La tercera ley de Newton o principio de acción y reacción afirma que cuando un cuerpo ejerce una fuerza sobre un segundo cuerpo, este ejerce sobre el primero una fuerza de igual magnitud y dirección pero de sentido opuesto.
+La ley de gravitación universal de Newton establece que dos masas se atraen con una fuerza proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que las separa.
+El trabajo mecánico se realiza cuando una fuerza desplaza un cuerpo en la dirección del movimiento y se mide en julios (J): W = F × d × cos(θ).
+La ley de conservación de la energía establece que la energía total de un sistema aislado permanece constante: no se crea ni se destruye, únicamente se transforma de una forma a otra.
+La presión física es la fuerza perpendicular ejercida por unidad de superficie (P = F / A) y se mide en pascales (Pa) en el Sistema Internacional.
+El principio de Arquímedes explica que todo cuerpo sumergido total o parcialmente en un fluido experimenta un empuje vertical hacia arriba igual al peso del volumen de fluido desalojado. Por eso flotan los barcos de acero hueco y los icebergs.
+El principio de Pascal establece que la presión aplicada a un fluido incompresible encerrado se transmite con igual intensidad en todas las direcciones, lo cual permite multiplicar fuerzas en las prensas y frenos hidráulicos.
+El principio de Bernoulli demuestra que en un fluido ideal en movimiento, donde aumenta la velocidad del flujo disminuye la presión estática, contribuyendo a la sustentación aerodinámica de las alas de un avión.
+La temperatura mide la energía cinética promedio de agitación térmica de las moléculas de un cuerpo, mientras que el calor es la transferencia de energía térmica desde un cuerpo más caliente hacia otro más frío.
+El cero absoluto corresponde a 0 kelvin (-273,15 °C) y representa el límite físico inferior de temperatura donde la agitación térmica molecular alcanza su mínimo cuántico.
+El calor específico es la cantidad de energía térmica necesaria para elevar en un grado Celsius la temperatura de un kilogramo de sustancia. El agua posee un calor específico muy alto que modera el clima de las costas.
+La fusión es el cambio de estado físico de sólido a líquido por absorción de calor, la solidificación pasa de líquido a sólido, la vaporización pasa de líquido a gas y la condensación transforma el vapor nuevamente en líquido.
+La sublimación es la transición directa de una sustancia desde el estado sólido al estado gaseoso sin pasar por la fase líquida, como ocurre con el hielo seco de dióxido de carbono.
+La ley de Coulomb establece que cargas eléctricas del mismo signo se repelen y cargas de signo opuesto se atraen con una fuerza inversamente proporcional al cuadrado de su distancia.
+Un conductor eléctrico como el cobre, la plata o el aluminio posee electrones libres que permiten el paso fácil de la corriente eléctrica, mientras que un aislante como el vidrio, el caucho o el plástico seco impide el flujo de cargas.
+Un semiconductor como el silicio o el germanio tiene una conductividad intermedia que puede modularse con impurezas o campos eléctricos, formando la base de diodos, transistores y microchips.
+Un condensador o capacitor es un componente electrónico pasivo que almacena energía en un campo eléctrico entre dos placas conductoras separadas por un dieléctrico.
+Una bobina o inductor almacena energía en un campo magnético cuando circula corriente eléctrica por sus espiras y se opone a los cambios bruscos de corriente.
+Un transformador eléctrico utiliza dos bobinas acopladas por un núcleo ferromagnético para elevar o reducir el voltaje de la corriente alterna conservando la potencia eléctrica.
+La velocidad de la luz en el vacío es una constante física universal de aproximadamente 299.792 kilómetros por segundo y constituye el límite máximo de velocidad para cualquier señal o partícula en el universo.
+La refracción de la luz es el cambio de dirección y velocidad que experimenta un rayo luminoso al pasar oblicuamente de un medio transparente a otro con distinto índice de refracción, como del aire al agua o a una lente.
+El sonido es una onda mecánica longitudinal de presión que necesita un medio material sólido, líquido o gaseoso para propagarse; por eso el sonido no puede viajar en el vacío del espacio exterior.
+El efecto Doppler es el cambio aparente en la frecuencia de una onda percibida por un observador cuando la fuente emisora se acerca (tono más agudo o corrimiento al azul) o se aleja (tono más grave o corrimiento al rojo).
+La fisión nuclear divide el núcleo de un átomo pesado como el uranio-235 liberando gran cantidad de energía y neutrones, mientras que la fusión nuclear une núcleos ligeros como el hidrógeno para formar helio en el interior de las estrellas.
+El número atómico Z de un elemento químico indica la cantidad exacta de protones en el núcleo de sus átomos y define su identidad en la tabla periódica.
+Los isótopos son átomos de un mismo elemento químico que tienen igual número de protones pero diferente número de neutrones en su núcleo, como el carbono-12 y el carbono-14.
+El enlace iónico se forma por transferencia de electrones entre un metal que cede electrones convirtiéndose en catión y un no metal que los gana convirtiéndose en anión, como en el cloruro de sodio (sal común).
+El enlace covalente se forma cuando dos átomos no metálicos comparten uno o más pares de electrones para alcanzar estabilidad electrónica, como en las moléculas de agua (H2O), oxígeno (O2) y metano (CH4).
+La escala de pH mide la concentración de iones hidrógeno de una disolución acuosa de 0 a 14: un pH menor que 7 es ácido, un pH igual a 7 es neutro como el agua pura y un pH mayor que 7 es básico o alcalino.
+Una reacción de oxidación-reducción (redox) implica transferencia de electrones: la sustancia que pierde electrones se oxida y la sustancia que gana electrones se reduce.
+La ley de conservación de la masa de Lavoisier demuestra que en toda reacción química cerrada la masa total de los reactivos es exactamente igual a la masa total de los productos.
+El carbono es un elemento químico tetravalente fundamental para la química orgánica porque puede formar cadenas largas, anillos y enlaces simples, dobles o triples consigo mismo y con hidrógeno, oxígeno y nitrógeno.
+El nitrógeno molecular (N2) constituye aproximadamente el 78 por ciento del aire atmosférico terrestre y es indispensable para sintetizar aminoácidos, proteínas y ácidos nucleicos.
+El hierro es un metal de transición ferromagnético esencial para fabricar acero estructural en ingeniería y para transportar oxígeno en la sangre dentro de la molécula de hemoglobina.
+La presión atmosférica es el peso que ejerce la columna de aire sobre la superficie terrestre; disminuye conforme aumenta la altitud sobre el nivel del mar, razón por la cual el agua hierve a menor temperatura en las montañas altas.
+Un frente frío meteorológico ocurre cuando una masa de aire frío y denso avanza desplazando hacia arriba al aire cálido y húmedo, provocando condensación rápida, nubes cumulonimbos y lluvias intensas.
+El efecto Coriolis desvía la trayectoria de los vientos y corrientes oceánicas debido a la rotación de la Tierra, haciendo girar las tormentas ciclónicas en sentido antihorario en el hemisferio norte y horario en el hemisferio sur.
+La capa de ozono estratosférico filtra y absorbe la mayor parte de la radiación ultravioleta dañina del Sol, protegiendo el ADN de los seres vivos en la superficie terrestre.
+Las placas tectónicas son grandes fragmentos rígidos de la litosfera terrestre que se desplazan sobre el manto superior; su choque, separación o roce genera cordilleras, volcanes y terremotos.
+Explica el concepto de entropía en termodinámica. | En termodinámica, la entropía es una medida de la aleatoriedad de un sistema y su capacidad para generar trabajo útil. Está estrechamente relacionada con la Segunda Ley de la Termodinámica, que establece que la entropía de un sistema nunca puede reducirse con el tiempo a menos que se le agregue energía. La entropía es esencial para comprender cómo ocurren la transferencia de calor y los procesos químicos en la naturaleza.
+Explica cómo funciona un relé. | Un relé es un interruptor electromagnético controlado por un circuito eléctrico de baja potencia. Consta de una bobina con núcleo ferromagnético y un conjunto de contactos móviles. Cuando circula una pequeña corriente por la bobina, el electroimán atrae la armadura y cierra (en un relé normalmente abierto, NO) o conmuta los contactos de potencia, permitiendo que fluya una corriente mayor hacia la carga. Cuando se corta la corriente de la bobina, un resorte devuelve los contactos a su posición abierta de reposo, interrumpiendo el circuito de potencia con aislamiento galvánico.
+¿Cuál es la fórmula química del agua? | La fórmula química del agua es H₂O.
+¿Cuál es el planeta más cercano al sol? | El planeta más cercano al sol es Mercurio.
+Mercurio es el primer planeta del sistema solar y el más cercano al Sol; carece de atmósfera densa, por lo que sufre temperaturas extremas entre el día abrasador y la noche helada.
+Venus es el segundo planeta del sistema solar y el más caliente debido a un intenso efecto invernadero provocado por su densa atmósfera de dióxido de carbono y nubes de ácido sulfúrico.
+Marte es el cuarto planeta del sistema solar, conocido como el planeta rojo por el óxido de hierro de su superficie; posee el volcán más alto del sistema solar, el Monte Olimpo, y casquetes polares de hielo.
+Júpiter es el quinto y más grande planeta del sistema solar; es un gigante gaseoso compuesto principalmente de hidrógeno y helio que posee una intensa magnetosfera y decenas de lunas como Ío, Europa, Ganímedes y Calisto.
+Saturno es el sexto planeta del sistema solar, célebre por su extenso y brillante sistema de anillos formados por millones de fragmentos de hielo y polvo rocoso en órbita ecuatorial.
+Urano es el séptimo planeta del sistema solar, un gigante helado rico en agua, amoníaco y metano cuyo eje de rotación está inclinado casi noventa y ocho grados.
+Neptuno es el octavo y más lejano planeta principal del sistema solar, caracterizado por su color azul intenso debido al metano atmosférico y los vientos supersónicos más veloces de los planetas.
+Un año luz no es una unidad de tiempo sino una unidad astronómica de longitud que equivale a la distancia que recorre la luz en el vacío durante un año terrestre: unos 9,46 billones de kilómetros.
+Una supernova es la explosión estelar colosal que marca el final de estrellas masivas, dispersando por el cosmos elementos pesados como carbono, oxígeno, silicio y hierro necesarios para formar planetas y vida.
+El espectro electromagnético ordena las ondas según su frecuencia y energía creciente: ondas de radio, microondas, infrarrojo, luz visible (rojo a violeta), radiación ultravioleta, rayos X y rayos gamma.
+En un circuito eléctrico en serie la misma corriente atraviesa todos los componentes y la resistencia equivalente es la suma directa R_eq = R1 + R2 + R3; si un componente se abre, se interrumpe todo el circuito.
+En un circuito eléctrico en paralelo todos los componentes comparten el mismo voltaje entre sus terminales y la corriente se divide por las ramas: 1/R_eq = 1/R1 + 1/R2; si una bombilla se funde, las demás siguen encendidas.
+Las leyes de Kirchhoff gobiernan todo circuito eléctrico: la ley de nodos conserva la carga eléctrica (la suma de corrientes que entran a un nodo iguala a las que salen) y la ley de mallas conserva la energía (la suma algebraica de voltajes en un lazo cerrado es cero).
+El efecto fotoeléctrico explicado por Albert Einstein demuestra que la luz está cuantizada en paquetes de energía llamados fotones (E = h × f) capaces de arrancar electrones de la superficie de un metal, principio base de los paneles solares fotovoltaicos.
+El hidrógeno (H, número atómico 1) es el elemento químico más ligero y abundante del universo, combustible principal de la fusión nuclear en las estrellas.
+El helio (He, número atómico 2) es un gas noble inerte y muy ligero que no reacciona químicamente en condiciones normales y se emplea en criogenia de imanes superconductores.
+El sodio (Na) y el potasio (K) son metales alcalinos altamente reactivos cuyos iones disueltos generan el potencial bioeléctrico de las neuronas y del músculo cardíaco.
+El calcio (Ca) es un metal alcalinotérreo indispensable en la naturaleza para formar rocas calizas y en el cuerpo humano para mineralizar huesos, dientes y activar la coagulación sanguínea.
+El aluminio (Al) es un metal ligero, maleable y resistente a la corrosión gracias a su fina capa pasiva de óxido, ampliamente utilizado en aeronáutica, envases y líneas eléctricas.
+El oro (Au) y el platino (Pt) son metales nobles de transición que resisten la oxidación y los ácidos comunes, utilizados en contactos electrónicos de alta fiabilidad y catálisis química.
+El ciclo de las rocas en geología transforma continuamente las rocas ígneas (formadas al enfriarse el magma), las rocas sedimentarias (compactadas por erosión y depósito) y las rocas metamórficas (alteradas por alta presión y temperatura profunda).
+La humedad relativa del aire expresa el porcentaje de vapor de agua presente respecto al máximo que el aire puede retener a esa temperatura; cuando alcanza el 100 por ciento en el punto de rocío, el vapor se condensa formando niebla, rocío o nubes.
+Un barómetro mide la presión atmosférica local: un descenso rápido de la presión barométrica suele anunciar la llegada de sistemas de baja presión con nubosidad, viento y precipitaciones, mientras que una presión alta y estable favorece cielos despejados.

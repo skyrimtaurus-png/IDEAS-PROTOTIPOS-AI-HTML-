@@ -1,0 +1,270 @@
+La rodopsina absorbe fotones en la retina ante estímulos lumínicos tenues mediante isomerización del retinal con el efecto de iniciar la fototransducción.
+La rodopsina sufre blanqueamiento irreversible ante deslumbramientos intensos cuando la saturación de fotones agota temporalmente el pigmento visual.
+El cono discrimina longitudes de onda cromáticas ante iluminación fotópica mediante tres tipos de opsinas con el efecto de permitir la visión en color.
+El cono padece degeneración irreversible en la mácula cuando la falta de perfusión retiniana induce ceguera cromática central.
+El bastón capta niveles mínimos de luminosidad ante visión nocturna mediante alta sensibilidad cuántica con el efecto de sustentar la visión escotópica.
+El bastón se deteriora con ceguera nocturna irreversible cuando el déficit crónico de vitamina A impide regenerar el cromóforo funcional.
+La cóclea transduce ondas mecánicas de presión acústica ante vibraciones del estribo mediante células ciliadas del órgano de Corti con el efecto de percibir sonidos.
+La cóclea padece daño sensorial irreversible ante ruidos de impacto extremos cuando el trauma acústico agudo fractura los estereocilios cocleares.
+El mecanorreceptor descarga potenciales de acción ante deformaciones mecánicas táctiles mediante apertura de canales iónicos activados por tensión con el efecto de sensar roces.
+El mecanorreceptor pierde su respuesta elástica de modo irreversible cuando una quemadura térmica profunda necrosa las terminaciones nerviosas cutáneas.
+El nociceptor transduce estímulos mecánicos o térmicos dañinos ante agresiones tisulares mediante receptores de potencial transitorio con el efecto de señalizar dolor.
+El nociceptor entra en sensibilización crónica con hiperalgesia irreversible cuando la persistencia de mediadores inflamatorios rebaja su umbral de disparo.
+El quimiorreceptor monitoriza concentraciones de oxígeno y protones ante acidosis en sangre mediante glomos carotídeos con el efecto de regular la ventilación.
+El quimiorreceptor sufre parálisis funcional con apnea irreversible si una anoxia grave prolongada despolariza destructivamente las células glómicas.
+El fibroblasto sintetiza procolágeno y glicosaminoglicanos ante requerimientos de sostén mediante secreción a la matriz extracelular con el efecto de estructurar tejidos.
+El fibroblasto prolifera en fibrosis patológica irreversible cuando la activación continuada por citoquinas fibrogénicas oblitera la arquitectura del órgano.
+El macrófago fagocita detritos celulares y patógenos opsonizados ante focos lesivos mediante emisión de pseudópodos con el efecto de limpiar tejidos.
+El macrófago deviene incompetente de modo irreversible cuando patógenos intracelulares como micobacterias inhiben la fusión del fagosoma con el lisosoma.
+La plaqueta se adhiere al subendotelio vascular dañado ante roturas vasculares mediante receptores de glucoproteína con el efecto de formar el tapón hemostático primario.
+La plaqueta padece agregación masiva intravascular irreversible ante choque séptico cuando la activación endotelial diseminada desata trombos microvasculares.
+El eritrocito transporta oxígeno molecular disuelto ante presiones parciales alveolares mediante unión a la hemoglobina con el efecto de oxigenar tejidos periféricos.
+El eritrocito sufre hemólisis intravascular irreversible ante estrés osmótico cuando la entrada masiva de agua distiende la membrana bicóncava hasta lisarla.
+El leucocito migra al foco infeccioso ante gradientes de quimiocinas mediante diapédesis transendotelial con el efecto de neutralizar invasores bacterianos.
+El leucocito padece agotamiento de modo irreversible ante sepsis fulminante cuando la neutropenia aguda desprotege al organismo frente a toxinas.
+El linfocito reconoce antígenos peptídicos específicos ante presentaciones celulares mediante receptores clonales con el efecto de dirigir la respuesta adaptativa.
+El linfocito sufre apoptosis masiva con inmunodeficiencia irreversible cuando el virus de inmunodeficiencia humana aniquila selectivamente las poblaciones T colaboradoras.
+El anticuerpo neutraliza toxinas bacterianas ante invasiones patógenas mediante unión bivalente a epitopos con el efecto de opsonizar el patógeno.
+El anticuerpo desencadena autoinmunidad destructiva irreversible cuando complejos inmunes solubles depositados en endotelios lesionan el tejido renal.
+El antígeno estimula la maduración de clones inmunitarios ante el contacto con receptores mediante secuencias epitópicas con el efecto de inducir inmunidad.
+El antígeno muta con evasión inmune irreversible cuando derivas antigénicas virales eluden la memoria protectora generada por vacunación previa.
+El suero transporta electrólitos y anticuerpos libres ante la coagulación sanguínea mediante fracción líquida desprovista de fibrinógeno con el efecto de nutrir tejidos.
+El suero se contamina con turbidez irreversible por hipertrigliceridemia cuando quilomicrones excesivos interfieren la medición en analizadores.
+El plasma mantiene la volemia y transporta factores de coagulación ante el flujo vascular mediante presión coloidosmótica de la albúmina con el efecto de perfundir.
+El plasma sufre extravasación con choque hipovolémico irreversible cuando el aumento agudo de permeabilidad vascular vierte líquido al tercer espacio.
+El folículo madura el ovocito y secreta estrógenos ante el influjo de gonadotropinas mediante proliferación de la granulosa con el efecto de preparar la ovulación.
+El folículo padece atresia prematura irreversible ante toxicidad quimioterápica cuando la destrucción de las células foliculares esteriliza la gónada.
+El alvéolo realiza la hematosis gaseosa ante gradientes de presión alveolar mediante difusión a través de la membrana respiratoria con el efecto de oxigenar la sangre.
+El alvéolo sufre colapso pulmonar irreversible por atelectasia cuando la falta de surfactante pulmonar eleva la tensión superficial alveolar.
+La nefrona depura metabolitos y concentra orina ante la filtración plasmática mediante túbulos contorneados con el efecto de mantener el balance hidrosalino.
+La nefrona padece necrosis tubular irreversible ante isquemia renal grave cuando la anoxia continuada desprende las células epiteliales hacia la luz tubular.
+El glomérulo ultrafiltra el plasma sanguíneo ante la presión hidrostática capilar mediante podocitos y membrana basal con el efecto de generar el filtrado primario.
+El glomérulo sufre esclerosis glomerular irreversible ante glomerulonefritis crónica cuando el depósito de tejido hialino oblitera los capilares filtrantes.
+La vellosidad intestinal absorbe nutrientes y agua ante el quimo digerido mediante epitelio cilíndrico microvelloso con el efecto de asimilar nutrientes.
+La vellosidad experimenta atrofia mucosal irreversible ante celiaquía refractaria cuando el daño inmunológico aplana completamente el epitelio de absorción.
+El tendón transmite la fuerza contráctil muscular al hueso ante tracciones mecánicas mediante haces paralelos de colágeno denso con el efecto de mover palancas óseas.
+El tendón padece rotura completa irreversible ante cargas bruscas cuando la tendinosis degenerativa previa agota la elasticidad del colágeno.
+El ligamento estabiliza las articulaciones ante fuerzas de cizalladura mediante bandas de tejido conectivo fibroso con el efecto de evitar luxaciones óseas.
+El ligamento se desgarra con laxitud articular irreversible tras esguinces de tercer grado cuando la rotura fibrilar supera la capacidad de cicatrización.
+El cartílago articula superficies óseas móviles ante impactos articulares mediante matriz hidratada de colágeno y agrecano con el efecto de amortiguar rozamientos.
+El cartílago sufre desgaste erosivo irreversible ante artrosis avanzada cuando la muerte de condrocitos expone el hueso subcondral al roce seco.
+El periostio nutre y repara la superficie ósea ante fisuras mecánicas mediante células osteoprogenitoras osteogénicas con el efecto de osificar callos de fractura.
+El periostio se desprende con necrosis ósea irreversible ante infecciones subperiósticas cuando la acumulación purulenta desvasculariza la cortical.
+El sarcómero acorta su longitud funcional ante la elevación de calcio intracelular mediante deslizamiento de filamentos finos con el efecto de generar tensión muscular.
+El sarcómero queda en contractura irreversible ante rigor mortis cuando el agotamiento de trifosfato de adenosina impide desenganchar los puentes de miosina.
+La actina polimeriza en microfilamentos ante señales de motilidad celular mediante interacción con miosina con el efecto de contraer el citoesqueleto.
+La actina sufre despolimerización irreversible ante toxinas bacterianas cuando la unión de citocalasina traba la adición de monómeros globulares.
+La miosina hidroliza trifosfato de adenosina ante la contracción muscular mediante cabezas moleculares basculantes con el efecto de traccionar la actina.
+La miosina pierde reactividad enzimática con parálisis irreversible ante desnaturalización térmica cuando la hipertermia extrema desdobla sus puentes cruzados.
+La mitocondria sintetiza energía en forma de trifosfato de adenosina ante gradientes de protones mediante fosforilación oxidativa con el efecto de energizar la célula.
+La mitocondria padece hinchamiento osmótico irreversible ante intoxicación por cianuro cuando el bloqueo de la citocromo oxidasa anula la respiración celular.
+El lisosoma degrada macromoléculas residuales ante la fusión autofágica mediante hidrolasas ácidas activas a bajo potencial de hidrógeno con el efecto de reciclar componentes.
+El lisosoma sufre lisis con autodigestión celular irreversible cuando la rotura de su membrana vierte enzimas ácidas destruyendo el citoplasma.
+El ribosoma traduce ácido ribonucleico mensajero ante la llegada de aminoácidos transferentes mediante enlace peptídico con el efecto de sintetizar polipéptidos.
+El ribosoma se paraliza con muerte celular irreversible ante toxinas ribotóxicas como la ricina que inactivan catalíticamente la subunidad ribosomal mayor.
+El peroxisoma oxida ácidos grasos de cadena muy larga ante requerimientos lipídicos mediante catalasa y oxidasas con el efecto de eliminar peróxido de hidrógeno.
+El peroxisoma fracasa con desmielinización irreversible ante el síndrome de Zellweger cuando mutaciones impiden la biogénesis del orgánulo.
+El estoma regula el intercambio de gases y transpiración foliar ante la luz y humedad mediante turgencia de células oclusivas con el efecto de facilitar la fotosíntesis.
+El estoma queda cerrado con estrés térmico irreversible ante sequía extrema cuando el ácido abscísico bloquea la apertura foliar secando la planta.
+El xilema transporta savia bruta mineral ante la tensión transpiratoria foliar mediante vasos lignificados de traqueas con el efecto de nutrir las hojas.
+El xilema sufre cavitación con embolia irreversible ante sequías prolongadas cuando la rotura de la columna de agua bloquea el ascenso de savia.
+El floema distribuye fotoasimilados de sacarosa ante gradientes de presión hidrostática mediante tubos cribosos cribados con el efecto de alimentar órganos sumidero.
+El floema se tapona con necrosis vegetal irreversible ante infecciones por fitoplasmas cuando la calosa cierra definitivamente las placas cribosas.
+La raíz ancla la estructura vegetal y absorbe agua con iones ante gradientes osmóticos mediante pelos radiculares activos con el efecto de sustentar la planta.
+La raíz sufre asfixia radicular con pudrición irreversible ante suelos anegados cuando la anoxia prolongada destruye el tejido del córtex.
+El cámbium genera madera y floema secundario ante el crecimiento estacional mediante división meristemática activa con el efecto de ensanchar el tallo leñoso.
+El cámbium muere con secado del árbol de modo irreversible ante heridas perimetrales profundas cuando el anillado corta el flujo vascular.
+La feromona desencadena pautas de comportamiento gregario o reproductor ante emisores químicos mediante recepción olfativa con el efecto de coordinar colonias.
+La feromona queda enmascarada con desorientación irreversible de la colonia cuando contaminantes ambientales saturan los receptores de las antenas.
+La auxina elonga células vegetales en el ápice ante estímulos de gravedad o luz mediante bombeo de protones a la pared con el efecto de orientar tropismos.
+La auxina herbicida desata crecimiento desordenado con muerte irreversible de la maleza cuando dosis sintéticas masivas deforman y rompen los tallos.
+El etileno estimula la maduración climatérica y abscisión ante senescencia vegetal mediante biosíntesis gaseosa con el efecto de ablandar tejidos del fruto.
+El etileno desata descomposición acelerada irreversible de cosechas almacenadas cuando la ventilación deficiente acumula el gas en las cámaras.
+La espora resiste desecación y temperaturas hostiles ante agotamiento nutricional mediante cubiertas deshidratadas con el efecto de diseminar la especie fúngica.
+La espora pierde viabilidad con esterilización irreversible ante autoclave cuando la combinación de vapor y presión desnaturaliza sus proteínas.
+El osteocito detecta microdeformaciones mecánicas del hueso ante cargas de marcha mediante canalículos mecanotransductores con el efecto de guiar el remodelado óseo.
+El osteocito muere con necrosis ósea irreversible ante fracturas conminutas cuando la interrupción vascular deja la osteona sin nutrientes.
+El osteoblasto secreta matriz osteoide no mineralizada ante el estímulo de la hormona paratiroidea mediante síntesis de colágeno con el efecto de formar hueso nuevo.
+El osteoblasto se agota con osteoporosis irreversible ante corticoterapia crónica cuando la inhibición de su síntesis adelgaza las trabéculas.
+El osteoclasto desmineraliza y reabsorbe hueso viejo ante requerimientos de calcio mediante secreción de ácido clorhídrico con el efecto de labrar lagunas.
+El osteoclasto causa destrucción osteolítica irreversible ante metástasis óseas cuando la estimulación tumoral carcome la cortical ósea.
+El condrocito mantiene la matriz cartilaginosa avascular ante compresiones cíclicas mediante difusión de nutrientes articulares con el efecto de reparar tejido.
+El condrocito sufre apoptosis masiva irreversible ante impactos articulares severos cuando la lesión traumática desencadena degeneración fibrilar.
+El adipocito almacena triglicéridos en una gran vacuola lipídica ante balance energético positivo mediante lipogénesis con el efecto de aislar térmicamente.
+El adipocito hipertrofiado padece hipoxia celular irreversible ante obesidad mórbida secretando citoquinas inflamatorias que inducen resistencia a la insulina.
+El hepatocito metaboliza carbohidratos, desintoxica fármacos y secreta bilis ante la digestión mediante enzimas del citocromo con el efecto de mantener la homeostasis.
+El hepatocito sufre necrosis lítica con cirrosis irreversible ante alcoholismo crónico cuando la deposición de colágeno distorsiona la arquitectura lobulillar.
+El enterocito transporta glucosa y aminoácidos acoplados a sodio ante la digestión intraluminal mediante transportadores de membrana con el efecto de nutrir.
+El enterocito se descama con diarrea osmótica irreversible ante toxinas de cólera cuando la activación de adenilato ciclasa deshidrata el organismo.
+El queratinocito sintetiza filamentos de queratina protectora ante la radiación externa mediante diferenciación hacia la capa córnea con el efecto de impermeabilizar.
+El queratinocito muta con carcinoma epidermoide irreversible ante radiación ultravioleta acumulada cuando fallan los mecanismos de reparación del ácido desoxirribonucleico.
+El melanocito produce pigmento de melanina fotoprotector ante la radiación solar mediante transferencia a queratinocitos con el efecto de proteger núcleos celulares.
+El melanocito degenera en melanoma maligno irreversible cuando la proliferación clonal atípica invade la dermis reticular con capacidad metastásica.
+La neurona conduce potenciales eléctricos de acción ante despolarizaciones de umbral mediante canales de sodio voltaje dependientes con el efecto de comunicar redes.
+La neurona muere por excitotoxicidad irreversible ante isquemia cerebral cuando la acumulación extracelular de glutamato desencadena entrada lesiva de calcio.
+El astrocito sostiene la barrera hematoencefálica y depura neurotransmisores ante la actividad sináptica mediante podocitos perivasculares con el efecto de aislar el cerebro.
+El astrocito forma cicatriz glial irreversible ante traumatismos craneoencefálicos cuando la gliosis reactiva bloquea mecánicamente la regeneración de axones.
+La microglía patrulla el parénquima cerebral y fagocita sinapsis senescentes ante señales de daño tisular mediante motilidad ameboide con el efecto de proteger.
+La microglía libera neurotoxinas con neurodegeneración irreversible ante activación proinflamatoria crónica exacerbando la pérdida neuronal en demencias.
+El oligodendrocito mieliniza múltiples segmentos axónicos del sistema central ante el desarrollo neural mediante vainas lipídicas concéntricas con el efecto de acelerar impulsos.
+El oligodendrocito sufre lisis autoinmune con desmielinización irreversible ante esclerosis múltiple cuando el ataque citotóxico deja axones denudados.
+La sinapsis transmite señales químicas entre células excitables ante la llegada del potencial de acción mediante exocitosis de vesículas con el efecto de procesar información.
+La sinapsis pierde eficacia con amnesia irreversible ante depósito de beta-amiloide cuando la toxicidad oligomérica destruye las espinas dendríticas.
+La dendrita integra señales sinápticas convergentes ante aferencias neuronales mediante arborizaciones ramificadas con el efecto de modular el soma.
+La dendrita experimenta podredumbre con retracción irreversible ante anoxia cerebral cuando la hinchazón osmótica desintegra su citoesqueleto interno.
+El axón conduce impulsos nerviosos a largas distancias ante la despolarización inicial del cono axónico mediante flujo iónico con el efecto de inervar efectores.
+El axón sufre degeneración walleriana irreversible tras una sección traumática cuando la fragmentación distal destruye la continuidad de la fibra nerviosa.
+La mielina aísla eléctricamente la membrana axonal ante potenciales de acción mediante capas concéntricas de esfingolípidos con el efecto de forzar conducción saltatoria.
+La mielina se desintegra con bloqueo de conducción irreversible ante desmielinización cuando la pérdida del aislante dispersa la corriente iónica.
+El nódulo de Ranvier regenera el potencial de acción ante la conducción saltatoria mediante altísima concentración de canales de sodio con el efecto de ahorrar energía.
+El nódulo pierde su densidad de canales con bloqueo irreversible ante neurotoxinas específicas que paralizan la propagación del impulso nervioso.
+El tiroides sintetiza tiroxina y triyodotironina ante el estímulo de la tirotropina mediante yodación de tiroglobulina con el efecto de regular el metabolismo basal.
+El tiroides padece atrofia fibrosa con hipotiroidismo irreversible ante tiroiditis autoinmune de Hashimoto cuando la infiltración linfocítica destruye los folículos.
+La hipófisis coordina el sistema endocrino periférico ante señales del hipotálamo mediante secreción de hormonas tróficas con el efecto de gobernar glándulas.
+La hipófisis sufre necrosis isquémica con panhipopituitarismo irreversible ante el síndrome de Sheehan cuando una hemorragia posparto colapsa su lecho portal.
+El páncreas secreta enzimas digestivas a la luz duodenal y hormonas a la sangre ante la ingesta mediante acinos exocrinos con el efecto de digerir nutrientes.
+El páncreas padece pancreatitis necrosante irreversible cuando la activación intraparenquimatosa prematura de zimógenos autodigiere el tejido glandular.
+El islote pancreático monitoriza glucemias ante variaciones del nivel de azúcar mediante células beta secretoras con el efecto de equilibrar el metabolismo.
+El islote experimenta destrucción autoinmune irreversible ante diabetes mellitus tipo uno cuando linfocitos autorreactivos aniquilan todas las células beta.
+La insulina promueve la captación celular de glucosa ante picos posprandiales mediante traslocación de transportadores GLUT4 con el efecto de reducir la glucemia.
+La insulina deviene ineficaz con hiperglucemia irreversible ante resistencia periférica grave cuando los receptores tisulares desensibilizados no responden.
+El glucagón estimula la glucogenólisis y gluconeogénesis hepática ante estados de ayuno mediante unión a receptores heptahidrofóbicos con el efecto de elevar glucosa.
+El glucagón se agota con hipoglucemia irreversible ante caquexia extrema cuando las reservas hepáticas de glucógeno están completamente extinguidas.
+La tiroxina incrementa el consumo de oxígeno y la termogénesis ante demandas metabólicas mediante transcripción génica mitocondrial con el efecto de acelerar el metabolismo.
+La tiroxina desata una tormenta tiroidea con arritmia irreversible cuando una liberación masiva aguda colapsa el sistema cardiovascular por tirotoxicosis.
+La adrenalina moviliza glucosa y eleva la presión arterial ante respuestas de lucha o huida mediante receptores adrenérgicos con el efecto de preparar la acción motriz.
+La adrenalina induce taquicardia ventricular con síncope irreversible ante feocromocitoma cuando descargas paroxísticas descontroladas saturan el miocardio.
+El cortisol modula la glucemia y deprime respuestas inflamatorias ante estrés mantenido mediante receptores intracelulares con el efecto de movilizar energía.
+El cortisol produce atrofia muscular y osteoporosis irreversible ante síndrome de Cushing crónico cuando el catabolismo proteico excesivo destruye el estroma.
+La aldosterona retiene sodio y excreta potasio en el túbulo distal ante la angiotensina II mediante activación de bombas con el efecto de expandir la volemia.
+La aldosterona desata hipopotasemia con parada cardíaca irreversible ante hiperaldosteronismo primario cuando la fuga renal de potasio desestabiliza el corazón.
+La eritropoyetina estimula la maduración de glóbulos rojos ante hipoxia tisular renal mediante proliferación medular ósea con el efecto de elevar el hematocrito.
+La eritropoyetina falta con anemia normocítica irreversible ante insuficiencia renal terminal cuando la atrofia del parénquima anula su síntesis endocrina.
+La renina escinde angiotensinógeno en angiotensina I ante caídas de presión de perfusión mediante aparato yuxtaglomerular con el efecto de elevar presiones.
+La renina causa hipertensión arterial maligna con daño irreversible ante estenosis de arteria renal cuando la hipoperfusión activa continuamente la cascada.
+La angiotensina constriñe arteriolas y promueve aldosterona ante activaciones de renina mediante receptores vasculares con el efecto de restaurar tensión arterial.
+La angiotensina precipita remodelado cardíaco adverso irreversible ante hiperactivación crónica induciendo hipertrofia patológica del ventrículo izquierdo.
+La vasopresina concentra orina insertando acuaporinas ante aumentos de osmolaridad plasmática mediante túbulos colectores con el efecto de retener agua libre.
+La vasopresina falta con diabetes insípida irreversible ante traumatismos hipofisarios cuando la poliuria masiva deshidrata velozmente al paciente.
+La oxitocina coordina contracciones miometriales ante el parto mediante receptores miometriales con el efecto de expulsar el feto a través del canal.
+La oxitocina provoca rotura uterina catastrófica irreversible ante sobredosis iatrogénica cuando una hiperdinamia tetánica fractura la pared del útero.
+La histamina incrementa la permeabilidad vascular ante estímulos alérgicos mediante desgranulación de mastocitos con el efecto de favorecer la exudación.
+La histamina desata broncoespasmo y choque irreversible ante anafilaxia sistémica cuando la vasodilatación masiva colapsa la presión arterial.
+La serotonina modula el tono vascular y la motilidad digestiva ante señales neuroendocrinas mediante receptores serotoninérgicos con el efecto de regular el peristaltismo.
+La serotonina induce síndrome serotoninérgico con hipertermia irreversible ante intoxicaciones farmacológicas cuando el exceso central colapsa el control autonómico.
+La dopamina coordina movimientos finos y circuitos de recompensa ante estímulos de motivación mediante vías estriatales con el efecto de modular la conducta motora.
+La dopamina falta con parkinsonismo rígido irreversible ante la pérdida de neuronas dopaminérgicas en la sustancia negra compacta.
+La acetilcolina activa la placa motora muscular ante la llegada del impulso nervioso mediante receptores nicotínicos con el efecto de inducir contracción muscular.
+La acetilcolina provoca parálisis espástica con muerte irreversible ante organofosforados cuando la inhibición de la acetilcolinesterasa bloquea la repolarización.
+El glutamato media la neurotransmisión excitatoria principal del cerebro ante aprendizajes mediante receptores ionotrópicos con el efecto de inducir plasticidad.
+El glutamato provoca muerte neuronal irreversible ante ictus isquémico cuando la entrada masiva de calcio dependiente del neurotransmisor necrosa el tejido.
+El ácido gamma-aminobutírico inhibe la excitabilidad neuronal ante señales frena-circuitos mediante hiperpolarización por cloruro con el efecto de prevenir convulsiones.
+El gaba falla con convulsiones epilépticas continuas irreversibles ante antagonistas específicos cuando la desinhibición masiva colapsa la corteza cerebral.
+La hemoglobina fija cuatro moléculas de oxígeno ante presiones alveolares elevadas mediante efecto alostérico cooperativo con el efecto de transportar gases.
+La hemoglobina sufre intoxicación con anoxia irreversible ante monóxido de carbono cuando la altísima afinidad de la carboxihemoglobina bloquea la entrega de oxígeno.
+La mioglobina retiene oxígeno de reserva en el miocito ante demandas contráctiles severas mediante alta afinidad hemo con el efecto de oxigenar el músculo activo.
+La mioglobina colapsa el túbulo renal con insuficiencia irreversible ante rabdomiólisis masiva cuando pigmentos precipitados taponan los riñones.
+El colágeno aporta resistencia a la tracción ante tensiones mecánicas mediante triple hélice polipeptídica con el efecto de estructurar tendones y huesos.
+El colágeno se degrada con escorbuto y hemorragias irreversibles ante déficit de ácido ascórbico cuando la falta de hidroxilación desintegra las fibras.
+La elastina confiere retroceso elástico a grandes arterias y pulmones ante expansiones pulsátiles mediante enlaces cruzados de desmosina con el efecto de amortiguar sístoles.
+La elastina sufre destrucción proteolítica con enfisema irreversible ante déficit de alfa-uno antitripsina cuando la elastasa leucocitaria carcome los septos.
+La albúmina genera la mayor parte de la presión oncótica plasmática ante el intercambio capilar mediante síntesis hepática con el efecto de evitar edemas.
+La albúmina cae con anasarca y extravasación irreversible ante síndrome nefrótico grave cuando la proteinuria masiva vacía las proteínas del plasma.
+El fibrinógeno circula soluble en plasma ante heridas vasculares mediante activación por trombina con el efecto de polimerizar en monómeros de fibrina.
+El fibrinógeno se consume en coagulación intravascular irreversible ante sepsis cuando la trombosis microvascular masiva desencadena hemorragia paradójica.
+La trombina cataliza la conversión de fibrinógeno en fibrina insoluble ante la cascada hemostática mediante corte proteolítico con el efecto de sellar heridas.
+La trombina genera trombosis arterial oclusiva con infarto irreversible ante roturas de placa de ateroma cuando el coágulo obstruye la luz coronaria.
+La plasmina lisis la red de fibrina consolidada ante la reparación endotelial mediante hidrólisis enzimática con el efecto de restablecer la permeabilidad del vaso.
+La plasmina desencadena hemorragia hiperfibrinolítica irreversible ante trauma mayor cuando la lisis prematura disuelve el coágulo protector.
+La heparina potencia a la antitrombina III ante riesgos de coagulación patológica mediante unión a pentasacáridos con el efecto de inhibir la trombina.
+La heparina induce trombocitopenia autoinmune con trombosis irreversible cuando anticuerpos contra el complejo heparina-factor plaquetario cuatro activan plaquetas.
+El interferón induce un estado de resistencia antiviral en células vecinas ante infecciones por virus mediante señalización paracrina con el efecto de frenar réplicas.
+El interferón produce depresión medular con citopenia irreversible ante sobreproducción mantenida en tormentas de citoquinas inflamatorias crónicas.
+La interleucina comunica subpoblaciones leucocitarias ante agresiones antigénicas mediante cascades de transducción celular con el efecto de coordinar la inmunidad.
+La interleucina desata choque distributivo con colapso irreversible ante tormentas de interleucina seis cuando la vasodilatación masiva deprime el miocardio.
+La quimiocina recluta leucocitos específicos ante focos lesivos tisulares mediante gradientes hísticos quimioatrayentes con el efecto de guiar la inflamación.
+La quimiocina facilita la diseminación metastásica con siembra irreversible cuando células tumorales expresan receptores para invadir órganos diana.
+La citocina modula el crecimiento y diferenciación de células inmunitarias ante estímulos inflamatorios mediante receptores de superficie con el efecto de responder.
+La citocina induce caquexia y daño tisular multiorgánico irreversible ante sobreactivación sistémica continuada en enfermedades autoinmunes graves.
+El endotelio regula el tono vasomotor y la permeabilidad microvascular ante el cizallamiento del flujo mediante síntesis de óxido nítrico con el efecto de perfundir.
+El endotelio padece disfunción aterosclerótica con oclusión irreversible cuando la inflamación oxidativa crónica transforma la monocapa en trombogénica.
+El epitelio tapiza cavidades corporales y segrega mucinas ante agresiones luminales mediante uniones estrechas oclusivas con el efecto de crear barreras selectivas.
+El epitelio se ulcera con perforación visceral irreversible ante infecciones bacterianas destructivas cuando la necrosis supera la capacidad de regeneración.
+El mesotelio lubrica el deslizamiento visceral ante movimientos orgánicos continuos mediante secreción de líquido seroso con el efecto de evitar rozamientos.
+El mesotelio degenera en mesotelioma maligno irreversible ante exposición a fibras de asbesto cuando la mutagénesis crónica induce neoplasia invasiva pleural.
+El peritoneo envuelve los órganos intraabdominales y filtra líquidos ante infecciones mediante membrana serosa doble con el efecto de aislar focos sépticos.
+El peritoneo sufre peritonitis bacteriana difusa con adherencias irreversibles cuando la perforación de víscera hueca anega la cavidad abdominal.
+La pleura acopla los pulmones a la caja torácica ante movimientos respiratorios mediante presión negativa intrapleural con el efecto de expandir alvéolos.
+La pleura sufre neumotórax a tensión con colapso cardiovascular irreversible cuando la entrada valvular de aire exterior comprime el retorno venoso.
+El pericardio protege y limita la distensión diastólica cardíaca ante llenados ventriculares mediante saco fibroseroso con el efecto de fijar el corazón.
+El pericardio desata taponamiento cardíaco con parada irreversible cuando el hemopericardio a tensión impide el llenado ventricular durante la diástole.
+El endocardio tapiza internamente las cavidades y valvas cardíacas ante flujos intracardíacos mediante monocapa endotelial con el efecto de dar paso laminar.
+El endocardio sufre endocarditis infecciosa con destrucción valvular irreversible cuando colonias bacterianas carcomen las cúspides valvulares.
+El miocardio bombea el gasto cardíaco hacia la circulación mayor ante despolarizaciones rítmicas mediante síncopes de cardiomiocitos con el efecto de perfundir.
+El miocardio padece infarto agudo con necrosis irreversible cuando la oclusión trombótica de una arteria coronaria priva de oxígeno al ventrículo.
+La meninge resguarda el encéfalo y canaliza el líquido cefalorraquídeo ante impactos mecánicos mediante tres láminas conjuntivas con el efecto de proteger.
+La meninge sufre meningitis purulenta fulminante con hipertensión endocraneal irreversible cuando exudados bacterianos bloquean la reabsorción del líquido.
+El ganglio linfático filtra la linfa y activa linfocitos vírgenes ante antígenos periféricos mediante senos corticales con el efecto de montar defensas.
+El ganglio se hipertrofia con invasión tumoral irreversible ante metástasis linfática cuando células cancerosas colonizan y sustituyen el parénquima nodular.
+El bazo hemocatérisis eritrocitos senescentes y almacena plaquetas ante la circulación esplénica mediante pulpa roja y blanca con el efecto de filtrar sangre.
+El bazo sufre rotura esplénica con choque hemorrágico irreversible ante traumatismos abdominales graves exigiendo esplenectomía de urgencia.
+El timo selecciona positivamente linfocitos T inmunocompetentes ante antígenos propios mediante epitelio medular tímico con el efecto de inducir tolerancia.
+El timo degenera en timoma con miastenia gravis irreversible cuando la hiperplasia anormal de corpúsculos de Hassall estimula autoanticuerpos antireceptor.
+La amígdala palatina intercepta patógenos inhalados o ingeridos ante la entrada orofaríngea mediante criptas linfoides con el efecto de generar defensas locales.
+La amígdala desarrolla absceso periamigdalino con asfixia irreversible si la sobreinfección estreptocócica diseca los espacios profundos del cuello.
+La tráquea conduce aire limpio hacia los bronquios ante la ventilación pulmonar mediante anillos cartilaginosos en herradura con el efecto de mantener la vía aérea permeable.
+La tráquea se colapsa con asfixia mecánica irreversible ante traqueomalacia o compresión tumoral extrínseca que aplaste sus anillos cartilaginosos.
+El bronquio ramifica el flujo de aire hacia los lóbulos pulmonares ante la inspiración mediante cartílago y músculo liso con el efecto de guiar la ventilación.
+El bronquio se obstruye con atelectasia irreversible ante aspiración de cuerpo extraño cuando el taponamiento completo impide la aireación del lóbulo.
+El bronquiolo regula la resistencia al flujo en las vías terminales ante el tono muscular liso mediante broncodilatación adrenérgica con el efecto de repartir aire.
+El bronquiolo sufre broncoconstricción asmática severa con atrapamiento aéreo irreversible si el espasmo refractario no responde a beta-agonistas.
+El diafragma expande el volumen torácico hacia abajo ante la contracción inspiratoria mediante el nervio frénico con el efecto de crear presión negativa inspiratoria.
+El diafragma padece parálisis respiratoria irreversible ante sección medular alta cuando la desconexión del frénico exige soporte ventilatorio mecánico permanente.
+La laringe modula la fonación y protege la vía respiratoria ante la deglución mediante cuerdas vocales y epiglotis con el efecto de emitir voz y evitar atragantamientos.
+La laringe se ocluye con muerte por asfixia irreversible ante edema angioneurótico de glotis cuando la hinchazón alérgica ciega el paso del aire.
+La faringe propulsa el bolo alimentario hacia el esófago ante la deglución voluntaria mediante constrictores musculares con el efecto de canalizar la nutrición.
+La faringe padece disfagia orofaríngea irreversible ante secuelas de ictus cerebral cuando la descoordinación motora desvía el alimento hacia la tráquea.
+El esófago transporta el bolo alimenticio hacia la cavidad gástrica ante ondas peristálticas mediante túnicas musculares con el efecto de alimentar el estómago.
+El esófago sufre acalasia con megaesófago irreversible ante la pérdida de neuronas del plexo mientérico impidiendo la relajación del esfínter inferior.
+El estómago bate y digiere químicamente las proteínas ante el alimento entrante mediante ácido clorhídrico y pepsina con el efecto de formar el quimo gástrico.
+El estómago sufre hemorragia digestiva masiva irreversible ante úlcera péptica penetrante cuando el ácido corroe ramas de la arteria gastroduodenal.
+El duodeno neutraliza el quimo ácido y mezcla jugos pancreáticos y biliares ante el vaciado gástrico mediante glándulas de Brunner con el efecto de continuar la digestión.
+El duodeno se perfora con peritonitis química irreversible ante una úlcera duodenal perforada vertiendo contenido abrasivo a la cavidad peritoneal.
+El yeyuno absorbe hidratos de carbono, grasas y vitaminas ante el tránsito del quimo mediante extensas vellosidades circulares con el efecto de enriquecer la sangre portal.
+El yeyuno padece infarto isquémico mesentérico irreversible cuando la embolia de la arteria mesentérica superior necrosa metros de asa intestinal.
+El íleon absorbe vitamina B12 y sales biliares conjugadas ante el final del tránsito delgado mediante receptores específicos con el efecto de recircular bilis.
+El íleon sufre fístulas y estenosis irreversibles ante la enfermedad de Crohn cuando la inflamación transmural granulomatosa cicatriza cerrando la luz.
+El colon compacta las heces y reabsorbe agua y electrólitos ante la llegada de residuos mediante haustras musculares con el efecto de deshidratar deposiciones.
+El colon sufre megacolon tóxico con perforación irreversible ante colitis ulcerosa fulminante cuando la dilatación masiva necrosa la pared muscular.
+El recto almacena temporalmente la materia fecal ante la defecación mediante ampolla rectal distensible con el efecto de activar reflejos de evacuación.
+El recto sufre incontinencia fecal irreversible ante desgarros obstétricos o daño neurológico del esfínter anal interno que impidan la continencia.
+El uréter transporta la orina desde la pelvis renal hasta la vejiga ante presiones hidrostáticas mediante peristaltismo muscular liso con el efecto de drenar el riñón.
+El uréter se dilata con hidronefrosis irreversible ante el enclavamiento de un cálculo litiásico que bloquea el drenaje renal destruyendo el parénquima.
+La vejiga almacena la orina y coordina su vaciado ante el llenado voluntario mediante contracción del músculo detrusor con el efecto de miccionar.
+La vejiga sufre atonía con retención urinaria irreversible ante vejiga neurógena por sección medular exigiendo sondaje vesical intermitente.
+La uretra evacua la orina almacenada hacia el exterior ante la micción mediante conducto fibromuscular con el efecto de vaciar completamente la vejiga.
+La uretra padece estenosis fibrosa irreversible tras uretritis traumáticas cuando la cicatriz retráctil estrecha la luz impidiendo el flujo urinario.
+El túbulo renal reabsorbe agua, glucosa e iones ante el ultrafiltrado glomerular mediante cotransportadores iónicos con el efecto de recuperar solutos valiosos.
+El túbulo padece fibrosis intersticial irreversible ante nefropatía crónica cuando el daño celular epitelial crónico extingue la función depurativa renal.
+El ovario ovula cíclicamente y produce estrógeno y progesterona ante las gonadotropinas mediante folículos ováricos con el efecto de sostener la fertilidad femenina.
+El ovario padece torsión ovárica con necrosis isquémica irreversible si la falta de destorsión quirúrgica inmediata corta el aporte de la arteria ovárica.
+El testículo produce espermatozoides y testosterona ante la estimulación de hormona luteinizante mediante túbulos seminíferos con el efecto de fecundar.
+El testículo sufre atrofia germinal irreversible ante orquitis urliana o criptorquidia prolongada cuando el calor corporal destruye las espermatogonias.
+El epidídimo madura y almacena espermatozoides adquiriendo motilidad progresiva ante la eyaculación mediante conducto contorneado con el efecto de capacitar gametos.
+El epidídimo se oblitera de forma irreversible tras epididimitis crónica gonocócica cuando la cicatrización oclusiva produce azoospermia obstructiva.
+La trompa uterina transporta el ovocito y facilita la fecundación ante la ovulación mediante cilios de fimbrias tubáricas con el efecto de orientar al cigoto.
+La trompa sufre rotura catastrófica irreversible ante embarazo ectópico tubárico cuando el crecimiento del embrión rasga la ampolla tubárica.
+El útero acoge y nutre al embrión en desarrollo ante la gestación mediante placenta y miometrio contráctil con el efecto de permitir el desarrollo fetal.
+El útero padece hemorragia posparto masiva irreversible por atonía uterina cuando el miometrio agotado no se contrae para colapsar los vasos.
+La placenta intercambia gases y nutrientes entre madre y feto ante la barrera hemocorial mediante vellosidades coriales con el efecto de nutrir al feto.
+La placenta sufre desprendimiento prematuro con muerte fetal irreversible ante abruptio placentae cuando la rotura de vasos deciduales separa la placenta.
+El cloroplasto sintetiza azúcares y genera oxígeno molecular ante la absorción de luz mediante tilacoides y estroma con el efecto de sostener la fotosíntesis.
+El cloroplasto padece fotoinhibición irreversible ante radiaciones lumínicas desmedidas cuando el exceso de fotones destruye el centro de reacción del fotosistema dos.
+La vacuola almacena agua y turgencia celular ante entradas osmóticas mediante membrana tonoplasto con el efecto de sostener la rigidez de la planta herbácea.
+La vacuola pierde su turgencia con marchitez irreversible ante choque salino severo cuando la salida masiva de agua retrae el protoplasma.
+El plasmodesmo interconecta citoplasmas vegetales ante el transporte simplástico mediante canales transmembrana con el efecto de comunicar células contiguas.
+El plasmodesmo se cierra con desconexión simplástica irreversible ante infecciones virales cuando el depósito de calosa ocluye el cuello del canal.
+El tricoma secreta resinas protectoras y reduce la pérdida hídrica ante herbívoros mediante pelos epidérmicos modificados con el efecto de blindar la hoja.
+El tricoma se deseca con vulnerabilidad irreversible ante insolación desmedida perdiendo la capacidad secretora de aceites repelentes.
+La cutícula impermeabiliza la epidermis aérea ante la evaporación forzada mediante ceras y cutina hidrófoba con el efecto de evitar la desecación foliar.
+La cutícula se fractura con deshidratación irreversible ante abrasión mecánica o ataque fúngico cuando la ruptura de la cera permite la fuga hídrica.

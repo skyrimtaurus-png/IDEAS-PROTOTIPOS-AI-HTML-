@@ -1,0 +1,1101 @@
+{
+  "titulo": "Ontología Curricular de Educación Primaria (1.º a 5.º)",
+  "version": "1.0-educativa",
+  "total_relaciones": 108,
+  "materias": [
+    "Español",
+    "Matemáticas",
+    "Ciencias Naturales",
+    "Ciencias Sociales",
+    "Inglés"
+  ],
+  "grados": [
+    "1º Primaria",
+    "2º Primaria",
+    "3º Primaria",
+    "4º Primaria",
+    "5º Primaria"
+  ],
+  "relaciones": [
+    {
+      "id": 1,
+      "grado": "1º Primaria",
+      "materia": "Español",
+      "sujeto": "Fonema /s/",
+      "relacion": "se_representa_por_grafema",
+      "objeto": "Letra 's'",
+      "efecto_pedagogico": "El niño asocia el sonido silbante con el trazo gráfico curvo.",
+      "representacion_formal": "Fonema(/s/) ↔ Grafema('s')"
+    },
+    {
+      "id": 2,
+      "grado": "1º Primaria",
+      "materia": "Español",
+      "sujeto": "Unión Consonante + Vocal (m + a)",
+      "relacion": "produce_sílaba_directa",
+      "objeto": "Sílaba 'ma'",
+      "efecto_pedagogico": "La coarticulación produce la primera unidad silábica decodificable.",
+      "representacion_formal": "Concat('m', 'a') → 'ma'"
+    },
+    {
+      "id": 3,
+      "grado": "1º Primaria",
+      "materia": "Español",
+      "sujeto": "Sílaba trabada 'bra'",
+      "relacion": "combina_líquida",
+      "objeto": "Oclusiva 'b' + Líquida 'r' + Vocal 'a'",
+      "efecto_pedagogico": "Articulación compleja que requiere mayor control motor del aparato fonador.",
+      "representacion_formal": "Trabada('b', 'r', 'a') → SílabaCompleja"
+    },
+    {
+      "id": 4,
+      "grado": "1º Primaria",
+      "materia": "Español",
+      "sujeto": "Inicio de oración",
+      "relacion": "exige_regla_ortográfica",
+      "objeto": "Letra Mayúscula",
+      "efecto_pedagogico": "El estudiante delimita el inicio visual de una unidad con sentido completo.",
+      "representacion_formal": "InicioOración → GrafemaMayúscula"
+    },
+    {
+      "id": 5,
+      "grado": "1º Primaria",
+      "materia": "Español",
+      "sujeto": "Punto final de oración",
+      "relacion": "señala_cierre",
+      "objeto": "Pausa total de entonación",
+      "efecto_pedagogico": "Indica el fin del enunciado y la pausa articulatoria antes del siguiente.",
+      "representacion_formal": "PuntoFinal → CierreEnunciado"
+    },
+    {
+      "id": 6,
+      "grado": "1º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Colección de 10 unidades sueltas",
+      "relacion": "agrupa_en_base_10",
+      "objeto": "1 Decena (1D)",
+      "efecto_pedagogico": "Transición crucial del conteo unitario al conteo posicional abstracto.",
+      "representacion_formal": "Suma(10 * 1U) ≡ 1D"
+    },
+    {
+      "id": 7,
+      "grado": "1º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Operación Adición (a + b)",
+      "relacion": "modela_acción_física",
+      "objeto": "Juntar o avanzar en recta numérica",
+      "efecto_pedagogico": "La suma formaliza la acción concreta de añadir elementos a un conjunto.",
+      "representacion_formal": "Adición(A, B) ↔ Cardinal(A ∪ B)"
+    },
+    {
+      "id": 8,
+      "grado": "1º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Operación Sustracción (a - b)",
+      "relacion": "modela_acción_física",
+      "objeto": "Quitar o retroceder en la recta",
+      "efecto_pedagogico": "La resta formaliza la separación o el cálculo de diferencia entre cantidades.",
+      "representacion_formal": "Sustracción(A, B) ↔ Cardinal(A \\ B)"
+    },
+    {
+      "id": 9,
+      "grado": "1º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Polígono Triángulo",
+      "relacion": "definido_por",
+      "objeto": "3 lados rectos y 3 vértices",
+      "efecto_pedagogico": "Identificación visual de la figura geométrica plana indeformable básica.",
+      "representacion_formal": "Triángulo ⊂ FiguraPlana ∧ Lados(3)"
+    },
+    {
+      "id": 10,
+      "grado": "1º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Aguja horaria en reloj de manecillas",
+      "relacion": "marca_tiempo_cíclico",
+      "objeto": "Horas del día (1 a 12)",
+      "efecto_pedagogico": "Lectura de horas en punto y medias horas mediante división del círculo.",
+      "representacion_formal": "GiroHorario(AgujaCorta) → Hora"
+    },
+    {
+      "id": 11,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Órgano Ojo y Retina",
+      "relacion": "sustenta_sentido",
+      "objeto": "Sentido de la Vista",
+      "efecto_pedagogico": "El niño comprende que los ojos son transductores de luz y color hacia el cerebro.",
+      "representacion_formal": "Ojo ⊂ ReceptorSensorial → PercepciónVisual"
+    },
+    {
+      "id": 12,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Ser vivo (planta o animal)",
+      "relacion": "cumple_ciclo_vital",
+      "objeto": "Nacer, crecer, reproducirse y morir",
+      "efecto_pedagogico": "Diferenciación ontológica tajante frente a la materia inerte (rocas, plástico).",
+      "representacion_formal": "SerVivo ⊂ CicloVital(Nacer..Morir)"
+    },
+    {
+      "id": 13,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Planta terrestre",
+      "relacion": "requiere_factores_abióticos",
+      "objeto": "Agua + Luz solar + Dióxido de carbono + Sustrato",
+      "efecto_pedagogico": "Comprensión de las necesidades biológicas básicas de los vegetales.",
+      "representacion_formal": "Planta ⊕ (Agua ∧ Luz ∧ Tierra) → Crecimiento"
+    },
+    {
+      "id": 14,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Animal Herbívoro",
+      "relacion": "posee_régimen_trófico",
+      "objeto": "Consumo exclusivo de materia vegetal",
+      "efecto_pedagogico": "Clasificación inicial por fuente primaria de nutrientes.",
+      "representacion_formal": "Herbívoro ⊂ ConsumidorPrimario → ComePlantas"
+    },
+    {
+      "id": 15,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Luz roja en semáforo de peatones",
+      "relacion": "impone_norma_vial",
+      "objeto": "Detención obligatoria del peatón",
+      "efecto_pedagogico": "Interiorización de la regla de seguridad vial para cruzar la calzada.",
+      "representacion_formal": "LuzRoja(Semáforo) → ProhibidoCruzar"
+    },
+    {
+      "id": 16,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Ayer vs Hoy vs Mañana",
+      "relacion": "ordena_temporalidad",
+      "objeto": "Secuencia cronológica relativa",
+      "efecto_pedagogico": "Evolución de la noción intuitiva del tiempo hacia la causalidad histórica.",
+      "representacion_formal": "Ayer < Hoy < Mañana"
+    },
+    {
+      "id": 17,
+      "grado": "1º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Entorno Urbano (Ciudad)",
+      "relacion": "caracterizado_por",
+      "objeto": "Edificios altos, asfalto y alta densidad",
+      "efecto_pedagogico": "Comparación paisajística frente al entorno rural o de campo.",
+      "representacion_formal": "Ciudad ⊂ PaisajeHumanizado → AltaDensidad"
+    },
+    {
+      "id": 18,
+      "grado": "1º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Greeting 'Hello / Good morning'",
+      "relacion": "cumple_función_comunicativa",
+      "objeto": "Social greeting upon arrival",
+      "efecto_pedagogico": "Fórmula de cortesía e iniciación interactiva básica.",
+      "representacion_formal": "'Hello' → SaludoInicial"
+    },
+    {
+      "id": 19,
+      "grado": "1º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Color name 'Red'",
+      "relacion": "designa_propiedad_visual",
+      "objeto": "Color primario rojo",
+      "efecto_pedagogico": "Asociación directa sonido-objeto sin traducción gramatical previa.",
+      "representacion_formal": "'Red' ↔ ColorRojo"
+    },
+    {
+      "id": 20,
+      "grado": "1º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Imperative 'Stand up / Sit down'",
+      "relacion": "ejecuta_comando_TPR",
+      "objeto": "Acción motora corporal inmediata",
+      "efecto_pedagogico": "Método Total Physical Response (comprensión mediante el movimiento físico).",
+      "representacion_formal": "Command('Stand up') → Levantarse"
+    },
+    {
+      "id": 21,
+      "grado": "2º Primaria",
+      "materia": "Español",
+      "sujeto": "Sustantivo Común vs Propio",
+      "relacion": "distingue_semántica",
+      "objeto": "Clase genérica ('perro') vs Nombre individual ('Toby')",
+      "efecto_pedagogico": "Uso obligatorio de mayúscula en nombres propios de personas, ciudades o mascotas.",
+      "representacion_formal": "SustantivoPropio → MayúsculaObligatoria"
+    },
+    {
+      "id": 22,
+      "grado": "2º Primaria",
+      "materia": "Español",
+      "sujeto": "Concordancia de Género y Número",
+      "relacion": "impone_coherencia",
+      "objeto": "Artículo + Sustantivo + Adjetivo con igual flexión",
+      "efecto_pedagogico": "Evita errores sintácticos como *'las gato blanco'.",
+      "representacion_formal": "Concuerda(Art, Sust, Adj, Género, Número)"
+    },
+    {
+      "id": 23,
+      "grado": "2º Primaria",
+      "materia": "Español",
+      "sujeto": "Regla ortográfica 'm antes de p y b'",
+      "relacion": "norma_fonética",
+      "objeto": "Escribir 'campo' o 'tambor' (nunca 'canpo')",
+      "efecto_pedagogico": "Asimilación del punto de articulación bilabial antes de oclusivas bilabiales.",
+      "representacion_formal": "Fonema(/m/) + (p|b) → Grafema('m')"
+    },
+    {
+      "id": 24,
+      "grado": "2º Primaria",
+      "materia": "Español",
+      "sujeto": "Signos de interrogación (¿ ?)",
+      "relacion": "modulan_entonación",
+      "objeto": "Pregunta directa con apertura y cierre",
+      "efecto_pedagogico": "El español requiere signo de apertura inicial obligatorio.",
+      "representacion_formal": "OraciónInterrogativa → Inicia('¿') ∧ Cierra('?')"
+    },
+    {
+      "id": 25,
+      "grado": "2º Primaria",
+      "materia": "Español",
+      "sujeto": "Texto instructivo Receta",
+      "relacion": "estructura_información",
+      "objeto": "Lista de ingredientes + Pasos en orden cronológico",
+      "efecto_pedagogico": "Desarrollo de la secuenciación procedimental escrita.",
+      "representacion_formal": "Receta ≡ Ingredientes + SecuenciaPasos"
+    },
+    {
+      "id": 26,
+      "grado": "2º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Centena (1C)",
+      "relacion": "equivale_a",
+      "objeto": "10 Decenas (10D) o 100 Unidades (100U)",
+      "efecto_pedagogico": "Ampliación del sistema posicional a números de 3 dígitos (0-999).",
+      "representacion_formal": "1C ≡ 10D ≡ 100U"
+    },
+    {
+      "id": 27,
+      "grado": "2º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Suma con llevada (Reagrupación)",
+      "relacion": "transfiere_exceso",
+      "objeto": "Unidades $\\ge$ 10 pasan como 1 decena a la siguiente columna",
+      "efecto_pedagogico": "Mecanismo algebraico posicional de acarreo.",
+      "representacion_formal": "Suma(U) ≥ 10 → Acarreo(+1D)"
+    },
+    {
+      "id": 28,
+      "grado": "2º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Multiplicación como suma repetida",
+      "relacion": "abrevia_cálculo",
+      "objeto": "4 x 3 = 3 + 3 + 3 + 3",
+      "efecto_pedagogico": "Comprensión del producto como adición de sumandos idénticos.",
+      "representacion_formal": "Multiplicación(a, b) ≡ ∑_{i=1}^a b"
+    },
+    {
+      "id": 29,
+      "grado": "2º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Propiedad Conmutativa del Producto",
+      "relacion": "establece_invarianza",
+      "objeto": "El orden de los factores no altera el producto",
+      "efecto_pedagogico": "a * b = b * a (ej.: 5 x 2 = 2 x 5 = 10).",
+      "representacion_formal": "a * b ≡ b * a"
+    },
+    {
+      "id": 30,
+      "grado": "2º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Cuerpo geométrico Cubo",
+      "relacion": "posee_propiedad_3D",
+      "objeto": "6 caras cuadradas idénticas, 8 vértices y 12 aristas",
+      "efecto_pedagogico": "Transición de figuras 2D planas a cuerpos con volumen 3D.",
+      "representacion_formal": "Cubo ⊂ PoliedroRegular → Caras(6, Cuadrado)"
+    },
+    {
+      "id": 31,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Animal Vertebrado",
+      "relacion": "posee_anatomía_interna",
+      "objeto": "Esqueleto óseo y columna vertebral",
+      "efecto_pedagogico": "Diferenciación frente a artrópodos, moluscos y gusanos.",
+      "representacion_formal": "Vertebrado ⊂ Animalia → ColumnaVertebral"
+    },
+    {
+      "id": 32,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Clase Mamíferos",
+      "relacion": "caracterizado_por",
+      "objeto": "Vivíparos, glándulas mamarias y cuerpo con pelo",
+      "efecto_pedagogico": "Comprensión de la reproducción interna y lactancia.",
+      "representacion_formal": "Mamífero ⊂ Vertebrado → MamanLeche ∧ Pelo"
+    },
+    {
+      "id": 33,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Clase Aves",
+      "relacion": "caracterizado_por",
+      "objeto": "Ovíparos, alas, plumas, pico sin dientes y huesos huecos",
+      "efecto_pedagogico": "Adaptaciones evolutivas directas para el vuelo.",
+      "representacion_formal": "Ave ⊂ Vertebrado → Plumas ∧ Ovíparo"
+    },
+    {
+      "id": 34,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Ciclo del Agua: Evaporación",
+      "relacion": "transición_de_fase",
+      "objeto": "Agua líquida se calienta con radiación solar y asciende como gas",
+      "efecto_pedagogico": "Inicio del motor hidrológico terrestre.",
+      "representacion_formal": "AguaLíquida ⊕ CalorSolar → VaporAguaAscendente"
+    },
+    {
+      "id": 35,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Puntos Cardinales (N, S, E, O)",
+      "relacion": "establecen_orientación",
+      "objeto": "Norte, Sur, Este (por donde sale el Sol) y Oeste",
+      "efecto_pedagogico": "Comprensión de la rosa de los vientos y orientación espacial universal.",
+      "representacion_formal": "Orientación ⊂ {Norte, Sur, Este, Oeste}"
+    },
+    {
+      "id": 36,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Ayuntamiento / Alcaldía local",
+      "relacion": "administra_comunidad",
+      "objeto": "Gestión de servicios públicos, tráfico, limpieza y parques",
+      "efecto_pedagogico": "Introducción a la organización cívica y gobierno de proximidad.",
+      "representacion_formal": "Ayuntamiento → GestiónServiciosPúblicos"
+    },
+    {
+      "id": 37,
+      "grado": "2º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Curso de un Río",
+      "relacion": "divide_morfología",
+      "objeto": "Curso alto (montaña/rápido), medio (valle/meandros) y bajo (desembocadura)",
+      "efecto_pedagogico": "Geomorfología fluvial básica y dinámica del agua superficial.",
+      "representacion_formal": "Río ≡ CursoAlto + CursoMedio + Desembocadura"
+    },
+    {
+      "id": 38,
+      "grado": "2º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Structure 'I like / I don't like'",
+      "relacion": "expresa_preferencia",
+      "objeto": "Afinidad o rechazo hacia alimentos o actividades",
+      "efecto_pedagogico": "Estructura gramatical básica de primera persona.",
+      "representacion_formal": "'I like' + Noun → ExpresiónGusto"
+    },
+    {
+      "id": 39,
+      "grado": "2º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Indefinite article 'a' vs 'an'",
+      "relacion": "regla_fonológica",
+      "objeto": "'a' ante consonante ('a dog') vs 'an' ante vocal ('an apple')",
+      "efecto_pedagogico": "Facilitación de la fluidez articulatoria en inglés.",
+      "representacion_formal": "ArtIndefinido('a' + Consonante | 'an' + Vocal)"
+    },
+    {
+      "id": 40,
+      "grado": "2º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Structure 'Have you got...?'",
+      "relacion": "interroga_posesión",
+      "objeto": "Pregunta de pertenencia con respuesta corta ('Yes, I have')",
+      "efecto_pedagogico": "Uso del auxiliar británico para posesión elemental.",
+      "representacion_formal": "'Have you got' + Noun → PreguntaPosesión"
+    },
+    {
+      "id": 41,
+      "grado": "3º Primaria",
+      "materia": "Español",
+      "sujeto": "Oración Bimembre Simple",
+      "relacion": "compuesta_por",
+      "objeto": "Sujeto (quién realiza la acción) + Predicado (la acción)",
+      "efecto_pedagogico": "Estructura sintáctica básica obligatoria.",
+      "representacion_formal": "Oración ≡ Sujeto + Predicado"
+    },
+    {
+      "id": 42,
+      "grado": "3º Primaria",
+      "materia": "Español",
+      "sujeto": "Verbo Conjugado",
+      "relacion": "indica_dimensión_temporal",
+      "objeto": "Acción situada en Pasado, Presente o Futuro",
+      "efecto_pedagogico": "Morfema de tiempo y persona en la flexión verbal.",
+      "representacion_formal": "VerboConjugado → Persona + Número + Tiempo"
+    },
+    {
+      "id": 43,
+      "grado": "3º Primaria",
+      "materia": "Español",
+      "sujeto": "Sílaba Tónica vs Átona",
+      "relacion": "determina_intensidad",
+      "objeto": "Sílaba con mayor fuerza acústica frente a las relajadas",
+      "efecto_pedagogico": "Fundamento fonológico indispensable antes de aplicar reglas de tildes.",
+      "representacion_formal": "Palabra ≡ SílabaTónica + SílabasÁtonas"
+    },
+    {
+      "id": 44,
+      "grado": "3º Primaria",
+      "materia": "Español",
+      "sujeto": "Familia de palabras por derivación",
+      "relacion": "comparte_lexema",
+      "objeto": "Raíz común con prefijos o sufijos añadidos",
+      "efecto_pedagogico": "Ampliación del vocabulario morfológico (mar, marino, marea, submarino).",
+      "representacion_formal": "Lexema('mar') ⊕ Afijos → FamiliaLéxica"
+    },
+    {
+      "id": 45,
+      "grado": "3º Primaria",
+      "materia": "Español",
+      "sujeto": "Género literario Fábula",
+      "relacion": "posee_estructura_moral",
+      "objeto": "Personajes animales personificados que transmiten moraleja",
+      "efecto_pedagogico": "Didáctica moral y literatura clásica infantil.",
+      "representacion_formal": "Fábula ⊂ Narrativa → MoralejaFinal"
+    },
+    {
+      "id": 46,
+      "grado": "3º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Operación División",
+      "relacion": "modela_reparto",
+      "objeto": "Repartir cantidad en partes iguales exactas o con resto",
+      "efecto_pedagogico": "Operación inversa de la multiplicación.",
+      "representacion_formal": "División(D, d) → c (cociente) ∧ r (resto)"
+    },
+    {
+      "id": 47,
+      "grado": "3º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Prueba de la División",
+      "relacion": "garantiza_consistencia",
+      "objeto": "Dividendo = (Divisor * Cociente) + Resto, con Resto < Divisor",
+      "efecto_pedagogico": "Autoverificación algorítmica obligatoria.",
+      "representacion_formal": "D ≡ (d * c) + r ∧ r < d"
+    },
+    {
+      "id": 48,
+      "grado": "3º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Fracción elemental (a/b)",
+      "relacion": "representa_parte_todo",
+      "objeto": "b = partes en que se divide el todo, a = partes tomadas",
+      "efecto_pedagogico": "Transición de números enteros discretos a números racionales continuos.",
+      "representacion_formal": "Fracción(a, b) ≡ a / b"
+    },
+    {
+      "id": 49,
+      "grado": "3º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Ángulo Recto (90°)",
+      "relacion": "define_ortogonalidad",
+      "objeto": "Apertura exacta formada por dos rectas perpendiculares",
+      "efecto_pedagogico": "Clasificación comparativa: agudo (<90°) y obtuso (>90°).",
+      "representacion_formal": "ÁnguloRecto ≡ 90°"
+    },
+    {
+      "id": 50,
+      "grado": "3º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Gráfico de barras",
+      "relacion": "visualiza_datos",
+      "objeto": "Alturas proporcionales a frecuencias de categorías",
+      "efecto_pedagogico": "Iniciación al análisis e interpretación de datos estadísticos.",
+      "representacion_formal": "AlturaBarra ∝ FrecuenciaDato"
+    },
+    {
+      "id": 51,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Aparato Locomotor",
+      "relacion": "funciona_por_coordinación",
+      "objeto": "Huesos rígidos + Articulaciones + Músculos contráctiles",
+      "efecto_pedagogico": "Biomecánica del movimiento voluntario humano.",
+      "representacion_formal": "Locomoción ≡ Esqueleto + MúsculosAntagónicos"
+    },
+    {
+      "id": 52,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Proceso de Fotosíntesis",
+      "relacion": "convierte_energía",
+      "objeto": "Agua + CO2 + Luz solar → Glucosa + Oxígeno libre (O2)",
+      "efecto_pedagogico": "Base energética de la vida vegetal y oxigenación planetaria.",
+      "representacion_formal": "Fotosíntesis: H2O + CO2 + Fotones → C6H12O6 + O2"
+    },
+    {
+      "id": 53,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Cadena Trófica",
+      "relacion": "describe_flujo_energético",
+      "objeto": "Productores (plantas) → Consumidores (herbívoros/carnívoros) → Descomponedores",
+      "efecto_pedagogico": "Dependencia ecológica y equilibrio del ecosistema.",
+      "representacion_formal": "FlujoEnergía: Productor → ConsumidorPrimario → ConsumidorSecundario"
+    },
+    {
+      "id": 54,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Propiedades de la Materia: Masa y Volumen",
+      "relacion": "definen_sustancia",
+      "objeto": "Masa = cantidad de materia (kg); Volumen = espacio ocupado (L)",
+      "efecto_pedagogico": "Introducción a la física fundamental de los cuerpos.",
+      "representacion_formal": "Materia ≡ Masa ∧ Volumen"
+    },
+    {
+      "id": 55,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Movimiento de Rotación Terrestre",
+      "relacion": "gira_sobre_eje",
+      "objeto": "Giro de 360° en 24 horas sobre su eje inclinado",
+      "efecto_pedagogico": "Causa directa e invariable de la alternancia entre el día y la noche.",
+      "representacion_formal": "Rotación(Tierra, 24h) → DíaYNoche"
+    },
+    {
+      "id": 56,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Movimiento de Traslación Terrestre",
+      "relacion": "orbita_alrededor_sol",
+      "objeto": "Órbita elíptica en 365 días y 6 horas",
+      "efecto_pedagogico": "Junto con la inclinación del eje, origina las cuatro estaciones del año.",
+      "representacion_formal": "Traslación(Tierra, 365d) ∧ EjeInclinado → CuatroEstaciones"
+    },
+    {
+      "id": 57,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Sector Económico Primario",
+      "relacion": "extrae_recursos",
+      "objeto": "Agricultura, ganadería, pesca y minería",
+      "efecto_pedagogico": "Obtención directa de materias primas sin transformar.",
+      "representacion_formal": "SectorPrimario ⊂ Economía → ExtracciónMateriasPrimas"
+    },
+    {
+      "id": 58,
+      "grado": "3º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Globo Terráqueo y Mapamundi",
+      "relacion": "proyectan_geografía",
+      "objeto": "Representación esférica fiel vs Proyección plana de continentes y océanos",
+      "efecto_pedagogico": "Comprensión de la escala planetaria y cartografía básica.",
+      "representacion_formal": "Mapamundi ≡ ProyecciónPlana(PlanetaTierra)"
+    },
+    {
+      "id": 59,
+      "grado": "3º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Verb 'To Be' (Present Simple)",
+      "relacion": "indica_identidad_o_estado",
+      "objeto": "I am, You are, He/She/It is, We are, They are",
+      "efecto_pedagogico": "Pilar verbal copulativo fundamental del idioma inglés.",
+      "representacion_formal": "VerbToBe: am | is | are"
+    },
+    {
+      "id": 60,
+      "grado": "3º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Existencial 'There is / There are'",
+      "relacion": "señala_existencia",
+      "objeto": "'There is' para singular y 'There are' para plural",
+      "efecto_pedagogico": "Estructura descriptiva de entornos y habitaciones.",
+      "representacion_formal": "Existencial('There is' ↔ Singular | 'There are' ↔ Plural)"
+    },
+    {
+      "id": 61,
+      "grado": "3º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Prepositions of Place (in, on, under, behind)",
+      "relacion": "especifican_ubicación",
+      "objeto": "Relación espacial de un objeto respecto a un contenedor o superficie",
+      "efecto_pedagogico": "Topología espacial en lengua extranjera.",
+      "representacion_formal": "PreposiciónLugar → UbicaciónRelativa"
+    },
+    {
+      "id": 62,
+      "grado": "4º Primaria",
+      "materia": "Español",
+      "sujeto": "Regla de Palabras Agudas",
+      "relacion": "dicta_tilde_si",
+      "objeto": "Terminan en consonante -n, -s o vocal (ej.: camión, compás, papá)",
+      "efecto_pedagogico": "Norma ortográfica de la RAE para palabras oxítonas.",
+      "representacion_formal": "Aguda ∧ TerminaEn(n|s|vocal) → TildeObligatoria"
+    },
+    {
+      "id": 63,
+      "grado": "4º Primaria",
+      "materia": "Español",
+      "sujeto": "Regla de Palabras Llanas / Graves",
+      "relacion": "dicta_tilde_si",
+      "objeto": "Terminan en consonante que NO sea -n ni -s (ej.: árbol, lápiz)",
+      "efecto_pedagogico": "Norma ortográfica de la RAE para palabras paroxítonas.",
+      "representacion_formal": "Llana ∧ ¬TerminaEn(n|s|vocal) → TildeObligatoria"
+    },
+    {
+      "id": 64,
+      "grado": "4º Primaria",
+      "materia": "Español",
+      "sujeto": "Regla de Palabras Esdrújulas",
+      "relacion": "dicta_tilde_si",
+      "objeto": "Siempre llevan tilde sin excepción (ej.: médico, pájaro)",
+      "efecto_pedagogico": "Regla fija para palabras proparoxítonas.",
+      "representacion_formal": "Esdrújula → TildeSiempre"
+    },
+    {
+      "id": 65,
+      "grado": "4º Primaria",
+      "materia": "Español",
+      "sujeto": "Estructura de la Noticia",
+      "relacion": "organiza_periodismo",
+      "objeto": "Titular + Entradilla (qué, quién, cuándo, dónde) + Cuerpo",
+      "efecto_pedagogico": "Técnicas de comunicación informativa y no ficción.",
+      "representacion_formal": "Noticia ≡ Titular + Entradilla6W + Cuerpo"
+    },
+    {
+      "id": 66,
+      "grado": "4º Primaria",
+      "materia": "Español",
+      "sujeto": "Recurso Poético: Comparación (Símil)",
+      "relacion": "establece_semejanza",
+      "objeto": "Uso de nexo 'como' o 'parece' ('Tus ojos como el mar')",
+      "efecto_pedagogico": "Iniciación al lenguaje figurado y lírico.",
+      "representacion_formal": "Símil: ObjetoA + 'como' + ObjetoB"
+    },
+    {
+      "id": 67,
+      "grado": "4º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "División por dos cifras en divisor",
+      "relacion": "requiere_algoritmo",
+      "objeto": "Estimación de cifra cociente mediante prueba y resta de productos parciales",
+      "efecto_pedagogico": "Consolidación de cálculo aritmético complejo.",
+      "representacion_formal": "División2Cifras → EstimaciónCociente ∧ SustracciónParcial"
+    },
+    {
+      "id": 68,
+      "grado": "4º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Número Decimal: Décima y Centésima",
+      "relacion": "extiende_base_10",
+      "objeto": "1 décima = 0.1 (1/10); 1 centésima = 0.01 (1/100)",
+      "efecto_pedagogico": "Representación de cantidades fraccionarias en dinero y medidas métricas.",
+      "representacion_formal": "Décima ≡ 0.1 ∧ Centésima ≡ 0.01"
+    },
+    {
+      "id": 69,
+      "grado": "4º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Perímetro de un Polígono",
+      "relacion": "calcula_contorno",
+      "objeto": "Suma de las longitudes de todos sus lados",
+      "efecto_pedagogico": "Geometría lineal de límites exteriores.",
+      "representacion_formal": "Perímetro(P) ≡ ∑_{i=1}^n Lado_i"
+    },
+    {
+      "id": 70,
+      "grado": "4º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Triángulo Equilátero vs Isósceles vs Escaleno",
+      "relacion": "clasifica_por_lados",
+      "objeto": "3 lados iguales vs 2 lados iguales vs 3 lados diferentes",
+      "efecto_pedagogico": "Taxonomía geométrica euclidiana estándar.",
+      "representacion_formal": "ClasificaciónTriángulos ⊂ {Equilátero, Isósceles, Escaleno}"
+    },
+    {
+      "id": 71,
+      "grado": "4º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Sistema Métrico Decimal: Longitud",
+      "relacion": "escala_por_potencias_10",
+      "objeto": "1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm",
+      "efecto_pedagogico": "Conversiones de unidades multiplicando o dividiendo por 10.",
+      "representacion_formal": "1km ≡ 1000m ∧ 1m ≡ 100cm"
+    },
+    {
+      "id": 72,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Aparato Digestivo",
+      "relacion": "ejecuta_digestión",
+      "objeto": "Masticación bucal → Quimificación estomacal ácida → Absorción intestinal",
+      "efecto_pedagogico": "Descomposición física y enzimática de macronutrientes.",
+      "representacion_formal": "Digestión: Alimento → Bolo → Quimo → NutrientesAbsorbidos"
+    },
+    {
+      "id": 73,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Aparato Respiratorio: Alvéolos",
+      "relacion": "realiza_hematosis",
+      "objeto": "El O2 del aire pasa a glóbulos rojos y el CO2 pasa a los alvéolos para exhalar",
+      "efecto_pedagogico": "Intercambio gaseoso pasivo por difusión.",
+      "representacion_formal": "Hematosis: Alvéolo(O2) ↔ Sangre(CO2)"
+    },
+    {
+      "id": 74,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Aparato Circulatorio: Corazón",
+      "relacion": "impulsa_circulación",
+      "objeto": "Bomba muscular que envía sangre oxigenada por arterias y recibe desoxigenada por venas",
+      "efecto_pedagogico": "Hemodinámica en circuito cerrado doble y completo.",
+      "representacion_formal": "Corazón ⊂ BombaCardíaca → FlujoArterialYVenoso"
+    },
+    {
+      "id": 75,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Aparato Excretor: Riñones",
+      "relacion": "filtra_desechos",
+      "objeto": "Glomérulos filtran urea y toxinas de la sangre produciendo orina líquida",
+      "efecto_pedagogico": "Depuración metabólica y homeostasis hidroelectrolítica.",
+      "representacion_formal": "Riñones ⊂ FiltroHemático → ProducciónOrina"
+    },
+    {
+      "id": 76,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Máquina Simple: La Palanca",
+      "relacion": "conserva_trabajo",
+      "objeto": "Fuerza1 * Brazo1 = Fuerza2 * Brazo2 (Ventaja mecánica)",
+      "efecto_pedagogico": "Reducción de fuerza aplicada a expensas de mayor recorrido del brazo.",
+      "representacion_formal": "Palanca: F1 * d1 = F2 * d2"
+    },
+    {
+      "id": 77,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Climatología: Tiempo vs Clima",
+      "relacion": "diferencia_escala_temporal",
+      "objeto": "Tiempo = estado actual de atmósfera; Clima = patrón medio de más de 30 años",
+      "efecto_pedagogico": "Diferenciación conceptual crítica frente al cambio estacional.",
+      "representacion_formal": "Tiempo ≡ EstadoInstantáneo ∧ Clima ≡ Media30Años"
+    },
+    {
+      "id": 78,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Prehistoria: Paleolítico vs Neolítico",
+      "relacion": "marca_revolución_humana",
+      "objeto": "Nómadas cazadores (fuego/sílex) vs Sedentarios agricultores (poblados/cerámica)",
+      "efecto_pedagogico": "La invención de la agricultura como hito fundacional de la civilización.",
+      "representacion_formal": "RevoluciónNeolítica: CazaNómada → AgriculturaSedentaria"
+    },
+    {
+      "id": 79,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Civilización Romana: Romanización",
+      "relacion": "difunde_cultura",
+      "objeto": "Derecho romano, lengua latina, calzadas, acueductos y cristianismo",
+      "efecto_pedagogico": "Legado e infraestructura de la Antigüedad Clásica en Occidente.",
+      "representacion_formal": "Romanización: Latín + DerechoRomano + ObrasPúblicas"
+    },
+    {
+      "id": 80,
+      "grado": "4º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Constitución y Democracia",
+      "relacion": "regula_estado",
+      "objeto": "Ley fundamental que garantiza derechos, libertades y elecciones populares periódicas",
+      "efecto_pedagogico": "Educación cívica y comprensión del Estado de Derecho.",
+      "representacion_formal": "Constitución ≡ LeySuprema ∧ Democracia ≡ SoberaníaPopular"
+    },
+    {
+      "id": 81,
+      "grado": "4º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Present Simple (3rd Person Singular)",
+      "relacion": "añade_sufijo_obligatorio",
+      "objeto": "He/She/It añade -s o -es al verbo (ej.: 'He plays', 'She watches')",
+      "efecto_pedagogico": "Error fosilizable clásico en la adquisición del inglés.",
+      "representacion_formal": "PresentSimple(He|She|It) → Verbo + 's'/'es'"
+    },
+    {
+      "id": 82,
+      "grado": "4º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Present Continuous vs Present Simple",
+      "relacion": "contrasta_aspecto_verbal",
+      "objeto": "Acción en progreso ahora ('I am reading') vs Rutina o hábito ('I read every day')",
+      "efecto_pedagogico": "Discriminación de aspectualidad temporal en tiempo presente.",
+      "representacion_formal": "Aspecto: Continuous('now') vs Simple('routines')"
+    },
+    {
+      "id": 83,
+      "grado": "4º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Modal verb 'Can / Can't'",
+      "relacion": "expresa_habilidad",
+      "objeto": "Capacidad física o intelectual sin flexión de persona ('I can swim, she can swim')",
+      "efecto_pedagogico": "Uso del primer verbo modal de habilidad y permiso.",
+      "representacion_formal": "Modal('Can') + InfinitivoSinTo → Habilidad"
+    },
+    {
+      "id": 84,
+      "grado": "5º Primaria",
+      "materia": "Español",
+      "sujeto": "Complemento Directo (CD / OD)",
+      "relacion": "recibe_acción_directa",
+      "objeto": "Identificable mediante sustitución por pronombres átonos lo, la, los, las",
+      "efecto_pedagogico": "Análisis sintáctico funcional de oraciones transitivas.",
+      "representacion_formal": "CD ↔ SustituiblePor('lo', 'la', 'los', 'las')"
+    },
+    {
+      "id": 85,
+      "grado": "5º Primaria",
+      "materia": "Español",
+      "sujeto": "Complemento Indirecto (CI / OI)",
+      "relacion": "recibe_destinatario_acción",
+      "objeto": "Introducido por preposición 'a' y sustituible por le, les",
+      "efecto_pedagogico": "Distinción funcional sintáctica frente al complemento directo.",
+      "representacion_formal": "CI ↔ SustituiblePor('le', 'les')"
+    },
+    {
+      "id": 86,
+      "grado": "5º Primaria",
+      "materia": "Español",
+      "sujeto": "Hiato Acentual (Vocal cerrada tónica)",
+      "relacion": "rompe_diptongo_con_tilde",
+      "objeto": "Vocal cerrada tónica (í, ú) junto a abierta siempre lleva tilde (ej.: ma-rí-a, ba-úl)",
+      "efecto_pedagogico": "Excepción a las reglas generales de agudas/llanas por ley de hiato.",
+      "representacion_formal": "VocalCerradaTónica + VocalAbierta → TildeObligatoria ∧ Hiato"
+    },
+    {
+      "id": 87,
+      "grado": "5º Primaria",
+      "materia": "Español",
+      "sujeto": "Conjugación: Modo Indicativo Completo",
+      "relacion": "organiza_tiempos_verbales",
+      "objeto": "Tiempos simples (presente, pretéritos, futuro, condicional) y compuestos",
+      "efecto_pedagogico": "Dominio de la flexión temporal y aspectual del verbo español.",
+      "representacion_formal": "ModoIndicativo ≡ TiemposSimples + TiemposCompuestos"
+    },
+    {
+      "id": 88,
+      "grado": "5º Primaria",
+      "materia": "Español",
+      "sujeto": "Género Dramático: El Teatro",
+      "relacion": "presenta_texto_representable",
+      "objeto": "Diálogos directos sin narrador + Acotaciones escénicas entre paréntesis",
+      "efecto_pedagogico": "Diferenciación estructural frente a la narrativa de novela/cuento.",
+      "representacion_formal": "TextoTeatral ≡ DiálogosPersonajes + AcotacionesEscénicas"
+    },
+    {
+      "id": 89,
+      "grado": "5º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Criterios de Divisibilidad (2, 3, 5)",
+      "relacion": "permiten_descomposición",
+      "objeto": "Divisible por 2 (par), por 3 (suma dígitos = múltiplo 3), por 5 (termina en 0 o 5)",
+      "efecto_pedagogico": "Aritmética rápida para cálculo mental y simplificación.",
+      "representacion_formal": "Divisibilidad: ReglasRápidas(2, 3, 5)"
+    },
+    {
+      "id": 90,
+      "grado": "5º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Mínimo Común Múltiplo (mcm)",
+      "relacion": "unifica_denominadores",
+      "objeto": "Menor múltiplo común positivo de dos o más números para sumar fracciones heterogéneas",
+      "efecto_pedagogico": "Herramienta obligatoria para adición de fracciones con distinto denominador.",
+      "representacion_formal": "SumaFracciones(a/b + c/d) → Requiere_mcm(b, d)"
+    },
+    {
+      "id": 91,
+      "grado": "5º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Multiplicación de Fracciones",
+      "relacion": "opera_en_línea",
+      "objeto": "(a/b) * (c/d) = (a * c) / (b * d)",
+      "efecto_pedagogico": "Algoritmo directo multiplicativo de numeradores y denominadores.",
+      "representacion_formal": "(a/b) * (c/d) ≡ (a*c) / (b*d)"
+    },
+    {
+      "id": 92,
+      "grado": "5º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Área del Triángulo",
+      "relacion": "deduce_mitad_rectángulo",
+      "objeto": "Área = (Base * Altura) / 2",
+      "efecto_pedagogico": "Comprensión geométrica de que cualquier triángulo ocupa la mitad de su paralelogramo circunscrito.",
+      "representacion_formal": "ÁreaTriángulo ≡ (b * h) / 2"
+    },
+    {
+      "id": 93,
+      "grado": "5º Primaria",
+      "materia": "Matemáticas",
+      "sujeto": "Número Pi (π ≈ 3.1416)",
+      "relacion": "establece_constante_circular",
+      "objeto": "Relación constante entre longitud de circunferencia y su diámetro (L = 2 * π * r)",
+      "efecto_pedagogico": "Transición a la geometría circular trascendente.",
+      "representacion_formal": "π ≡ LongitudCircunferencia / Diámetro"
+    },
+    {
+      "id": 94,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Teoría Celular: La Célula",
+      "relacion": "unidad_fundamental_vida",
+      "objeto": "Unidad anatómica, funcional y genética más pequeña de todo ser vivo",
+      "efecto_pedagogico": "Niveles de organización biológica: célula → tejido → órgano → sistema → organismo.",
+      "representacion_formal": "Vida ≡ Célula → Tejido → Órgano → Sistema"
+    },
+    {
+      "id": 95,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Célula Vegetal vs Animal",
+      "relacion": "presenta_orgánulos_diferenciales",
+      "objeto": "Pared celular de celulosa + Cloroplastos fotosintéticos + Gran vacuola central",
+      "efecto_pedagogico": "Diferencias citológicas que determinan autotrofia vs heterotrofia.",
+      "representacion_formal": "CélulaVegetal ≡ CélulaEucariota + ParedCelulosa + Cloroplastos"
+    },
+    {
+      "id": 96,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Los Cinco Reinos Biológicos",
+      "relacion": "clasifica_biodiversidad",
+      "objeto": "Monera (bacterias), Protista (algas/protozoos), Fungi (hongos), Plantae, Animalia",
+      "efecto_pedagogico": "Taxonomía moderna de reinos de Whittaker.",
+      "representacion_formal": "Taxonomía ⊂ {Monera, Protista, Fungi, Plantae, Animalia}"
+    },
+    {
+      "id": 97,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Cambio Físico vs Cambio Químico",
+      "relacion": "determina_molecularidad",
+      "objeto": "Cambio de fase reversible (hielo a agua) vs Reacción irreversible que crea sustancias nuevas (combustión)",
+      "efecto_pedagogico": "Fundamento de la química y conservación de la masa.",
+      "representacion_formal": "CambioFísico(MismasMoléculas) vs ReacciónQuímica(NuevosCompuestos)"
+    },
+    {
+      "id": 98,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Naturales",
+      "sujeto": "Circuito Eléctrico Cerrado",
+      "relacion": "permite_flujo_electrónico",
+      "objeto": "Generador (pila) + Conductor (cobre) + Interruptor + Receptor (bombilla)",
+      "efecto_pedagogico": "Comprensión de la corriente eléctrica continua y cierre de lazo.",
+      "representacion_formal": "CircuitoCerrado: Pila ⊕ Conductor ⊕ Receptor → CorrienteActiva"
+    },
+    {
+      "id": 99,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Demografía: Densidad de Población",
+      "relacion": "mide_concentración_espacial",
+      "objeto": "Densidad = Población absoluta (habitantes) / Superficie (km²)",
+      "efecto_pedagogico": "Cálculo e interpretación de la ocupación del territorio y vaciamiento rural.",
+      "representacion_formal": "DensidadPoblación ≡ Habitantes / km²"
+    },
+    {
+      "id": 100,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Separación de Poderes del Estado",
+      "relacion": "equilibra_democracia",
+      "objeto": "Poder Legislativo (Parlamento) + Ejecutivo (Gobierno) + Judicial (Jueces)",
+      "efecto_pedagogico": "Doctrina de pesos y contrapesos que previene la tiranía en democracia.",
+      "representacion_formal": "EstadoDemocrático ≡ Legislativo + Ejecutivo + Judicial"
+    },
+    {
+      "id": 101,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Sociedad Feudal Medieval",
+      "relacion": "organiza_pirámide_estamental",
+      "objeto": "Rey → Bellatores (nobleza/caballeros) + Oratores (clero) → Laboratores (campesinos siervos)",
+      "efecto_pedagogico": "Estructura social cerrada sin movilidad del medievo europeo.",
+      "representacion_formal": "Feudalismo ≡ Privilegiados(Nobleza, Clero) + NoPrivilegiados(Siervos)"
+    },
+    {
+      "id": 102,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Edad Moderna: Era de los Descubrimientos (1492)",
+      "relacion": "conecta_hemisferios",
+      "objeto": "Llegada de Colón a América, circunnavegación y cartografía global",
+      "efecto_pedagogico": "Nacimiento del comercio transoceánico y la primera globalización.",
+      "representacion_formal": "1492 ≡ LlegadaAmérica ∧ InicioEdadModerna"
+    },
+    {
+      "id": 103,
+      "grado": "5º Primaria",
+      "materia": "Ciencias Sociales",
+      "sujeto": "Invento de la Imprenta de tipos móviles (Gutenberg)",
+      "relacion": "democratiza_información",
+      "objeto": "Producción masiva de libros multiplicando difusión cultural del Humanismo",
+      "efecto_pedagogico": "Revolución tecnológica que clausura el monopolio manuscrito monacal.",
+      "representacion_formal": "ImprentaGutenberg → DifusiónMasivaConocimiento"
+    },
+    {
+      "id": 104,
+      "grado": "5º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Comparative of Adjectives",
+      "relacion": "compara_dos_entidades",
+      "objeto": "Cortos: adición de '-er than' (faster than); Largos: 'more ... than' (more expensive than)",
+      "efecto_pedagogico": "Regla sintáctica diferenciada por longitud fonética del adjetivo.",
+      "representacion_formal": "Comparativo: AdjetivoCorto + '-er than' | 'more' + AdjetivoLargo + 'than'"
+    },
+    {
+      "id": 105,
+      "grado": "5º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Superlative of Adjectives",
+      "relacion": "expresa_grado_máximo",
+      "objeto": "Cortos: 'the ... -est' (the fastest); Largos: 'the most ...' (the most expensive)",
+      "efecto_pedagogico": "Expresión del grado extremo relativo en grupo.",
+      "representacion_formal": "Superlativo: 'the' + AdjCorto + '-est' | 'the most' + AdjLargo"
+    },
+    {
+      "id": 106,
+      "grado": "5º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Past Simple: Regular Verbs (-ed)",
+      "relacion": "narra_hechos_concluidos",
+      "objeto": "Adición de terminación -ed al infinitivo (walked, played, cooked)",
+      "efecto_pedagogico": "Morfema pretérito regular en lengua inglesa.",
+      "representacion_formal": "PastSimpleRegular: Infinitivo + '-ed'"
+    },
+    {
+      "id": 107,
+      "grado": "5º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Past Simple: Irregular Verbs comunes",
+      "relacion": "requiere_adquisición_léxica",
+      "objeto": "Formas fijas sin sufijo -ed: go → went; see → saw; have → had; buy → bought",
+      "efecto_pedagogico": "Aprendizaje de excepciones históricas germánicas de alta frecuencia.",
+      "representacion_formal": "IrregularPast: go→went, see→saw, eat→ate"
+    },
+    {
+      "id": 108,
+      "grado": "5º Primaria",
+      "materia": "Inglés",
+      "sujeto": "Future with 'Going to'",
+      "relacion": "expresa_plan_o_evidencia",
+      "objeto": "Sujeto + am/is/are + 'going to' + Verbo en infinitivo ('I am going to study')",
+      "efecto_pedagogico": "Diferenciación frente a predicciones espontáneas o promesas.",
+      "representacion_formal": "FuturePlans: ToBe + 'going to' + Infinitivo"
+    }
+  ]
+}

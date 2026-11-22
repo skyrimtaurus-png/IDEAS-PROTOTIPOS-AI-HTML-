@@ -1,0 +1,268 @@
+El procesador decodifica y ejecuta instrucciones de máquina ante ciclos de reloj mediante unidad aritmético-lógica con el efecto de procesar cómputos.
+El procesador entra en estrangulamiento térmico irreversible cuando la disipación nula dispara temperaturas que fuerzan el apagado por sobrecalentamiento.
+El núcleo despacha hilos de ejecución concurrentes ante planificaciones del sistema mediante cauces independientes con el efecto de paralelizar tareas.
+El núcleo queda colgado con parada irreversible ante un bloqueo de hardware cuando un fallo en bus congela el bucle de ejecución de microcódigo.
+El registro almacena operandos intermedios y direcciones de memoria ante instrucciones en curso mediante celdas de silicio ultrarrápidas con el efecto de computar sin retardo.
+El registro padece corrupción de datos irreversible ante inversión de bit por radiación cósmica desvirtuando el puntero del programa.
+La caché retiene datos e instrucciones de alta localidad ante accesos a memoria mediante líneas de memoria estática con el efecto de acelerar lecturas.
+La caché sufre fallos masivos con degradación irreversible de latencia cuando un patrón de acceso errático desata desalojos continuos entre líneas.
+El bus transfiere datos y señales de control ante dispositivos de la placa mediante pistas paralelas sincronizadas con el efecto de interconectar periféricos.
+El bus se bloquea de modo irreversible ante contención de acceso cuando una tarjeta defectuosa monopoliza la línea manteniendo activo el voltaje.
+La interrupción suspende el flujo secuencial ante eventos externos de hardware mediante vectores de salto con el efecto de atender periféricos de inmediato.
+La interrupción desata tormenta de interrupciones irreversible cuando una línea flotante defectuosa satura la unidad central impidiendo procesar código.
+El controlador gestiona el acceso físico a unidades periféricas ante órdenes del sistema mediante registros de estado y datos con el efecto de transferir bloques.
+El controlador sufre desbordamiento de búfer irreversible ante cargas extremas cuando la lentitud del almacenamiento bloquea la recepción de datos.
+La memoria almacena programas y datos en ejecución ante peticiones del procesador mediante matrices de condensadores dinámicos con el efecto de sustentar el sistema.
+La memoria experimenta agotamiento masivo irreversible ante fugas no recolectadas cuando el consumo desborda la memoria virtual matando procesos.
+La paginación fragmenta el espacio virtual en marcos de tamaño fijo ante demandas de memoria mediante tablas de páginas con el efecto de evitar fragmentación externa.
+La paginación entra en hiperpaginación irreversible cuando el intercambio continuo de páginas con disco colapsa el rendimiento de la unidad central.
+El segmento delimita regiones lógicas de memoria contigua ante funciones de código y datos mediante descriptores de longitud con el efecto de aislar accesos.
+El segmento provoca fallo de segmentación irreversible con aborto del proceso cuando un puntero salvaje intenta escribir fuera del límite asignado.
+La pila gestiona marcos de llamada y variables locales ante invocaciones de función mediante disciplina último en entrar primero en salir con el efecto de anidar subrutinas.
+La pila padece desbordamiento de pila irreversible ante recursiones infinitas cuando el avance del puntero invade zonas protegidas de memoria.
+El montículo asigna bloques de memoria dinámica ante peticiones de reserva mediante gestor de asignación libre con el efecto de crear objetos en ejecución.
+El montículo sufre fragmentación externa severa irreversible cuando asignaciones y liberaciones desordenadas impiden alojar bloques contiguos grandes.
+El árbol organiza claves jerárquicas balanceadas ante búsquedas y ordenaciones mediante nodos con punteros a hijos con el efecto de garantizar coste logarítmico.
+El árbol degenera en lista lineal irreversible si la falta de rebalanceo continuado concentra todas las ramas en un único sentido de inserción.
+El grafo modela relaciones complejas entre entidades ante análisis topológicos mediante vértices y aristas dirigidas con el efecto de resolver rutas óptimas.
+El grafo provoca bucles infinitos irreversibles durante recorridos en profundidad si la falta de marcas de visitado atrapa la exploración en ciclos.
+La tabla asocia claves con valores ante accesos aleatorios rápidos mediante funciones de transformación matemática con el efecto de responder en tiempo constante.
+La tabla padece colapso de rendimiento irreversible por tormenta de colisiones cuando claves mal distribuidas saturan una misma cubeta de dispersión.
+La función de dispersión mapea identificadores de longitud variable ante índices de matriz mediante operaciones modulares con el efecto de repartir cargas.
+La dispersión uniforme se rompe de forma irreversible cuando ataques de colisión deliberada concentran miles de peticiones en un solo nodo de la tabla.
+El índice acelera consultas en bases de datos ante búsquedas por columnas mediante estructuras balanceadas de búsqueda con el efecto de evitar escaneos completos.
+El índice queda invalidado de modo irreversible tras caídas del servidor cuando la falta de sincronización corrompe los nodos internos del árbol de índices.
+El cursor recorre secuencialmente filas devueltas ante consultas estructuradas mediante puntero de conjunto de resultados con el efecto de procesar registro a registro.
+El cursor satura recursos del gestor de modo irreversible cuando bucles no cerrados mantienen bloqueos activos impidiendo la concurrencia de otros usuarios.
+La vista materializa o virtualiza consultas predefinidas ante necesidades de abstracción mediante definiciones de selección con el efecto de simplificar accesos.
+La vista queda invalidada con error irreversible cuando la modificación o borrado de una tabla subyacente deja huérfana la consulta guardada.
+La réplica duplica transacciones procedentes del nodo primario ante peticiones de lectura mediante canales de replicación con el efecto de tolerar fallos.
+La réplica sufre divergencia de datos irreversible ante partición de red si inconsistencias concurrentes de escritura impiden reconciliar el estado.
+El clúster balancea cómputo y almacenamiento entre múltiples máquinas ante elevadas demandas mediante coordinación distribuida con el efecto de dar alta disponibilidad.
+El clúster padece escisión cerebral irreversible ante corte de comunicaciones intermedias cuando dos subgrupos reclaman la titularidad del liderazgo.
+El nodo procesa su cuota asignada de carga distribuida ante órdenes del coordinador mediante agentes locales con el efecto de computar en paralelo.
+El nodo queda aislado con expulsión irreversible del clúster cuando la caída de su enlace de red supera el umbral de latidos de vida tolerados.
+La pasarela traduce protocolos de comunicación disímiles ante interconexiones de redes heterogéneas mediante conversión de paquetes con el efecto de comunicar sistemas.
+La pasarela sufre cuello de botella con caída irreversible del servicio cuando la saturación de conexiones abiertas agota su tabla de traducción de puertos.
+El enrutador reenvía paquetes de datos hacia la ruta óptima ante tablas de enrutamiento dinámico mediante examen de cabeceras de red con el efecto de interconectar.
+El enrutador colapsa con descarte masivo irreversible de tramas cuando la congestión de enlaces satura completamente los búferes de memoria de entrada.
+El conmutador conmuta tramas a nivel de enlace de datos ante direcciones físicas aprendidas mediante reenvío selectivo a puertos con el efecto de aislar colisiones.
+El conmutador padece tormenta de difusión irreversible si la ausencia de protocolo de árbol de expansión genera bucles infinitos en el cableado.
+El cortafuegos inspecciona estados y puertos de tráfico de red ante reglas de seguridad perimetrales mediante filtrado de paquetes con el efecto de bloquear intrusiones.
+El cortafuegos bloquea el tráfico corporativo con parada irreversible cuando una directiva mal configurada descarta por error todas las conexiones del puerto web.
+La sonda monitoriza métricas de rendimiento y salud de servicios ante agentes de telemetría mediante pings periódicos con el efecto de generar alertas tempranas.
+La sonda arroja falsos positivos de modo irreversible si un corte de la red de gestión aísla el monitor reportando caídas ficticias de servicios sanos.
+El paquete encapsula fragmentos de datos de aplicación ante redes de conmutación mediante cabeceras de red con el efecto de viajar de origen a destino.
+El paquete sufre descarte irreversible en tránsito cuando la superación del límite de saltos agota el tiempo de vida en la cabecera de red.
+La trama empaqueta bits con delimitadores y códigos de redundancia ante el medio físico mediante cabeceras de enlace con el efecto de garantizar saltos locales.
+La trama se descarta con pérdida irreversible ante colisión en el medio físico si la suma de comprobación detecta errores de paridad no recuperables.
+La cabecera precede a la carga útil con metadatos de enrutamiento y control ante protocolos de red mediante campos estandarizados con el efecto de guiar el paquete.
+La cabecera corrompida por interferencias electromagnéticas desata el rechazo irreversible del paquete en el primer enrutador de paso.
+La suma de verificación valida la integridad binaria de mensajes recibidos ante ruidos de transmisión mediante cálculo algebraico con el efecto de detectar alteraciones.
+La suma detecta alteración con descarte irreversible de datos cuando un solo bit invertido durante la transmisión no coincide con el valor transmitido.
+La verificación formal analiza invariantes de código y protocolos ante estados concurrentes mediante demostradores de modelos con el efecto de certificar corrección.
+La verificación detecta un defecto crítico irreversible en la arquitectura cuando una traza de ejecución demuestra posibilidad de interbloqueo mutuo.
+La difusión transmite un paquete a todos los nodos de la subred ante anuncios de descubrimiento mediante dirección reservada con el efecto de sincronizar la red.
+La difusión descontrolada colapsa el ancho de banda con parálisis irreversible de conmutadores ante fallos de control de tormentas en capa dos.
+La multidifusión distribuye flujos multimedia a grupos suscritos ante emisiones en directo mediante árboles de distribución con el efecto de economizar enlaces.
+La multidifusión sufre cortes irreversibles de flujo si los enrutadores intermedios descartan paquetes por falta de tablas de pertenencia actualizadas.
+El puerto identifica el punto de acceso para servicios específicos de transporte ante conexiones entrantes mediante número de dieciséis bits con el efecto de multiplexar.
+El puerto rechaza conexiones con error irreversible de rechazo cuando ningún demonio activo escucha peticiones en el zócalo correspondiente.
+El zócalo establece un extremo de comunicación bidireccional entre procesos ante redes de conmutación mediante descriptor de archivo con el efecto de transmitir flujos.
+El zócalo queda cerrado con desconexión irreversible cuando el emisor envía una trama de reinicio forzoso abortando abruptamente la sesión activa.
+La tubería canaliza la salida de un proceso hacia la entrada de otro ante tuberías de línea de órdenes mediante búfer FIFO en memoria con el efecto de encadenar filtros.
+La tubería genera señal de tubería rota con terminación irreversible del emisor cuando el proceso receptor finaliza cerrando el extremo de lectura.
+El demonio ejecuta servicios en segundo plano sin terminal asignada ante arranques del sistema mediante bifurcación independiente con el efecto de atender eventos.
+El demonio cae con parada irreversible del servicio cuando una excepción no capturada en su hilo principal aborta el proceso en memoria.
+El contenedor aísla entornos de ejecución compartiendo el núcleo del sistema ante despliegues ligeros mediante espacios de nombres con el efecto de asegurar portabilidad.
+El contenedor experimenta expulsión irreversible por el núcleo cuando su consumo de memoria rebasa el límite fijado por su grupo de control.
+El hipervisor virtualiza plataformas completas de hardware ante máquinas virtuales heterogéneas mediante traducción de instrucciones con el efecto de consolidar servidores.
+El hipervisor sufre pánico del núcleo con caída catastrófica irreversible de todas las máquinas virtuales anidadas ante fallos de hardware en memoria física.
+El repositorio custodia el historial de versiones de un proyecto de código ante cambios de equipo mediante objetos inmutables con el efecto de asegurar la trazabilidad.
+El repositorio padece corrupción irreversible de la base de datos de objetos cuando cortes eléctricos durante un empaquetado dañan los árboles de cambios.
+La rama bifurca líneas de desarrollo independientes ante nuevas funcionalidades mediante punteros a confirmaciones con el efecto de aislar cambios en curso.
+La rama queda huérfana de modo irreversible cuando un borrado forzado sin fusión previa elimina la última referencia al historial de trabajo.
+La fusión integra historiales de desarrollo paralelos ante finalizaciones de tarea mediante combinación de ramas con el efecto de unificar el árbol de código.
+La fusión desata conflictos insolubles de modo irreversible si cambios antagónicos en las mismas líneas de archivo impiden la reconciliación automática.
+El hilo ejecuta secuencias de instrucciones compartiendo memoria con otros hilos ante tareas concurrentes mediante pila propia con el efecto de agilizar cómputos.
+El hilo colisiona en carrera crítica irreversible cuando modificaciones simultáneas sin cerrojos corrompen estructuras compartidas en memoria.
+El proceso ejecuta programas de forma aislada ante el sistema operativo mediante espacio de direcciones propio con el efecto de proteger la estabilidad.
+El proceso sufre terminación forzosa irreversible por el sistema cuando un intento de acceso a memoria no asignada desata violación de segmento.
+El cerrojo garantiza acceso exclusivo a una sección crítica ante concurrencia mediante primitivas de bloqueo con el efecto de impedir corrupciones de datos.
+El cerrojo bloquea indefinidamente la aplicación de modo irreversible cuando un hilo muere sin liberar el cerrojo retenido en sección crítica.
+El semáforo regula el acceso a un cupo finito de recursos compartidos ante múltiples hilos mediante contador atómico protegido con el efecto de sincronizar tareas.
+El semáforo provoca inanición irreversible de hilos lentos si la disciplina de paso no equitativa favorece siempre a los procesos de mayor prioridad.
+El monitor encapsula variables y métodos de acceso sincronizado ante objetos concurrentes mediante exclusión implícita con el efecto de ordenar el paralelismo.
+El monitor padece interbloqueo irreversible cuando dos métodos sincronizados se invocan mutuamente cruzando cerrojos en distinto orden de llamada.
+El mutex proporciona exclusión binaria mutua estricta ante secciones críticas mediante cambio de contexto con el efecto de evitar condiciones de carrera.
+El mutex padece inversión de prioridad de modo irreversible cuando un hilo de baja prioridad bloquea a uno prioritario al ser postergado por hilos medios.
+La barrera detiene la ejecución de un grupo de hilos paralelos ante fases de cálculo mediante espera colectiva con el efecto de sincronizar etapas.
+La barrera queda congelada indefinidamente de modo irreversible si un solo hilo participante aborta sin llegar al punto de encuentro fijado.
+El interbloqueo congela dos o más procesos ante la retención circular de recursos mediante espera mutua con el efecto de paralizar el avance de tareas.
+El interbloqueo exige la matanza forzosa irreversible de uno de los procesos bloqueados para romper el ciclo y liberar los recursos atrapados.
+La inanición posterga indefinidamente la atención de una tarea lista ante planificaciones injustas mediante acaparamiento de recursos con el efecto de degradar servicios.
+La inanición degenera en fallo irreversible de tiempo real cuando un hilo crítico no accede a la unidad central antes de expirar su plazo límite.
+El planificador asigna tiempo de unidad central a procesos listos ante interrupciones de reloj mediante algoritmos de reparto con el efecto de optimizar rendimiento.
+El planificador colapsa en parálisis irreversible cuando la sobrecarga de cambios de contexto consume más ciclos de reloj que el propio trabajo útil.
+El contexto almacena el estado completo de registros del procesador ante cambios de tarea mediante salvado en memoria con el efecto de reanudar procesos.
+El contexto se corrompe con reinicio irreversible del sistema cuando un error de puntero en la rutina de interrupción machaca los registros salvados.
+La señal notifica eventos asíncronos a procesos en ejecución ante requerimientos del sistema mediante interrupciones lógicas con el efecto de gestionar excepciones.
+La señal de terminación forzosa cierra el proceso de modo irreversible sin permitir la ejecución de manejadores de rescate ni salvado de datos.
+El descriptor de archivo asocia operaciones de entrada y salida ante recursos abiertos mediante índice numérico por proceso con el efecto de leer y escribir.
+El descriptor queda agotado con fallo irreversible de apertura cuando la fuga de descriptores no cerrados supera el límite por proceso del sistema.
+El inodo almacena metadatos y punteros a bloques de disco ante archivos creados mediante estructura del sistema de ficheros con el efecto de ubicar datos.
+El inodo se corrompe de modo irreversible si una escritura cortada en disco descuadra la tabla de inodos exigiendo la reconstrucción del volumen.
+El directorio indexa nombres de archivos asociándolos a números de inodo ante peticiones de usuario mediante tabla jerárquica con el efecto de organizar rutas.
+El directorio deviene inaccesible con pérdida irreversible de navegación cuando la corrupción de sus bloques de entrada borra los enlaces a sus ficheros.
+El enlace duro referencia el mismo inodo bajo múltiples nombres ante necesidades de acceso mediante entradas de directorio con el efecto de compartir archivos.
+El enlace simbólico queda roto de modo irreversible cuando el archivo de destino es eliminado dejando la referencia apuntando al vacío.
+El bloque transfiere datos entre disco y memoria en paquetes de tamaño fijo ante peticiones del sistema con el efecto de optimizar la entrada y salida.
+El bloque sufre marcado de sector defectuoso irreversible cuando la degradación física del soporte magnético impide la lectura fiable de los datos.
+El sector almacena unidades mínimas físicas de datos en pistas de disco ante controladores de hardware mediante direccionamiento de bloques lógicos.
+El sector padece corrupción física irreversible por contacto de cabezales cuando un impacto mecánico raya la superficie magnética del plato.
+La pista define trayectorias circulares concéntricas de grabación ante el giro del plato mediante alineación magnética con el efecto de organizar sectores.
+La pista deviene ilegible de modo irreversible cuando la desalineación de los servos del brazo impide al cabezal seguir la trayectoria concéntrica.
+El plato gira a miles de revoluciones por minuto ante el motor del disco mediante superficie pulida con película ferromagnética con el efecto de grabar bits.
+El plato sufre aterrizaje destructivo irreversible de cabezales cuando el choque físico de lectura pulveriza la capa magnética con pérdida total.
+El cabezal flota sobre el cojín de aire a escala nanométrica ante el giro del disco mediante sensor magnetorresistivo con el efecto de leer y escribir datos.
+El cabezal se dobla con destrucción irreversible cuando una desaceleración brusca aplasta el brazo de lectura contra la superficie del plato.
+El firmware programa el control básico de bajo nivel en chips ante el encendido mediante memoria de solo lectura con el efecto de inicializar hardware.
+El firmware se corrompe con bloqueo irreversible del dispositivo si un corte eléctrico durante la actualización deja la memoria flash a medio programar.
+La bios inicializa periféricos y busca cargadores de arranque ante la pulsación de encendido mediante rutinas del sistema con el efecto de arrancar la máquina.
+La bios queda inutilizada de modo irreversible cuando un ataque de sobreescritura maliciosa destruye la imagen de arranque del circuito integrado.
+El arrancador carga la imagen del núcleo desde disco a memoria ante el fin de la bios mediante código de arranque con el efecto de iniciar el sistema.
+El arrancador se interrumpe con parada irreversible de arranque cuando la ausencia de la partición de sistema impide localizar la imagen del núcleo.
+El micronúcleo reduce las funciones de espacio privilegiado a la comunicación mínima ante diseños modulares con el efecto de aislar servicios en servidores.
+El micronúcleo sufre degradación de rendimiento irreversible por sobrecarga de paso de mensajes cuando arquitecturas mal particionadas saturan las colas.
+El módulo del núcleo carga controladores dinámicamente ante la detección de hardware mediante enlace en caliente con el efecto de extender funciones sin reiniciar.
+El módulo desata pánico del núcleo irreversible cuando un error de puntero nulo en espacio privilegiado aborta la ejecución global del sistema.
+El dispositivo físico interactúa con el mundo exterior ante órdenes del controlador mediante transductores electrónicos con el efecto de recibir entradas.
+El dispositivo se desconecta de modo irreversible ante sobretensiones en el puerto cuando un pico eléctrico funde el circuito de comunicación serie.
+El periférico complementa las capacidades de entrada y salida del procesador ante demandas del usuario mediante buses de conexión con el efecto de interactuar.
+El periférico queda no reconocido de modo irreversible cuando el fallo del bus serie impide la enumeración correcta del dispositivo en el arranque.
+El teclado traduce pulsaciones mecánicas de teclas ante entradas del usuario mediante matriz de conmutación con el efecto de enviar códigos de barrido.
+El teclado sufre cortocircuito irreversible por vertido de líquidos cuando el líquido conductor puentea las pistas de la membrana de contactos.
+La pantalla visualiza gráficos y textos rasterizados ante la memoria gráfica mediante matrices de diodos o cristal líquido con el efecto de mostrar interfaces.
+La pantalla padece rotura por impacto irreversible del panel cuando una fisura mecánica en el sustrato destruye el direccionamiento de píxeles.
+El ratón rastrea desplazamientos bidimensionales ante el movimiento manual mediante sensor óptico reflectivo con el efecto de guiar el puntero gráfico.
+El ratón sufre fallos erráticos irreversibles cuando el rayado abrasivo de la lente refractora inferior dispersa la luz del diodo de seguimiento.
+La interfaz define contratos abstractos de interacción ante componentes desacoplados mediante firmas de métodos con el efecto de estandarizar módulos.
+La interfaz se quiebra de modo irreversible ante cambios de firma no retrocompatibles que obligan a recompilar y modificar todos los clientes.
+El canal transmite flujos síncronos o asíncronos ante procesos en comunicación mediante colas protegidas con el efecto de intercambiar datos sin bloqueos.
+El canal queda cerrado de forma irreversible cuando el extremo emisor notifica fin de flujo impidiendo el envío de nuevos elementos al receptor.
+El puente interconecta dos segmentos de red idénticos ante filtrados de tráfico mediante aprendizaje de direcciones físicas con el efecto de segmentar.
+El puente padece saturación de memoria de modo irreversible ante inundación de tablas cuando miles de direcciones espurias desbordan la tabla de paso.
+La tarjeta de red procesa protocolos físicos y de enlace ante el bus de la máquina mediante procesador de comunicaciones con el efecto de conectar a redes.
+La tarjeta se tuesta con inutilización irreversible ante descargas electrostáticas si una manipulación sin toma de tierra destruye el chip transceptor.
+El módem modula y demodula señales portadoras analógicas ante líneas telefónicas o de cable mediante modulación de amplitud con el efecto de transmitir datos.
+El módem pierde sincronismo de forma irreversible ante ruidos de línea excesivos cuando la atenuación de la señal corta la portadora de enlace.
+El repetidor regenera y amplifica señales eléctricas débiles ante tramos largos de cable mediante regeneración de pulsos con el efecto de extender alcance.
+El repetidor amplifica ruidos parásitos de modo irreversible si la señal entrante se degrada por debajo de la relación señal a ruido admisible.
+El concentrador repite tramas recibidas hacia todos sus puertos ante redes en estrella mediante difusión física con el efecto de interconectar equipos.
+El concentrador degrada el ancho de banda con colisiones irreversibles cuando múltiples terminales transmiten simultáneamente saturando el medio compartido.
+La antena radia y capta ondas electromagnéticas en el espacio libre ante transmisiones inalámbricas mediante resonancia metálica con el efecto de comunicar.
+La antena pierde ganancia con desadaptación irreversible de impedancias cuando la rotura de sus elementos directores desvía la potencia reflejada.
+La fibra óptica guía pulsos de luz láser ante transmisiones de altísima velocidad mediante reflexión interna total en núcleo de sílice con el efecto de gigabits.
+La fibra se quiebra de forma irreversible por radio de curvatura excesivo cuando la fractura del núcleo de vidrio interrumpe la propagación del haz.
+El cable coaxial transmite señales de radiofrecuencia apantalladas ante interferencias mediante conductor central rodeado de malla con el efecto de blindar.
+El coaxial sufre pérdidas excesivas con degradación irreversible cuando el aplastamiento del dieléctrico altera la impedancia característica de la línea.
+El par trenzado cancela interferencias electromagnéticas diferenciales ante redes locales mediante torsión de hilos de cobre con el efecto de transportar datos.
+El par trenzado padece paradiafonía con errores irreversibles de trama si el destrenzado excesivo en el conector rompe la cancelación de campos.
+El conector acopla terminales de cable a tarjetas ante conexiones modulares mediante contactos dorados de precisión con el efecto de asegurar continuidad.
+El conector sufre rotura de lengüeta con desconexión física irreversible cuando el esfuerzo mecánico repetido parte el enganche plástico de retención.
+La terminal proporciona interfaz de comandos e interacción ante usuarios técnicos mediante intérprete de órdenes con el efecto de gestionar el sistema.
+La terminal queda congelada de modo irreversible ante comandos que bloquean la entrada si el usuario pierde la capacidad de enviar señales de aborto.
+La consola del sistema muestra mensajes de diagnóstico críticos ante el arranque del núcleo mediante salida de texto directa con el efecto de auditar.
+La consola queda inaccesible con ceguera irreversible del administrador si la desconexión del puerto serie anula la última vía de acceso al servidor.
+El intérprete analiza y ejecuta código fuente línea a línea ante guiones de ejecución mediante evaluación dinámica con el efecto de automatizar tareas.
+El intérprete aborta la ejecución con fallo irreversible cuando encuentra un error de sintaxis en tiempo de ejecución en ramas de código no testeadas.
+El compilador traduce código fuente de alto nivel ante proyectos de software mediante optimización de código máquina con el efecto de generar binarios.
+El compilador cancela la generación del binario con error irreversible si el análisis semántico detecta incompatibilidad de tipos entre módulos.
+El ensamblador convierte mnemónicos legibles ante programación de bajo nivel mediante traducción directa a lenguaje máquina con el efecto de generar objetos.
+El ensamblador falla con desbordamiento irreversible si una instrucción de salto relativo rebasa el rango de desplazamiento permitido por el código máquina.
+El enlazador resuelve símbolos cruzados y agrupa ficheros objeto ante la fase final de compilación mediante resolución de direcciones con el efecto de producir ejecutables.
+El enlazador aborta la compilación con fallo irreversible de enlace cuando detecta referencias indefinidas o duplicadas en las bibliotecas de entrada.
+El depurador controla la ejecución paso a paso e inspecciona variables ante fallos de programa mediante puntos de ruptura con el efecto de corregir errores.
+El depurador altera el comportamiento con fallo irreversible cuando el propio proceso de inspección enmascara carreras críticas que solo ocurren a velocidad plena.
+El perfilador mide consumos de tiempo de unidad central y memoria ante optimizaciones de código mediante muestreo estadístico con el efecto de detectar cuellos de botella.
+El perfilador distorsiona las mediciones de modo irreversible por sobrecarga de instrumentación cuando el coste del sondeo altera la dinámica de la aplicación.
+La biblioteca suministra funciones prediseñadas y reutilizables ante desarrollos de software mediante enlaces dinámicos con el efecto de evitar duplicar código.
+La biblioteca desata infierno de dependencias de modo irreversible cuando versiones incompatibles rompen la interfaz binaria de las aplicaciones clientes.
+El fichero binario empaqueta código máquina ejecutable y recursos compilados ante el sistema operativo mediante formatos estandarizados con el efecto de correr programas.
+El binario resulta truncado de forma irreversible si un fallo de almacenamiento durante la descarga daña la cabecera haciendo imposible su ejecución.
+El ejecutable lanza procesos en memoria ante peticiones del usuario mediante invocación de llamada al sistema con el efecto de materializar aplicaciones.
+El ejecutable es bloqueado de modo irreversible por el sistema de seguridad cuando la firma digital no coincide con los certificados de confianza.
+El byte conforma la unidad básica de información direccionable ante memorias de computadores mediante octeto de bits binarios con el efecto de representar caracteres.
+El byte sufre alteración de contenido de modo irreversible ante fallos en buses de memoria cuando ruido de conmutación cambia ceros por unos lógicos.
+La palabra de datos define el tamaño natural de procesamiento del procesador ante arquitecturas de cómputo mediante registros de ancho fijo con el efecto de operar números.
+La palabra sufre desalineación de memoria con penalización irreversible de latencia cuando accesos no múltiplos fuerzan lecturas divididas en ciclos extra.
+La instrucción codifica la operación que la unidad central debe ejecutar ante programas mediante código de operación y operandos con el efecto de transformar datos.
+La instrucción provoca trampa de instrucción ilegal de modo irreversible si el decodificador encuentra un patrón de bits no implementado en la arquitectura.
+El operando suministra el dato o registro fuente ante operaciones de la unidad central mediante direccionamiento directo con el efecto de alimentar la computación.
+El operando provoca división por cero con excepción irreversible cuando la lógica del programa pasa un valor nulo al registro divisor de la unidad.
+El código de operación identifica de forma única la función que ejecutará la máquina ante la fase de decodificación mediante bits de cabecera con el efecto de guiar el cauce.
+El opcode desconocido desata una excepción de procesador con parada irreversible del hilo ante la imposibilidad de seleccionar microinstrucciones.
+El microcódigo traduce instrucciones complejas en secuencias de microoperaciones elementales ante procesadores de arquitectura compleja con el efecto de controlar circuitos.
+El microcódigo sufre corrupción irreversible en memoria de control si una actualización errónea del parche de microcódigo bloquea el arranque del chip.
+La canalización segmenta la ejecución de instrucciones en etapas concurrentes ante el avance del reloj mediante registros de segmentación con el efecto de elevar el rendimiento.
+La canalización padece vaciado forzado con pérdida irreversible de ciclos ante saltos condicionales erróneamente predichos que descartan el cauce entero.
+La segmentación solapa fases de búsqueda, decodificación y ejecución ante múltiples instrucciones continuas mediante cauces escalonados con el efecto de acelerar el flujo.
+La segmentación sufre paradas estructurales irreversibles cuando dos etapas concurrentes compiten simultáneamente por el mismo recurso de memoria interna.
+La burbuja introduce ciclos de inactividad intencionada en el cauce ante riesgos de datos insubsanables mediante no-operaciones con el efecto de esperar resultados.
+La burbuja acumulada degrada el rendimiento de modo irreversible cuando dependencias de datos consecutivas ralentizan la frecuencia de salida del procesador.
+La predicción de saltos anticipa la dirección futura de ramas condicionales ante bifurcaciones de código mediante tablas de historia de saltos con el efecto de no vaciar el cauce.
+La predicción errónea desata penalización irreversible de latencia cuando el procesador debe abortar instrucciones especulativas en curso.
+El salto desvía el contador de programa hacia nuevas direcciones ante estructuras de control mediante actualización de puntero con el efecto de alterar el flujo.
+El salto indirecto aterriza en código arbitrario con fallo irreversible ante ataques de secuestro de flujo cuando un puntero corrompido desvía la ejecución.
+La ranura de retardo ejecuta una instrucción posterior al salto ante arquitecturas segmentadas tempranas mediante aprovechamiento de ciclo con el efecto de evitar paradas.
+El retardo genera comportamientos impredecibles con fallo irreversible si el compilador coloca erróneamente instrucciones dependientes del salto en la ranura.
+La latencia cuantifica el tiempo muerto transcurrido ante la emisión de una solicitud de memoria mediante ciclos de reloj con el efecto de medir tiempos de respuesta.
+La latencia se dispara hasta niveles inasumibles de modo irreversible cuando cuellos de botella en el bus de datos encolan cientos de peticiones pendientes.
+El ancho de banda mide la capacidad total de transferencia de datos por unidad de tiempo ante canales de comunicación con el efecto de dimensionar redes.
+El ancho de banda se satura de modo irreversible durante ataques de denegación de servicio cuando flujos maliciosos masivos agotan la capacidad del enlace.
+El tráfico de red canaliza flujos de paquetes procedentes de múltiples aplicaciones ante conmutadores y enrutadores con el efecto de comunicar servicios.
+El tráfico genera colapso congestivo irreversible cuando la tasa de llegada de paquetes excede de forma sostenida la velocidad de vaciado de los búferes.
+El control de congestión aminora la ventana de transmisión ante pérdidas de paquetes en la red mediante algoritmos de retroceso exponencial con el efecto de descongestionar.
+La congestión severa deriva en parálisis irreversible de transmisiones cuando la retransmisión masiva de paquetes perdidos ahoga definitivamente el ancho de banda.
+La cola almacena peticiones en espera ordenada ante consumidores lentos mediante disciplina de llegada con el efecto de amortiguar picos de demanda.
+La cola padece desbordamiento con descarte forzoso irreversible de elementos cuando la tasa de llegada de mensajes supera sostenidamente la capacidad del búfer.
+El búfer compensa diferencias transitorias de velocidad entre emisor y receptor ante entradas y salidas mediante bloque de memoria temporal con el efecto de evitar bloqueos.
+El búfer sufre desbordamiento destructivo con corrupción irreversible de memoria si no se valida la longitud de los datos copiados en su espacio.
+El anillo de búferes organiza el almacenamiento circular de descriptores ante controladores de red mediante punteros de cabeza y cola con el efecto de rotar memoria.
+El anillo se bloquea con descarte irreversible de tramas cuando la cabeza alcanza a la cola por falta de procesamiento de los paquetes recibidos.
+El testigo o token confiere el derecho exclusivo a transmitir ante redes de paso de testigo mediante paquete especial circulante con el efecto de evitar colisiones.
+El testigo se pierde con parálisis irreversible del anillo si un nodo se apaga abruptamente reteniendo el testigo sin mecanismo de regeneración.
+La trama baliza sincroniza y anuncia la presencia de redes inalámbricas ante clientes cercanos mediante transmisiones periódicas con el efecto de permitir asociaciones.
+La baliza se desvanece de modo irreversible ante interferencias de canal cuando señales parásitas impiden a los terminales descubrir el punto de acceso.
+El protocolo formaliza reglas sintácticas y temporales de intercambio ante comunicaciones distribuidas mediante estándares acordados con el efecto de garantizar entendimiento.
+El protocolo se rompe con cierre irreversible de conexión si una de las partes envía tramas que violan la máquina de estados convenida.
+El mensaje encapsula una orden o dato completo entre procesos distribuidos ante arquitecturas orientadas a eventos mediante serialización con el efecto de cooperar.
+El mensaje queda atrapado en cola muerta de modo irreversible cuando un error en el esquema de datos impide al consumidor deserializar su contenido.
+La carga útil o payload contiene los datos de aplicación propiamente dichos ante tramas de red mediante extracción de cabeceras con el efecto de entregar información.
+La carga útil se corrompe de modo irreversible si un error de truncamiento en la capa de transporte corta los datos antes de completar la transferencia.
+El prefijo de red define la porción de red compartida por un grupo de direcciones ante el enrutamiento mediante longitud de máscara con el efecto de agregar rutas.
+El prefijo erróneo en tablas estáticas desvía el tráfico con agujero negro irreversible enviando paquetes hacia destinos inexistentes.
+El sufijo de dirección identifica de forma única la máquina dentro de su subred ante asignaciones de direcciones mediante configuración local con el efecto de entregar tramas.
+El sufijo duplicado desata colisión irreversible de direcciones cuando dos equipos reclaman la misma identidad provocando cortes intermitentes a ambos.
+La etiqueta de conmutación acelera el reenvío de paquetes ante redes de conmutación de etiquetas mediante inserción de identificadores cortos con el efecto de conmutar rápido.
+La etiqueta queda desalineada con pérdida irreversible de paquetes cuando una tabla de conmutación desactualizada no reconoce el identificador asignado.
+La máscara de subred delimita la frontera entre bits de red y de host ante direccionamientos de paquetes mediante operaciones lógicas AND con el efecto de discriminar locales.
+La máscara mal configurada aísla el equipo de modo irreversible cuando una longitud incorrecta clasifica indebidamente la pasarela como nodo remoto.
+La subred segmenta redes lógicas grandes en dominios de difusión menores ante necesidades de seguridad mediante direccionamiento jerárquico con el efecto de acotar tráfico.
+La subred queda incomunicada con aislamiento irreversible si el fallo del enlace troncal desconecta el conmutador de distribución del resto de la empresa.
+El enrutamiento calcula caminos mínimos a través de mallas complejas ante cambios de topología mediante protocolos de estado de enlace con el efecto de converger rutas.
+El enrutamiento entra en bucle infinito con consumo irreversible de ancho de banda si una convergencia lenta propaga métricas inconsistentes entre enrutadores.
+El protocolo de consenso acuerda valores únicos entre réplicas distribuidas ante fallos de nodos mediante votaciones mayoritarias con el efecto de asegurar estado consistente.
+El consenso se paraliza con bloqueo irreversible cuando la caída simultánea de más de la mitad de los nodos anula la existencia de quorum operativo.
+El quorum valida operaciones de lectura y escritura en sistemas distribuidos ante réplicas múltiples mediante cómputo de votos con el efecto de evitar inconsistencias.
+El quorum deviene inalcanzable con parada irreversible de escrituras cuando particiones de red dividen el clúster en fragmentos minoritarios.
+La bitácora registra cronológicamente mutaciones de datos en almacenamiento duradero ante transacciones mediante escritura secuencial previa con el efecto de asegurar durabilidad.
+La bitácora padece corrupción física irreversible en disco si cortes eléctricos durante escrituras síncronas dejan registros incompletos que impiden la recuperación.
+La transacción agrupa operaciones atómicas sobre el estado ante bases de datos mediante protocolos de confirmación con el efecto de preservar la integridad.
+La transacción sufre reversión forzosa irreversible ante conflictos de escritura cuando la detección de un ciclo de interbloqueo obliga a abortar la tarea.
+El aislamiento impide que transacciones concurrentes observen estados intermedios mutuos ante accesos cruzados mediante niveles de bloqueo con el efecto de evitar anomalías.
+El aislamiento estricto degrada el rendimiento de modo irreversible ante altas concurrencias cuando bloqueos prolongados reducen la tasa de transacciones por segundo.
+La instantánea congela una imagen consistente del estado de almacenamiento en un punto temporal ante copias de seguridad mediante copia en escritura con el efecto de respaldar.
+La instantánea agota el espacio libre con colapso irreversible del volumen cuando la acumulación excesiva de bloques modificados llena el almacenamiento asignado.
+La resiliencia absorbe fallos parciales de infraestructura degradando servicios elegantemente ante incidencias mediante redundancia con el efecto de mantener la operatividad.
+La resiliencia fracasa con colapso total irreversible cuando un fallo en cascada supera la capacidad de absorción de los mecanismos de contención.

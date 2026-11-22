@@ -1,0 +1,48 @@
+# CORPUS LIMPIO 09 — CAUSALIDAD COTIDIANA, MATERIALES Y RAZONAMIENTO CONTRAFACTUAL
+# 1. AXIOMAS DE CAUSALIDAD FÍSICA Y CONTRAPACTUALES COTIDIANOS
+El fuego calienta el agua líquida y al alcanzar los cien grados Celsius a nivel del mar la convierte en vapor de agua.
+La lluvia moja el suelo seco y alimenta el caudal de los ríos, lagos y acuíferos subterráneos.
+Si se interrumpe o corta el cable conductor de un circuito eléctrico cerrado, el flujo de electrones se detiene y la bombilla se apaga.
+Si una planta permanece privada de luz solar y de clorofila, no puede realizar la fotosíntesis ni producir glucosa ni liberar oxígeno.
+Si un programa informático ejecuta un bucle infinito sin condición de parada, consume continuamente ciclos de procesador y puede agotar la memoria RAM.
+El acero inoxidable es una aleación de hierro, carbono y cromo que resiste la oxidación y se emplea en cirugía, construcción e ingeniería.
+El platino es un metal noble que resiste la corrosión química y la oxidación, por lo que los electrodos fabricados con platino heredan esa resistencia.
+La fricción mecánica entre dos superficies rugosas en movimiento se opone al deslizamiento y transforma parte de la energía cinética en calor.
+La falta prolongada de agua potable provoca deshidratación celular porque el agua es el disolvente esencial de todas las reacciones metabólicas.
+Cuando aumenta la altitud en una montaña disminuye la presión atmosférica y el agua hierve a una temperatura menor que a nivel del mar.
+Si se deja un recipiente de vidrio completamente lleno de agua y cerrado herméticamente dentro del congelador, el vidrio puede romperse porque el agua se expande cerca de un nueve por ciento al congelarse en hielo.
+Si se corta el suministro de oxígeno cubriendo una vela encendida con un vaso invertido, la llama se apaga en pocos segundos porque la combustión consume el oxígeno disponible y acumula dióxido de carbono.
+Los mangos de las sartenes suelen fabricarse de madera o polímeros termoestables porque son aislantes térmicos de baja conductividad que evitan quemaduras al sujetarlos, mientras que la base es de metal para conducir rápido el calor hacia los alimentos.
+La sal esparcida sobre el hielo en carreteras frías provoca que el hielo se derrita a temperaturas bajo cero porque disminuye el punto de congelación del agua por descenso crioscópico.
+La ropa de colores oscuros se calienta más rápido bajo el Sol que la ropa blanca porque los pigmentos oscuros absorben la mayor parte de la radiación visible, mientras que el blanco la refleja.
+Una olla a presión cocina los alimentos en mucho menos tiempo porque al sellar el vapor eleva la presión interna por encima de una atmósfera, permitiendo que el agua líquida alcance unos 120 °C sin evaporarse.
+El aceite vegetal y el agua no se mezclan espontáneamente y el aceite queda flotando arriba porque las moléculas de aceite son apolares hidrofóbicas y tienen menor densidad que el agua polar.
+El jabón permite lavar la grasa con agua porque sus moléculas son anfifílicas: tienen una cola lipofílica que atrapa la gota de grasa en micelas y una cabeza hidrofílica que se disuelve en el agua.
+La fricción entre las suelas del calzado y el pavimento seco genera la fuerza de agarre necesaria para caminar sin resbalar; cuando hay agua o aceite en el piso, la película líquida reduce la fricción y aumenta el riesgo de caída.
+Una palanca mecánica con el punto de apoyo cercano a una carga pesada permite levantarla aplicando mucha menos fuerza en el brazo largo, intercambiando mayor recorrido por ventaja mecánica.
+Los cables de alta tensión se instalan con una ligera curvatura o flecha entre torres porque en invierno el frío contrae el metal tensando el cable y en verano el calor lo dilata alargándolo.
+Al abrir una bebida gasificada se liberan burbujas porque disminuye bruscamente la presión interna de la botella, reduciendo la solubilidad del dióxido de carbono disuelto en el líquido según la ley de Henry.
+El sudor refresca el cuerpo humano al hacer ejercicio porque la evaporación del agua sobre la piel absorbe calor latente térmico directamente del organismo.
+Tocar aparatos eléctricos con las manos mojadas o descalzo sobre suelo húmedo es muy peligroso porque el agua con sales minerales disueltas reduce drásticamente la resistencia eléctrica de la piel y facilita el paso de corriente por el cuerpo.
+El hormigón armado combina hormigón con barras internas de acero porque el hormigón resiste muy bien la compresión pero poco la tracción, mientras que el acero soporta altas fuerzas de tracción sin fracturarse.
+Una polea móvil reduce a la mitad la fuerza necesaria para izar una carga pesada al repartir el peso entre dos tramos de cuerda, duplicando a cambio la longitud de cuerda que se debe tirar.
+Un plano inclinado o rampa permite subir objetos pesados hasta cierta altura aplicando menor fuerza que al levantarlos verticalmente a pulso, distribuyendo el mismo trabajo mecánico a lo largo de mayor distancia.
+Un tornillo mecánico convierte un movimiento giratorio de torsión en una fuerza lineal de sujeción muy elevada gracias a la rosca helicoidal que actúa como un plano inclinado enrollado alrededor de un cilindro.
+Los neumáticos de los automóviles tienen surcos o labrado en el caucho para evacuar rápidamente el agua hacia los lados bajo la lluvia y evitar el hidroplaneo donde la rueda perdería contacto con el asfalto.
+Las ventanas de doble acristalamiento aíslan del frío, del calor y del ruido exterior porque encierran una cámara de aire seco o gas argón de muy baja conductividad térmica y acústica entre ambos vidrios.
+El hielo seco o la nieve en las neveras portátiles se coloca preferiblemente en la parte superior porque el aire frío es más denso que el aire tibio y desciende por convección natural enfriando todos los alimentos de abajo.
+Un fusible o interruptor magnetotérmico en el tablero eléctrico de una vivienda corta automáticamente el paso de electricidad cuando detecta una sobrecarga o cortocircuito, evitando que los cables se sobrecalienten e inicien un incendio.
+Cortar alimentos con un cuchillo bien afilado requiere mucha menos fuerza porque el filo concentra toda la fuerza aplicada sobre un área de contacto microscópica, multiplicando enormemente la presión física (P = F / A).
+La levadura hace crecer y esponjar la masa del pan porque sus células fermentan los azúcares de la harina liberando pequeñas burbujas de gas dióxido de carbono que quedan atrapadas en la red elástica del gluten.
+Si se vierte agua hirviendo de golpe dentro de un vaso de vidrio grueso muy frío, el vaso puede quebrarse por choque térmico debido a que la capa interna se dilata rápidamente mientras la capa externa fría sigue contraída.
+# 2. OBJETOS COTIDIANOS, HERRAMIENTAS Y SUS FUNCIONES
+toda ave tiene plumas y pico
+las aves tienen el cuerpo cubierto de plumas
+ninguna serpiente tiene patas
+las serpientes no tienen patas para caminar
+todo mamífero respira aire con sus pulmones
+los mamíferos respiran aire mediante pulmones
+todo ser vivo necesita agua y energía para vivir
+los seres vivos requieren agua y alimento
+# 3. CADENAS CAUSALES Y SENTIDO COMÚN PRÁCTICO
+El estudiante lee el libro. ¿Para qué lee? Lee para comprender el mundo y aprender la verdad.

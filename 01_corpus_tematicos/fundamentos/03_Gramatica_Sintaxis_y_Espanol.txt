@@ -1,0 +1,482 @@
+# CORPUS LIMPIO 03 — GRAMÁTICA, SINTAXIS, CONCORDANCIA Y ESPAÑOL ESTRUCTURADO
+El sustantivo es la categoría gramatical que nombra personas, animales, cosas, lugares o conceptos abstractos.
+El verbo es la palabra que expresa acción, proceso, estado o existencia dentro del predicado de una oración.
+El adjetivo es la palabra que acompaña al sustantivo para expresar una cualidad, propiedad o estado en concordancia de género y número.
+La concordancia gramatical exige que el artículo y el adjetivo coincidan en género y número con el sustantivo núcleo, como en la noche antigua o el viento frío.
+La noche, la tarde, la mente, la gente, la fuente, la calle, la carne, la leche, la paz, la voz, la luz y la pared son sustantivos de género femenino.
+El agua, el águila, el alma y el área son sustantivos femeninos que llevan el artículo el en singular para evitar la cacofonía de dos vocales tónicas.
+El sujeto es el sintagma nominal del cual se afirma o se niega algo en la oración y concuerda en número y persona con el verbo.
+El predicado es la parte de la oración cuyo núcleo es el verbo conjugado y expresa lo que hace o lo que es el sujeto.
+Ayer yo caminé por el campo. Hoy yo camino con energía. Mañana yo caminaré hacia la meta.
+Ayer tú leíste un libro bueno. Hoy tú lees con atención. Mañana tú leerás una nueva historia.
+Ayer él comió pan caliente. Hoy él come fruta fresca. Mañana él comerá en familia.
+Ayer nosotros aprendimos una lección. Hoy nosotros practicamos con orden. Mañana nosotros sabremos más.
+Ayer ellos jugaron en el parque. Hoy ellos estudian en la escuela. Mañana ellos descansarán en casa.
+Ayer la lluvia cayó sobre la tierra. Hoy el sol brilla en el cielo. Mañana las flores crecerán hermosas.
+Ayer el fuego dio calor. Hoy el fuego calienta la comida. Mañana el fuego seguirá encendido.
+Si llueve sobre el campo, entonces la hierba crece verde.
+Si el agua hierve con fuego, entonces produce vapor caliente.
+Si un número termina en cero, entonces es múltiplo de diez.
+Si la puerta está abierta, entonces podemos pasar al salón.
+El sol se ocultó en el horizonte, por consiguiente llegó la noche oscura.
+Nosotros estudiamos con constancia, por eso aprobamos el examen con éxito.
+La casa tiene cimientos fuertes, por esta razón resiste el viento recio.
+No salimos al patio porque la tormenta es muy fuerte.
+Bebemos agua limpia porque la salud es el bien más preciado.
+Hablamos con respeto porque valoramos a todas las personas.
+El niño inteligente lee un libro interesante en la mesa limpia.
+La niña inteligente lee una historia fascinante en la sala bonita.
+Los niños trabajadores construyen un puente resistente sobre el río ancho.
+Las niñas dedicadas escriben una carta afectuosa para sus abuelos queridos.
+El árbol alto produce frutos dulces y jugosos en el verano soleado.
+Las casas blancas tienen ventanas amplias y techos rojos resistentes.
+El río caudaloso desciende desde la montaña nevada hacia el mar profundo.
+Las aves veloces vuelan cruzando el cielo despejado con libertad.
+Yo pienso con claridad para tomar decisiones correctas y justas.
+Tú escuchas con atención para comprender las palabras de tus maestros.
+Él entrena su cuerpo con disciplina para ser un hombre fuerte y sano.
+Ella cultiva su jardín con esmero para que broten rosas coloridas.
+Nosotros trabajamos unidos para construir un futuro próspero y seguro.
+Ellos guardan silencio para escuchar el canto dulce de los pájaros.
+La verdad ilumina el camino y la sabiduría guía nuestras acciones.
+La justicia trae paz duradera y el amor fortalece los lazos del hogar.
+Arriba está el cielo. abajo está el suelo.
+El sol brilla arriba. la tierra fértil está abajo.
+El pájaro vuela arriba en el aire. el pez nada abajo en el agua.
+Subir es ir hacia arriba. bajar es ir hacia abajo.
+La nube flota arriba. la raíz crece abajo.
+A la izquierda está una mano. a la derecha está la otra mano.
+Gira a la izquierda. gira a la derecha.
+El camino de la izquierda va al bosque. el camino de la derecha va al pueblo.
+Delante va el guía. detrás viene el grupo.
+La puerta está delante. la pared está detrás.
+El agua está dentro del vaso. el sol está fuera en el cielo.
+El pez vive dentro del río. el pájaro duerme fuera en el árbol.
+La manzana está cerca de la mano. la montaña lejana está lejos.
+La mesa está cerca. la estrella está lejos.
+Sí es afirmación. no es negación.
+¿el sol da calor? sí, el sol calienta la tierra.
+¿el agua calma la sed? sí, el agua hidrata el cuerpo.
+¿la piedra puede volar sola? no, la piedra es pesada y cae abajo.
+¿el fuego es frío? no, el fuego es caliente y luminoso.
+¿la noche es oscura? sí, la noche carece de luz solar.
+Igual es idéntico. diferente es distinto.
+Uno es igual a uno: 1 = 1.
+Dos es igual a dos: 2 = 2.
+Gato con gato es igual. perro con gato es diferente.
+El círculo es diferente del cuadrado.
+Rojo con rojo es el mismo color. rojo con azul son colores diferentes.
+El vaso lleno tiene agua hasta el borde. el vaso vacío no tiene nada.
+El día tiene luz de sol. la noche tiene sombra y luna.
+Abierto permite pasar. cerrado detiene el paso.
+La puerta está abierta. la ventana está cerrada.
+Rápido es veloz. lento es pausado.
+La liebre corre rápido. el caracol avanza lento.
+¿por qué llueve en el campo? el calor evapora el agua, las nubes se condensan y caen gotas de lluvia.
+¿por qué necesitamos alimentarnos? los alimentos proporcionan energía y nutrientes para crecer sanos.
+¿por qué el día y la noche se suceden? la tierra gira sobre su propio eje en movimiento de rotación constante.
+¿cómo se fabrica el pan? se mezcla harina de trigo con agua, levadura y sal, se amasa y se hornea.
+¿cuándo amanece en el horizonte? cuando el sol aparece por el este al comenzar la mañana.
+Dos veces tres es seis: 2 * 3 = 6.
+Tres veces tres es nueve: 3 * 3 = 9.
+Cuatro veces dos es ocho: 4 * 2 = 8.
+Cinco veces dos es diez: 5 * 2 = 10.
+2 * 1 = 2. 2 * 2 = 4. 2 * 3 = 6. 2 * 4 = 8. 2 * 5 = 10. 2 * 6 = 12. 2 * 7 = 14. 2 * 8 = 16. 2 * 9 = 18. 2 * 10 = 20.
+3 * 1 = 3. 3 * 2 = 6. 3 * 3 = 9. 3 * 4 = 12. 3 * 5 = 15. 3 * 6 = 18. 3 * 7 = 21. 3 * 8 = 24. 3 * 9 = 27. 3 * 10 = 30.
+4 * 4 = 16. 5 * 5 = 25. 6 * 6 = 36. 7 * 7 = 49. 8 * 8 = 64. 9 * 9 = 81. 10 * 10 = 100.
+Cuatro dividido entre dos es dos: 4 / 2 = 2.
+Seis dividido entre dos es tres: 6 / 2 = 3.
+Ocho dividido entre cuatro es dos: 8 / 4 = 2.
+Diez dividido entre dos es cinco: 10 / 2 = 5.
+Doce dividido entre tres es cuatro: 12 / 3 = 4.
+Quince dividido entre cinco es tres: 15 / 5 = 3.
+Veinte dividido entre cuatro es cinco: 20 / 4 = 5.
+La liebre veloz retó a la tortuga prudente a una carrera por el prado. la liebre corrió con rapidez pero se confió y durmió una siesta bajo un árbol. la tortuga avanzó paso a paso con paciencia constante y llegó primero a la meta. la constancia y el esfuerzo vencen al descuido y a la soberbia.
+Un medio representa una mitad de dos partes iguales: 1/2.
+Un tercio representa una parte de tres partes iguales: 1/3.
+Un cuarto representa una parte de cuatro partes iguales: 1/4.
+Dos cuartos equivalen exactamente a un medio: 2/4 = 1/2.
+Cuatro cuartos forman la unidad entera completa: 4/4 = 1.
+El triángulo es una figura geométrica de tres lados rectos y tres vértices.
+El cuadrado es un polígono regular de cuatro lados de igual longitud y cuatro ángulos rectos de noventa grados.
+El rectángulo tiene cuatro lados con lados opuestos de igual medida y cuatro esquinas rectas.
+El círculo es una curva cerrada donde todos los puntos están a la misma distancia del centro sin vértices.
+El perímetro es la suma de las longitudes de todos los lados de una figura.
+El área mide la superficie interior encerrada por los límites de una figura geométrica.
+Todos los planetas giran alrededor de una estrella central. la tierra es un planeta. por lo tanto, la tierra gira alrededor del sol.
+Todos los seres vivos necesitan agua para sobrevivir. las plantas son seres vivos. por consiguiente, las plantas necesitan agua.
+Si un comerciante tiene doce manzanas y vende cuatro manzanas, le quedan ocho manzanas: 12 - 4 = 8.
+Si en una biblioteca hay tres estantes con seis libros cada uno, en total hay dieciocho libros: 3 * 6 = 18.
+Si se reparten veinte caramelos entre cinco niños de forma equitativa, a cada niño le corresponden cuatro caramelos: 20 / 5 = 4.
+Explica qué es un artículo y sus tipos principales (determinados e indeterminados). | El artículo es una palabra corta que va antes del sustantivo para indicar su género y número. Los artículos determinados (el, la, los, las) se usan para referirse a algo conocido; los indeterminados (un, una, unos, unas) se usan para algo no específico o desconocido.
+Completa y justifica: "Madrid ___ la capital de España." | Madrid ES la capital. Se usa "ser" por ser un hecho fijo y permanente.
+Completa y justifica: "Las llaves ___ encima de la mesa." | Las llaves ESTÁN en la mesa. Se usa "estar" por indicar ubicación física.
+Explica la diferencia entre "Juan es aburrido" y "Juan está aburrido". | "Es aburrido" indica personalidad permanente. "Está aburrido" indica un estado temporal de aburrimiento.
+Explica la diferencia entre "La manzana es verde" y "La manzana está verde". | "Es verde" es su color natural. "Está verde" significa que le falta madurar.
+Explica las reglas fundamentales de acentuación en español para palabras agudas, graves y esdrújulas. | Las palabras agudas llevan tilde si terminan en n, s o vocal. Las graves llevan tilde si terminan en consonante distinta de n o s. Las esdrújulas y sobresdrújulas se tildan siempre.
+Explica el uso del pretérito indefinido frente al pretérito imperfecto en narraciones en pasado. | El pretérito indefinido (pretérito perfecto simple) se usa para acciones puntuales, completadas y que avanzan la trama principal. El pretérito imperfecto se usa para descripciones, acciones habituales o contextos de fondo sin límite temporal definido.
+Define el uso correcto de los conectores discursivos de contraste y concesión (aunque, sin embargo, a pesar de). | "Sin embargo" es un adverbio de relación que introduce una oposición y va entre pausas (puntuado con comas). "A pesar de" es una preposición seguida de sustantivo o infinitivo que introduce un obstáculo. "Aunque" es una conjunción concesiva que puede ir seguida de indicativo (hecho real) o subjuntivo (hecho hipotético).
+Explica las reglas de puntuación para el uso del punto y coma frente a la coma y el punto seguido. | El punto y coma indica una pausa mayor que la coma pero menor que el punto seguido. Se utiliza principalmente para separar elementos de una enumeración compleja que ya incluyen comas internas, o para relacionar oraciones sintácticamente independientes pero estrechamente vinculadas por el sentido.
+¿Cómo afectan las palabras comodín o de alta polisemia (como "cosa", "hacer", "poner") a la comprensión de una IA y cómo se mitigan? | Las palabras comodín tienen baja densidad informativa específica y dependen casi en su totalidad del contexto macroestructural. Si el modelo carece de una ventana de contexto suficientemente amplia, estas palabras generan entropía semántica. Se mitigan entrenando al modelo con corpus ricos en correferencias y relaciones anafóricas para que el comodín recupere su referente preciso del historial previo.
+Explica la diferencia entre homonimia absoluta y polisemia en el procesamiento de lenguaje natural (PLN). | La polisemia implica múltiples significados relacionados etimológicamente (ej. "cabeza" de persona, de lista, de familia), donde los espacios vectoriales se solapan parcialmente. La homonimia involucra palabras con la misma forma pero orígenes y significados totalmente desconectados (ej. "vino" del verbo venir vs. "vino" bebida). El modelo de IA discrimina la homonimia observando la categoría gramatical inmediata (etiquetado POS - Part of Speech) y los campos semánticos adyacentes.
+¿Qué papel juegan las conjunciones subordinantes y los signos de puntuación en la delimitación de cláusulas para una IA? | Las conjunciones subordinantes (como "que", "cuyo", "donde", "si") y los signos de puntuación (comas y puntos y comas) actúan como delimitadores sintácticos explícitos o fronteras de cláusula. Los mecanismos de atención del modelo utilizan estos tokens para segmentar el flujo textual en bloques lógicos, evitando que los modificadores de una cláusula subordinada contaminen el significado de la oración principal.
+¿Cómo influye el desplazamiento del marco de referencia deíctico (shift de deixis) en la comprensión narrativa? | En relatos o discursos donde el punto de vista cambia (por ejemplo, pasar de un narrador en primera persona a un estilo indirecto libre o a una perspectiva espacial diferente), el modelo debe recalibrar sus coordenadas de interpretación. Esto se logra ajustando los pesos de atención para remapear los deícticos espaciotemporales al nuevo centro de referencia establecido por el contexto narrativo actual.
+Analiza cómo el modelo detecta el doble sentido basado en el choque de campos semánticos (incongruencia léxica). | El doble sentido genera un conflicto deliberado entre dos interpretaciones posibles (una literal o superficial y otra figurada o humorística). El mecanismo de atención del modelo detecta la activación simultánea de campos semánticos dispares que normalmente no coexisten en el mismo marco sintáctico, evaluando la probabilidad de que el hablante esté utilizando una metáfora o un juego de palabras.
+Explica el papel de las señales contextuales y el tono en la identificación de intenciones sarcásticas en texto plano. | A diferencia de la comunicación humana, donde el tono de voz y la gestualidad definen el sarcasmo, en el texto plano (corpus) la IA depende de pistas textuales indirectas, tales como la exageración extrema, los contrastes abruptos entre una situación negativa y un elogio superficial, o la presencia de patrones discursivos estereotipados que actúan como detonantes de ironía.
+¿Cómo afecta la escasez de contexto pragmático a la capacidad de un modelo para interpretar la ironía? | Si la ventana de contexto es demasiado corta o carece de antecedentes sobre el estado emocional o la postura del emisor, el modelo tiende a procesar el enunciado de manera literal. Para mitigar esto, los corpus de entrenamiento para razonamiento pragmático incluyen diálogos multi-turno donde se explicita la contradicción entre las expectativas de la situación y la respuesta emitida.
+Explica el tratamiento de los marcadores del discurso y conectores pragmáticos en la modulación del tono y la cohesión. | Los marcadores discursivos (como "bueno", "en realidad", "por lo tanto", "o sea") no modifican la verdad proposicional de una frase, pero guían la interpretación del receptor. El modelo los utiliza para ajustar el peso de la atención entre proposiciones, indicando si una frase introduce una conclusión, una rectificación, una atenuación o un cambio de perspectiva en el diálogo.
+Explica el tratamiento de la polifonía y el discurso alusivo en la comprensión de textos literarios o complejos. | La polifonía se presenta cuando múltiples voces, perspectivas o ironías superpuestas coexisten en un mismo enunciado (como en la parodia o el estilo indirecto libre). El modelo procesa estas estructuras utilizando patrones de atención contextual que identifican cambios de registro, marcadores metalingüísticos o comillas, separando la voz del narrador de la voz de los personajes citados o aludidos.
+Explica el impacto del cambio de registro lingüístico (code-switching, formalidad y jerga) en la adaptación semántica del modelo. | El cambio de registro o la alternancia de códigos lingüísticos introduce variaciones en el léxico y la sintaxis que alteran la distribución de probabilidades de los tokens. El modelo procesa estas transiciones adaptando sus vectores contextuales a las restricciones sociolingüísticas del dominio actual, permitiendo interpretar expresiones coloquiales, tecnicismos o modismos regionales sin perder la continuidad temática.
+# ANÁLISIS SINTÁCTICO: ORACIÓN | SUJETO | VERBO | PREDICADO
+1. EL SUJETO (¿Quién realiza o experimenta la acción?)
+Es el sintagma nominal cuyo núcleo concuerda en número y persona con el verbo.
+- Sujeto Expreso (o Explícito): Aparece escrito en la oración.
+Ejemplo: [El albañil de Uruk] amasó el barro.
+- Sujeto Tácito (u Omitido): No se escribe, pero se deduce por la desinencia del verbo.
+Ejemplo: (Nosotros) Cantamos junto al fuego.
+- Sujeto Simple: Tiene un solo núcleo (ej. «[Galileo] miró las lunas»).
+- Sujeto Compuesto: Tiene dos o más núcleos (ej. «[Marie y Pierre Curie] aislaron el radio»).
+- Sujeto Agente: Realiza la acción en voz activa.
+- Sujeto Paciente: Recibe la acción en voz pasiva (ej. «[La cúpula] fue levantada por los obreros»).
+2. EL VERBO (Núcleo del Predicado: ¿Qué acción, proceso o estado ocurre?)
+Es la palabra que expresa acción, movimiento, existencia, consecución, condición o estado.
+- Según su conjugación:
+* 1.ª Conjugación: terminados en -AR (amasar, cantar, edificar, curar, soñar).
+* 2.ª Conjugación: terminados en -ER (ser, beber, tejer, coser, sostener).
+* 3.ª Conjugación: terminados en -IR (abrir, construir, pulir, fundir, descubrir).
+- Según su significado y sintaxis:
+* Copulativos (ser, estar, parecer): Unen el sujeto con un atributo (Predicado Nominal).
+* Transitivos: Piden un Objeto Directo (OD) sobre el que recae la acción (ej. «tallar la piedra»).
+* Intransitivos: No necesitan Objeto Directo (ej. «caminar», «dormir», «brillar»).
+* Reflexivos y Recíprocos: La acción recae sobre el mismo sujeto o se intercambia.
+3. EL PREDICADO (¿Qué se dice del Sujeto?)
+Es todo aquello que se afirma o predica del sujeto; su núcleo es siempre el verbo.
+- Predicado Nominal (PN): Formado por verbo copulativo (ser, estar, parecer) + Atributo.
+Ejemplo: El viajero [fue padre, hijo y amigo leal].
+- Predicado Verbal (PV): Formado por cualquier verbo predicativo + Complementos:
+* Objeto Directo (OD): ¿Qué cosa o a quién + verbo?
+* Objeto Indirecto (OI): ¿A quién o para quién se realiza la acción?
+* Complementos Circunstanciales (CC): de Lugar (¿dónde?), Tiempo (¿cuándo?), Modo (¿cómo?),
+Instrumento (¿con qué?), Materia, Compañía o Finalidad (¿para qué?).
+================================================================================
+PARTE II: DICCIONARIO ALFABÉTICO DE VERBOS CON ANÁLISIS DE SUJETO Y PREDICADO
+================================================================================
+01. VERBO: ABRAZAR | Conjugación: 1.ª (-ar) | Tipo: Transitivo
+# ORACIONES EJEMPLARES DEL ESPAÑOL COTIDIANO
+BLOQUE 1: Identidad y pronombres
+Yo soy una persona. Tú eres mi amigo. Él es un niño. Ella es una niña. Nosotros somos amigos. Ellos son hermanos.
+Yo soy alto. Tú eres bajo. Él es fuerte. Ella es rápida. Nosotros somos jóvenes. Ellos son mayores.
+Yo tengo un nombre. Tú tienes un nombre. Él tiene un nombre. Ella tiene un nombre. Todos tenemos un nombre.
+Mi nombre es Ana. Tu nombre es Luis. Su nombre es Pedro. Su nombre es María. Nuestro nombre es familia.
+Yo soy yo. Tú eres tú. Él es él. Ella es ella. Nosotros somos nosotros. Ellos son ellos.
+Yo estoy aquí. Tú estás allí. Él está cerca. Ella está lejos. Nosotros estamos juntos. Ellos están separados.
+Yo soy feliz. Tú eres amable. Él es inteligente. Ella es hermosa. Nosotros somos buenos. Ellos son valientes.
+Yo tengo ojos. Tú tienes manos. Él tiene pies. Ella tiene boca. Nosotros tenemos cabeza. Ellos tienen corazón.
+Yo veo con los ojos. Tú oyes con los oídos. Él huele con la nariz. Ella saborea con la boca. Nosotros tocamos con las manos.
+Yo pienso. Tú sientes. Él sabe. Ella cree. Nosotros soñamos. Ellos viven.
+Yo quiero aprender. Tú quieres crecer. Él quiere jugar. Ella quiere cantar. Nosotros queremos vivir. Ellos quieren amar.
+Yo soy un ser humano. Tú eres un ser humano. Él es un ser humano. Ella es un ser humano. Todos somos seres humanos.
+Yo respiro. Tú respiras. Él respira. Ella respira. Nosotros respiramos. Ellos respiran.
+Yo existo. Tú existes. Él existe. Ella existe. Nosotros existimos. Ellos existen.
+BLOQUE 2: La familia
+Mi madre es buena. Mi padre es fuerte. Mi hermano es joven. Mi hermana es dulce.
+Mi abuela cocina. Mi abuelo camina. Mi tío trabaja. Mi tía canta.
+Yo amo a mi madre. Yo amo a mi padre. Yo amo a mi hermano. Yo amo a mi hermana.
+Yo vivo con mi familia. Tú vives con tu familia. Él vive con su familia. Ella vive con su familia.
+La familia es importante. La familia es un hogar. La familia es amor. La familia es todo.
+Mi madre me cuida. Mi padre me enseña. Mi hermano me ayuda. Mi hermana me escucha.
+Yo ayudo a mi madre. Yo ayudo a mi padre. Yo ayudo a mi hermano. Yo ayudo a mi hermana.
+En mi casa hay amor. En tu casa hay amor. En su casa hay amor. En todas las casas hay amor.
+Mi familia come junta. Mi familia habla junta. Mi familia ríe junta. Mi familia vive junta.
+Yo quiero a mi familia. Tú quieres a tu familia. Él quiere a su familia. Ella quiere a su familia.
+Los hijos aman a los padres. Los padres aman a los hijos. Los hermanos se aman. La familia se ama.
+BLOQUE 3: La casa y los objetos
+La casa es grande. La casa es pequeña. La casa es bonita. La casa es un hogar.
+En la casa hay una puerta. En la casa hay una ventana. En la casa hay una mesa. En la casa hay una silla.
+La puerta está cerrada. La ventana está abierta. La mesa está limpia. La silla está quieta.
+Yo abro la puerta. Tú cierras la ventana. Él mueve la mesa. Ella usa la silla.
+En la cocina hay comida. En la sala hay sofás. En el baño hay agua. En el cuarto hay camas.
+La cama es cómoda. El sofá es suave. La lámpara alumbra. El reloj marca la hora.
+# DICCIONARIO DE VERBOS FUNDAMENTALES Y CONJUGACIÓN
+Explica las vocales básicas en español y su importancia fonética. | Las vocales básicas son A, E, I, O, U. Son los núcleos silábicos obligatorios en español; no existe ninguna sílaba en este idioma que pueda formarse sin al menos una vocal.
+Explica qué es una sílaba y cómo se clasifican según el número de sílabas. | Una sílaba es un golpe de voz con el que pronunciamos una palabra. Según el número de sílabas, las palabras se clasifican en: monosílabas (una sola sílaba, ej. "sol"), bisílabas (dos, ej. "casa"), trisílabas (tres, ej. "pelota") y polisílabas (cuatro o más, ej. "computadora").
+Explica la diferencia entre consonantes y vocales en la formación de palabras. | Las vocales tienen sonido libre y propio, mientras que las consonantes necesitan unirse a una vocal para formar sonidos completos (sílabas). Las consonantes modifican el flujo del aire mediante los labios, los dientes o la lengua.
+Explica el concepto de abecedario o alfabeto en español y sus letras fundamentales. | El abecedario español consta de 27 letras oficiales (desde la A hasta la Z), compuestas por 5 vocales y 22 consonantes. Representan los fonemas básicos con los que se construye todo el léxico del idioma.
+Explica el concepto de mayúsculas y minúsculas y cuándo se usa la letra mayúscula. | Las mayúsculas tienen mayor tamaño y se utilizan obligatoriamente al inicio de un texto, después de un punto, y en los nombres propios de personas, lugares, mascotas o instituciones. Las minúsculas se usan para el resto de las palabras comunes.
+Explica qué son las palabras sinónimas de uso cotidiano. | Son palabras diferentes que tienen un significado igual o muy parecido, permitiendo enriquecer la expresión (ej. "feliz" y "contento", o "grande" y "enorme").
+Explica qué son las palabras antónimas básicas. | Son palabras que tienen significados opuestos o contrarios entre sí (ej. "caliente" y "frío", "día" y "noche", "alto" y "bajo").
+Explica qué es el género en los sustantivos (masculino y femenino) con ejemplos básicos. | El género indica si un sustantivo es masculino (generalmente antecedido por "el" o "un", ej. "el niño", "el perro") o femenino (antecedido por "la" o "una", ej. "la niña", "la perra"). En español, la mayoría de los sustantivos terminados en "-o" son masculinos y los terminados en "-a" son femeninos.
+Explica qué es el número en los sustantivos (singular y plural). | El número indica la cantidad de elementos. El singular se refiere a un solo objeto (ej. "la manzana"), mientras que el plural se refiere a dos o más, añadiendo "-s" si termina en vocal o "-es" si termina en consonante (ej. "las manzanas", "los árboles").
+Explica qué es un sustantivo común y un sustantivo propio. | Los sustantivos comunes nombran a seres u objetos de forma general (ej. "perro", "ciudad", "escuela"). Los sustantivos propios nombran a seres u objetos específicos para diferenciarlos de los demás, y siempre se escriben con letra inicial mayúscula (ej. "Firulais", "Bogotá", "María").
+Explica qué es un adjetivo calificativo y cuál es su función junto al sustantivo. | El adjetivo es la palabra que describe las cualidades, características o estados de un sustantivo (ej. "el carro rojo", "la casa grande", "el gato suave"). Debe concordar en género y número con el sustantivo al que acompaña.
+Explica qué es un verbo de acción en su forma más básica. | Un verbo es una palabra que indica una acción, movimiento o actividad que realiza alguien o algo (ej. "correr", "saltar", "comer", "dormir"). Representan el núcleo del predicado en una oración.
+Explica el uso del verbo en: "Ella es doctora." | Se usa "ser" para indicar profesión o característica permanente.
+Explica el uso del verbo en: "Ellos están cansados." | Se usa "estar" para describir un estado temporal o condición física.
+Explica el uso del verbo en: "El café es caliente." | Se usa "ser" si el calor es una cualidad inherente y permanente de ese tipo de café.
+Explica el uso del verbo en: "El café está caliente." | Se usa "estar" para indicar el estado térmico actual y temporal de la bebida.
+Explica el uso del verbo en: "María es lista." | Se usa "ser" para indicar que María es una persona inteligente de manera permanente.
+Explica el uso del verbo en: "María está lista." | Se usa "estar" para indicar que está preparada o dispuesta en este momento.
+Explica el uso del verbo en: "El carro es seguro." | Se usa "ser" porque el vehículo ofrece seguridad estructural y de diseño de forma intrínseca.
+Explica el uso del verbo en: "El carro está seguro." | Se usa "estar" para indicar que se encuentra a salvo o protegido en un lugar en este momento.
+Explica el uso del verbo en: "El chico es rico." | Se usa "ser" para indicar que tiene mucho dinero o fortuna de forma estable.
+Explica el uso del verbo en: "El chico está rico." | Se usa "estar" en el habla coloquial para referirse a que resulta físicamente atractivo.
+Explica el uso del verbo en: "La comida está rica." | Se usa "estar" para calificar el sabor agradable de un plato en el momento de consumirlo.
+Explica el uso del verbo en: "Nosotros somos en la fiesta." -> Error gramatical común. ¿Cómo se corrige? | Incorrecto. La ubicación de eventos o personas requiere "estar": "Nosotros estamos en la fiesta."
+Explica el uso del verbo en: "La reunión es en la oficina." | Se usa "ser" cuando el sujeto de la oración es un evento, ceremonia o acontecimiento y se indica el lugar donde se realiza.
+Explica el uso del verbo en: "El libro es de Juan." | Se usa "ser" para indicar posesión o pertenencia.
+Explica el uso del verbo en: "El libro está en la estantería." | Se usa "estar" para indicar la ubicación espacial de un objeto.
+Explica el uso del verbo en: "Hoy es lunes." | Se usa "ser" para expresar el día, la fecha o la hora actual.
+Proporciona sinónimos y antónimos para el verbo "ser" en el contexto de existencia o esencia. | Sinónimos: existir, subsistir, acontecer, ocurrir. Antónimos: perecer, morir, desaparecer, extinguirse.
+Proporciona sinónimos y antónimos para el verbo "ser" en el contexto de equivalencia o identidad ("ser igual a"). | Sinónimos: equivaler, representar, constituir. Antónimos: diferir, contraponerse, desentonar.
+Proporciona sinónimos y antónimos para el verbo "estar" en el contexto de ubicación o posición física. | Sinónimos: hallarse, encontrarse, residir, ubicarse. Antónimos: ausentarse, marcharse, ignorarse (su ubicación).
+Proporciona sinónimos y antónimos para el verbo "estar" en el contexto de condición temporal o estado de ánimo. | Sinónimos: encontrarse, sentirse, hallarse. Antónimos: estabilizarse (si se busca fijación permanente), desentenderse.
+Proporciona sinónimos y antónimos para el verbo "permanecer" (relacionado con estados continuos). | Sinónimos: quedarse, mantenerse, perdurar, persistir. Antónimos: cambiar, mudarse, alterarse, transmutar.
+Proporciona sinónimos y antónimos para el verbo "convertirse" (relacionado con el cambio de estado o atributo). | Sinónimos: transformarse, volverse, pasar a ser, mutar. Antónimos: mantenerse, perseverar, persistir.
+Proporciona sinónimos y antónimos para el verbo "existir" como equivalente fundamental de ser. | Sinónimos: vivir, haber, obrar, subsistir. Antónimos: faltar, carecer, extinguirse, anularse.
+Proporciona sinónimos y antónimos para el verbo "hallarse" como equivalente formal de estar. | Sinónimos: encontrarse, ubicarse, situarse, residir. Antónimos: extraviarse, perderse, ausentarse.
+Proporciona ejemplos y reglas para el uso de los pronombres de objeto directo e indirecto (leísmo, laísmo, loísmo). | El objeto directo recibe la acción directa y usa lo/la/los/las. El objeto indirecto recibe el beneficio o daño y usa le/les. El leísmo generalizado consiste en usar "le" para el objeto directo de persona, aceptado parcialmente por la RAE solo en masculino singular, pero desaconsejado en el estricto estándar gramatical.
+Explica la diferencia de significado y uso entre los verbos "por" y "para". | "Por" se usa para causa, motivo, medio, intercambio, duración temporal aproximada o lugar de tránsito. "Para" se usa para destino, finalidad, objetivo, receptor, plazos temporales específicos u opinión.
+Detalla las reglas sintácticas y semánticas para la formación y uso del Modo Subjuntivo en oraciones subordinadas. | El subjuntivo se emplea principalmente en oraciones subordinadas cuando hay un cambio de sujeto respecto al verbo principal y este expresa deseo, duda, emoción, mandato, valoración o negación (ej. "Deseo que vengas").
+Explica la concordancia de género y número en los sustantivos compuestos y colectivos. | Los sustantivos compuestos formados por verbo más sustantivo suelen mantener el verbo invariable y pluralizar el sustantivo (ej. el/los abrelatas). Los sustantivos colectivos en singular concuerdan con el verbo en singular, aunque representen a un conjunto de individuos (ej. "la gente baila").
+Analiza un caso complejo de ambigüedad léxica en español con un verbo polisémico y explica su procesamiento. | Tomemos el verbo "dar" en diferentes contextos: 1) "Dar un regalo" (transferencia física), 2) "Dar a la calle" (orientación espacial), 3) "Dar clases" (ejecución de una actividad), 4) "Dar que pensar" (provocar un efecto). El modelo procesa el objeto directo y los complementos de régimen (preposiciones como "a") para mapear el vector del verbo hacia el clúster semántico correcto dentro de su espacio latente.
+Profundiza en el procesamiento sintáctico de las oraciones subordinadas complejas y anidadas en modelos de lenguaje. | Las oraciones subordinadas complejas (como las de relativo encajadas o las complementarias sucesivas) rompen la linealidad de la estructura sujeto-verbo-objeto. El modelo de lenguaje utiliza la arquitectura de auto-atención (self-attention) para crear dependencias a larga distancia, vinculando un pronombre relativo o un sujeto omitido con su antecedente real a través de múltiples capas de procesamiento.
+Explica cómo maneja un modelo de lenguaje las oraciones subordinadas causales, condicionales y concesivas frente al orden de las proposiciones. | El orden sintáctico altera la carga predictiva. Cuando la subordinada antecede a la principal (ej. "Aunque llovió todo el día, fuimos al parque"), el modelo debe retener una condición suspendida en su vector de estado oculto hasta procesar la cláusula principal que resuelve la contradicción. Si el orden se invierte ("Fuimos al parque aunque llovió"), el procesamiento es incremental y reduce la carga de memoria a corto plazo del modelo.
+¿Cómo gestiona el modelo la ambigüedad sintáctica de alcance (scope ambiguity) en oraciones con cuantificadores y negaciones? | La ambigüedad de alcance surge cuando operadores como la negación o los cuantificadores pueden modificar distintas partes de una proposición (ej. "Todos no aprobaron el examen"). El modelo resuelve estas estructuras evaluando las jerarquías sintácticas en sus capas de atención profunda para determinar si la negación afecta a la totalidad del grupo o solo a una porción específica del predicado.
+¿Qué significa el verbo abrazar y qué tipo de verbo es? | El verbo abrazar es un verbo de la 1.ª (-ar) (Transitivo) que significa rodear con los brazos en señal de afecto o protección.
+¿Qué significa el verbo abrir y qué tipo de verbo es? | El verbo abrir es un verbo de la 3.ª (-ir) (Transitivo / Intransitivo) que significa descubrir o franquear lo que está cerrado.
+¿Qué significa el verbo acompañar y qué tipo de verbo es? | El verbo acompañar es un verbo de la 1.ª (-ar) (Transitivo) que significa estar o ir en compañía de otra u otras personas.
+¿Qué significa el verbo acudir y qué tipo de verbo es? | El verbo acudir es un verbo de la 3.ª (-ir) (Intransitivo) que significa ir al sitio adonde conviene o es llamado alguien.
+¿Qué significa el verbo afinar y qué tipo de verbo es? | El verbo afinar es un verbo de la 1.ª (-ar) (Transitivo) que significa poner en tono justo los instrumentos musicales.
+¿Qué significa el verbo aliviar y qué tipo de verbo es? | El verbo aliviar es un verbo de la 1.ª (-ar) (Transitivo) que significa disminuir o mitigar el dolor, la fatiga o el peso.
+¿Qué significa el verbo amasar y qué tipo de verbo es? | El verbo amasar es un verbo de la 1.ª (-ar) (Transitivo) que significa formar o hacer masa mezclando arcilla, harina o yeso con agua.
+¿Qué significa el verbo amar y qué tipo de verbo es? | El verbo amar es un verbo de la 1.ª (-ar) (Transitivo) que significa tener amor a personas, animales, oficios o ideales.
+¿Qué significa el verbo apuntalar y qué tipo de verbo es? | El verbo apuntalar es un verbo de la 1.ª (-ar) (Transitivo) que significa poner puntales a un muro o edificio para que no se derrumbe.
+¿Qué significa el verbo asentar y qué tipo de verbo es? | El verbo asentar es un verbo de la 1.ª (-ar) (Transitivo) que significa colocar con firmeza una piedra o ladrillo sobre su base.
+¿Qué significa el verbo bajar y qué tipo de verbo es? | El verbo bajar es un verbo de la 1.ª (-ar) (Intransitivo / Transitivo) que significa ir desde un lugar a otro más bajo; descender.
+¿Qué significa el verbo beber y qué tipo de verbo es? | El verbo beber es un verbo de la 2.ª (-er) (Transitivo / Intransitivo) que significa ingerir un líquido.
+¿Qué significa el verbo brillar y qué tipo de verbo es? | El verbo brillar es un verbo de la 1.ª (-ar) (Intransitivo) que significa emitir o reflejar luz.
+¿Qué significa el verbo buscar y qué tipo de verbo es? | El verbo buscar es un verbo de la 1.ª (-ar) (Transitivo) que significa hacer diligencias para hallar o encontrar algo o a alguien.
+¿Qué significa el verbo calcular y qué tipo de verbo es? | El verbo calcular es un verbo de la 1.ª (-ar) (Transitivo) que significa hacer cómputos matemáticos o geométricos.
+¿Qué significa el verbo calmar y qué tipo de verbo es? | El verbo calmar es un verbo de la 1.ª (-ar) (Transitivo / Pronominal) que significa sosegar, adormecer o apaciguar un dolor o temor.
+¿Qué significa el verbo caminar y qué tipo de verbo es? | El verbo caminar es un verbo de la 1.ª (-ar) (Intransitivo) que significa andar o recorrer un camino a pie.
+¿Qué significa el verbo cantar y qué tipo de verbo es? | El verbo cantar es un verbo de la 1.ª (-ar) (Transitivo / Intransitivo) que significa producir con la voz sonidos melodiosos.
+¿Qué significa el verbo cavar y qué tipo de verbo es? | El verbo cavar es un verbo de la 1.ª (-ar) (Transitivo / Intransitivo) que significa levantar y mover la tierra o la roca con herramientas.
+¿Qué significa el verbo cincelar y qué tipo de verbo es? | El verbo cincelar es un verbo de la 1.ª (-ar) (Transitivo) que significa labrar o grabar piedras o metales con el cincel.
+¿Qué significa el verbo colaborar y qué tipo de verbo es? | El verbo colaborar es un verbo de la 1.ª (-ar) (Intransitivo) que significa trabajar con otra u otras personas en la realización de una obra.
+¿Qué significa el verbo construir y qué tipo de verbo es? | El verbo construir es un verbo de la 3.ª (-ir) (Transitivo) que significa fabricar, edificar o levantar una obra de arquitectura o ingeniería.
+¿Qué significa el verbo consolar y qué tipo de verbo es? | El verbo consolar es un verbo de la 1.ª (-ar) (Transitivo) que significa aliviar la pena o aflicción de alguien.
+¿Qué significa el verbo coser y qué tipo de verbo es? | El verbo coser es un verbo de la 2.ª (-er) (Transitivo) que significa unir con hilo enhebrado en la aguja telas o heridas.
+¿Qué significa el verbo cuidar y qué tipo de verbo es? | El verbo cuidar es un verbo de la 1.ª (-ar) (Transitivo / Intransitivo) que significa asistir, guardar o conservar con esmero a alguien o algo.
+¿Qué significa el verbo curar y qué tipo de verbo es? | El verbo curar es un verbo de la 1.ª (-ar) (Transitivo) que significa sanar las dolencias o heridas de un enfermo.
+¿Qué significa el verbo defender y qué tipo de verbo es? | El verbo defender es un verbo de la 2.ª (-er) (Transitivo) que significa amparar, librar o proteger contra un ataque o injusticia.
+¿Qué significa el verbo descansar y qué tipo de verbo es? | El verbo descansar es un verbo de la 1.ª (-ar) (Intransitivo) que significa cesar en el trabajo o reponer fuerzas con el reposo.
+¿Qué significa el verbo descubrir y qué tipo de verbo es? | El verbo descubrir es un verbo de la 3.ª (-ir) (Transitivo) que significa hallar lo que estaba ignorado o escondido.
+¿Qué significa el verbo despertar y qué tipo de verbo es? | El verbo despertar es un verbo de la 1.ª (-ar) (Intransitivo / Transitivo) que significa dejar de dormir; recobrar la conciencia en una nueva época.
+¿Qué significa el verbo diseñar y qué tipo de verbo es? | El verbo diseñar es un verbo de la 1.ª (-ar) (Transitivo) que significa trazar o proyectar un edificio, máquina o sistema.
+¿Qué significa el verbo dormir y qué tipo de verbo es? | El verbo dormir es un verbo de la 3.ª (-ir) (Intransitivo) que significa estar en aquel reposo que consiste en la inacción de los sentidos.
+¿Qué significa el verbo edificar y qué tipo de verbo es? | El verbo edificar es un verbo de la 1.ª (-ar) (Transitivo) que significa hacer o construir un edificio o monumento.
+¿Qué significa el verbo enseñar y qué tipo de verbo es? | El verbo enseñar es un verbo de la 1.ª (-ar) (Transitivo) que significa instruir, doctrinar y amaestrar con reglas o preceptos.
+¿Qué significa el verbo entonar y qué tipo de verbo es? | El verbo entonar es un verbo de la 1.ª (-ar) (Transitivo) que significa cantar ajustándose al tono; dar principio a un canto.
+¿Qué significa el verbo estar y qué tipo de verbo es? | El verbo estar es un verbo de la 1.ª (-ar) (Copulativo / Intransitivo) que significa existir, hallarse en un estado o lugar.
+¿Qué significa el verbo estudiar y qué tipo de verbo es? | El verbo estudiar es un verbo de la 1.ª (-ar) (Transitivo) que significa ejercitar el entendimiento para alcanzar o comprender una cosa.
+¿Qué significa el verbo forjar y qué tipo de verbo es? | El verbo forjar es un verbo de la 1.ª (-ar) (Transitivo) que significa dar primera forma con el martillo a cualquier pieza de metal caliente.
+¿Qué significa el verbo fundir y qué tipo de verbo es? | El verbo fundir es un verbo de la 3.ª (-ir) (Transitivo) que significa derretir y licuar los metales o minerales con calor.
+¿Qué significa el verbo grabar y qué tipo de verbo es? | El verbo grabar es un verbo de la 1.ª (-ar) (Transitivo) que significa esculpir, tallar o señalar letras o figuras en piedra, madera o metal.
+¿Qué significa el verbo guardar y qué tipo de verbo es? | El verbo guardar es un verbo de la 1.ª (-ar) (Transitivo) que significa poner algo a buen recaudo para que no se pierda.
+¿Qué significa el verbo guiar y qué tipo de verbo es? | El verbo guiar es un verbo de la 1.ª (-ar) (Transitivo) que significa ir mostrando el camino a otro; dirigir o aconsejar.
+¿Qué significa el verbo hervir y qué tipo de verbo es? | El verbo hervir es un verbo de la 3.ª (-ir) (Transitivo / Intransitivo) que significa hacer que un líquido entre en ebullición por acción del calor.
+¿Qué significa el verbo iluminar y qué tipo de verbo es? | El verbo iluminar es un verbo de la 1.ª (-ar) (Transitivo) que significa alumbrar, llenar de luz y claridad un espacio.
+¿Qué significa el verbo labrar y qué tipo de verbo es? | El verbo labrar es un verbo de la 1.ª (-ar) (Transitivo) que significa trabajar una materia reduciéndola al estado o forma conveniente; cultivar.
+¿Qué significa el verbo leer y qué tipo de verbo es? | El verbo leer es un verbo de la 2.ª (-er) (Transitivo) que significa pasar la vista por lo escrito o impreso comprendiendo la significación.
+¿Qué significa el verbo levantar y qué tipo de verbo es? | El verbo levantar es un verbo de la 1.ª (-ar) (Transitivo) que significa mover de abajo hacia arriba; construir o erigir.
+¿Qué significa el verbo liberar y qué tipo de verbo es? | El verbo liberar es un verbo de la 1.ª (-ar) (Transitivo) que significa poner en libertad; eximir de una obligación o patente.
+¿Qué significa el verbo medir y qué tipo de verbo es? | El verbo medir es un verbo de la 3.ª (-ir) (Transitivo) que significa comparar una cantidad con su respectiva unidad.
+¿Qué significa el verbo mirar y qué tipo de verbo es? | El verbo mirar es un verbo de la 1.ª (-ar) (Transitivo) que significa dirigir la vista a un objeto.
+¿Qué significa el verbo navegar y qué tipo de verbo es? | El verbo navegar es un verbo de la 1.ª (-ar) (Intransitivo) que significa viajar en una embarcación por el agua o el aire.
+¿Qué significa el verbo nivelar y qué tipo de verbo es? | El verbo nivelar es un verbo de la 1.ª (-ar) (Transitivo) que significa poner un plano en posición horizontal exacta.
+¿Qué significa el verbo observar y qué tipo de verbo es? | El verbo observar es un verbo de la 1.ª (-ar) (Transitivo) que significa examinar atentamente un fenómeno de la naturaleza.
+¿Qué significa el verbo parecer y qué tipo de verbo es? | El verbo parecer es un verbo de la 2.ª (-er) (Copulativo) que significa tener determinada apariencia o aspecto.
+¿Qué significa el verbo proteger y qué tipo de verbo es? | El verbo proteger es un verbo de la 2.ª (-er) (Transitivo) que significa resguardar a una persona o cosa de un perjuicio o peligro.
+¿Qué significa el verbo pulir y qué tipo de verbo es? | El verbo pulir es un verbo de la 3.ª (-ir) (Transitivo) que significa alisar o dar tersura y lustre a una lente, piedra o metal.
+¿Qué significa el verbo recordar y qué tipo de verbo es? | El verbo recordar es un verbo de la 1.ª (-ar) (Transitivo) que significa traer a la memoria algo vivido o aprendido.
+¿Qué significa el verbo reencarnar y qué tipo de verbo es? | El verbo reencarnar es un verbo de la 1.ª (-ar) (Intransitivo / Pronominal) que significa volver a nacer un espíritu o conciencia en un nuevo cuerpo.
+¿Qué significa el verbo remachar y qué tipo de verbo es? | El verbo remachar es un verbo de la 1.ª (-ar) (Transitivo) que significa asegurar con remaches al rojo vivo las vigas de hierro.
+¿Qué significa el verbo rescatar y qué tipo de verbo es? | El verbo rescatar es un verbo de la 1.ª (-ar) (Transitivo) que significa librar de un peligro, daño o naufragio.
+¿Qué significa el verbo salvar y qué tipo de verbo es? | El verbo salvar es un verbo de la 1.ª (-ar) (Transitivo) que significa librar de un riesgo o de la destrucción.
+¿Qué significa el verbo sellar y qué tipo de verbo es? | El verbo sellar es un verbo de la 1.ª (-ar) (Transitivo) que significa cerrar herméticamente o estampar el sello.
+¿Qué significa el verbo sembrar y qué tipo de verbo es? | El verbo sembrar es un verbo de la 1.ª (-ar) (Transitivo) que significa arrojar y esparcir las semillas en la tierra preparada.
+¿Qué significa el verbo ser y qué tipo de verbo es? | El verbo ser es un verbo de la 2.ª (-er) (Copulativo) que significa tener una cualidad o identidad esencial.
+¿Qué significa el verbo soñar y qué tipo de verbo es? | El verbo soñar es un verbo de la 1.ª (-ar) (Transitivo / Intransitivo) que significa representarse en la fantasía imágenes o sucesos mientras se duerme.
+¿Qué significa el verbo sostener y qué tipo de verbo es? | El verbo sostener es un verbo de la 2.ª (-er) (Transitivo) que significa sustentar, mantener firme una cosa para que no caiga.
+¿Qué significa el verbo tallar y qué tipo de verbo es? | El verbo tallar es un verbo de la 1.ª (-ar) (Transitivo) que significa esculpir en piedra, madera o marfil.
+¿Qué significa el verbo tejer y qué tipo de verbo es? | El verbo tejer es un verbo de la 2.ª (-er) (Transitivo) que significa entrelazar hilos en el telar o con las manos.
+¿Qué significa el verbo traducir y qué tipo de verbo es? | El verbo traducir es un verbo de la 3.ª (-ir) (Transitivo) que significa expresar en una lengua lo que está escrito o dicho en otra.
+¿Qué significa el verbo vacunar y qué tipo de verbo es? | El verbo vacunar es un verbo de la 1.ª (-ar) (Transitivo) que significa inocular una vacuna para inmunizar contra una enfermedad.
+¿Qué significa el verbo vendar y qué tipo de verbo es? | El verbo vendar es un verbo de la 1.ª (-ar) (Transitivo) que significa atar o cubrir una herida con una venda limpia.
+¿Qué significa el verbo vigilar y qué tipo de verbo es? | El verbo vigilar es un verbo de la 1.ª (-ar) (Transitivo) que significa velar sobre alguien o algo con atención exacta.
+# PREGUNTAS Y RESPUESTAS DE GRAMÁTICA Y LENGUA ESPAÑOLA
+Profundiza en el tratamiento computacional de la elipsis y los sujetos tácitos en la cohesión y coherencia textual. | La elipsis consiste en la omisión de elementos lingüísticos que ya han sido mencionados o que se sobrentienden por el contexto, evitando redundancias. Los modelos de lenguaje manejan esto mediante la inferencia de dependencias a distancia y la propagación de estados ocultos, permitiendo que el modelo recupere el sujeto o predicado implícito basándose en la estructura gramatical previa.
+Analiza cómo el modelo resuelve la elisión del sujeto gramatical (sujeto tácito o gramaticalmente sobrentendido) en el español. | En español, el verbo contiene morfemas de persona y número (desinencias) que permiten omitir el pronombre sujeto (ej. "Fuimos al mercado"). El modelo utiliza la información de concordancia en el token del verbo para activar y mantener activo el pronombre correspondiente en su vector de representación contextual, evitando la pérdida del referente.
+¿Qué es un verbo? | Un verbo es una palabra que expresa una acción, un estado de ánimo o un proceso que realiza el sujeto.
+¿Cuál es la definición exacta de un verbo? | un verbo como una palabra que expresa una acción, un estado de ánimo o un proceso que realiza el sujeto.
+Explícame detalladamente qué es un sustantivo. | un sustantivo es una palabra que se utiliza para nombrar personas, animales, cosas, lugares o conceptos abstractos.
+¿Cómo defines un sustantivo en gramática? | un sustantivo a una palabra que se utiliza para nombrar personas, animales, cosas, lugares o conceptos abstractos.
+Dime el significado y función de un adjetivo. | Un adjetivo representa una palabra que acompaña al sustantivo para calificarlo o determinar sus propiedades y características.
+¿Podrías explicarme qué es un adjetivo? | Un adjetivo es una palabra que acompaña al sustantivo para calificarlo o determinar sus propiedades y características.
+¿Cómo defines una preposición en gramática? | una preposición como una palabra invariable que une palabras u oraciones indicando relación de origen, lugar, destino o modo.
+¿A qué llamamos el sujeto? | El sujeto representa la persona, animal o cosa que realiza la acción del verbo o de quien se dice algo en la oración.
+¿Qué describe conceptualmente el sujeto? | El sujeto es la persona, animal o cosa que realiza la acción del verbo o de quien se dice algo en la oración.
+¿Qué es el predicado? | el predicado como la parte de la oración gramatical que expresa lo que se dice o predica sobre el sujeto.
+¿Cuál es la definición exacta de el predicado? | el predicado es la parte de la oración gramatical que expresa lo que se dice o predica sobre el sujeto.
+Explícame detalladamente qué es una oración. | una oración a una unidad lingüística con sentido completo e independencia sintáctica formada por sujeto y predicado.
+¿Cómo defines una oración en gramática? | Una oración representa una unidad lingüística con sentido completo e independencia sintáctica formada por sujeto y predicado.
+Dime el significado y función de un párrafo. | Un párrafo es un conjunto de oraciones articuladas en torno a una idea central y separadas por punto y aparte.
+¿Podrías explicarme qué es un párrafo? | un párrafo como un conjunto de oraciones articuladas en torno a una idea central y separadas por punto y aparte.
+¿A qué llamamos un sinónimo? | un sinónimo es una palabra que tiene un significado idéntico o muy parecido al de otra palabra diferente.
+¿Qué describe conceptualmente un sinónimo? | un sinónimo a una palabra que tiene un significado idéntico o muy parecido al de otra palabra diferente.
+¿Qué es un antónimo? | Un antónimo representa una palabra que expresa un significado opuesto o contrario respecto a otra palabra.
+¿Cuál es la definición exacta de un antónimo? | Un antónimo es una palabra que expresa un significado opuesto o contrario respecto a otra palabra.
+Explícame detalladamente qué es una sílaba. | una sílaba como el sonido o conjunto de sonidos articulados que se emiten en un solo golpe de voz.
+¿Cómo defines una sílaba en gramática? | una sílaba es el sonido o conjunto de sonidos articulados que se emiten en un solo golpe de voz.
+Dime el significado y función de el acento. | el acento a la mayor intensidad o fuerza con que se pronuncia una determinada sílaba dentro de una palabra.
+¿Podrías explicarme qué es el acento? | El acento representa la mayor intensidad o fuerza con que se pronuncia una determinada sílaba dentro de una palabra.
+¿Cómo defines las palabras esdrújulas en gramática? | Las palabras esdrújulas es aquellas palabras cuya antepenúltima sílaba es tónica y siempre llevan tilde ortográfica.
+¿Cómo se conjuga el verbo caminar en primera persona en presente? | En tiempo presente se conjuga: yo camino.
+¿Cómo se conjuga el verbo caminar en primera persona en pasado? | En tiempo pasado se conjuga: yo caminé.
+¿Cómo se conjuga el verbo caminar en primera persona en futuro? | En tiempo futuro se conjuga: yo caminaré.
+¿Cuál es el gerundio del verbo caminar? | El gerundio de caminar es caminando.
+Muestra una secuencia temporal con el verbo caminar. | Ayer yo caminé, hoy yo camino y mañana yo caminaré.
+¿Cómo se conjuga el verbo correr en primera persona en presente? | En tiempo presente se conjuga: yo corro.
+¿Cómo se conjuga el verbo correr en primera persona en pasado? | En tiempo pasado se conjuga: yo corrí.
+¿Cómo se conjuga el verbo correr en primera persona en futuro? | En tiempo futuro se conjuga: yo correré.
+¿Cuál es el gerundio del verbo correr? | El gerundio de correr es corriendo.
+Muestra una secuencia temporal con el verbo correr. | Ayer yo corrí, hoy yo corro y mañana yo correré.
+¿Cómo se conjuga el verbo leer en primera persona en presente? | En tiempo presente se conjuga: yo leo.
+¿Cómo se conjuga el verbo leer en primera persona en pasado? | En tiempo pasado se conjuga: yo leí.
+¿Cómo se conjuga el verbo leer en primera persona en futuro? | En tiempo futuro se conjuga: yo leeré.
+¿Cuál es el gerundio del verbo leer? | El gerundio de leer es leyendo.
+Muestra una secuencia temporal con el verbo leer. | Ayer yo leí, hoy yo leo y mañana yo leeré.
+¿Cómo se conjuga el verbo escribir en primera persona en presente? | En tiempo presente se conjuga: yo escribo.
+¿Cómo se conjuga el verbo escribir en primera persona en pasado? | En tiempo pasado se conjuga: yo escribí.
+¿Cómo se conjuga el verbo escribir en primera persona en futuro? | En tiempo futuro se conjuga: yo escribiré.
+¿Cuál es el gerundio del verbo escribir? | El gerundio de escribir es escribiendo.
+Muestra una secuencia temporal con el verbo escribir. | Ayer yo escribí, hoy yo escribo y mañana yo escribiré.
+¿Cómo se conjuga el verbo aprender en primera persona en presente? | En tiempo presente se conjuga: yo aprendo.
+¿Cómo se conjuga el verbo aprender en primera persona en pasado? | En tiempo pasado se conjuga: yo aprendí.
+¿Cómo se conjuga el verbo aprender en primera persona en futuro? | En tiempo futuro se conjuga: yo aprenderé.
+¿Cuál es el gerundio del verbo aprender? | El gerundio de aprender es aprendiendo.
+Muestra una secuencia temporal con el verbo aprender. | Ayer yo aprendí, hoy yo aprendo y mañana yo aprenderé.
+¿Cómo se conjuga el verbo estudiar en primera persona en presente? | En tiempo presente se conjuga: yo estudio.
+¿Cómo se conjuga el verbo estudiar en primera persona en pasado? | En tiempo pasado se conjuga: yo estudié.
+¿Cómo se conjuga el verbo estudiar en primera persona en futuro? | En tiempo futuro se conjuga: yo estudiaré.
+¿Cuál es el gerundio del verbo estudiar? | El gerundio de estudiar es estudiando.
+Muestra una secuencia temporal con el verbo estudiar. | Ayer yo estudié, hoy yo estudio y mañana yo estudiaré.
+¿Cómo se conjuga el verbo dormir en primera persona en presente? | En tiempo presente se conjuga: yo duermo.
+¿Cómo se conjuga el verbo dormir en primera persona en pasado? | En tiempo pasado se conjuga: yo dormí.
+¿Cómo se conjuga el verbo dormir en primera persona en futuro? | En tiempo futuro se conjuga: yo dormiré.
+¿Cuál es el gerundio del verbo dormir? | El gerundio de dormir es durmiendo.
+Muestra una secuencia temporal con el verbo dormir. | Ayer yo dormí, hoy yo duermo y mañana yo dormiré.
+¿Cómo se conjuga el verbo comer en primera persona en presente? | En tiempo presente se conjuga: yo como.
+¿Cómo se conjuga el verbo comer en primera persona en pasado? | En tiempo pasado se conjuga: yo comí.
+¿Cómo se conjuga el verbo comer en primera persona en futuro? | En tiempo futuro se conjuga: yo comeré.
+¿Cuál es el gerundio del verbo comer? | El gerundio de comer es comiendo.
+Muestra una secuencia temporal con el verbo comer. | Ayer yo comí, hoy yo como y mañana yo comeré.
+¿Cómo se conjuga el verbo beber en primera persona en presente? | En tiempo presente se conjuga: yo bebo.
+¿Cómo se conjuga el verbo beber en primera persona en pasado? | En tiempo pasado se conjuga: yo bebí.
+¿Cómo se conjuga el verbo beber en primera persona en futuro? | En tiempo futuro se conjuga: yo beberé.
+¿Cuál es el gerundio del verbo beber? | El gerundio de beber es bebiendo.
+Muestra una secuencia temporal con el verbo beber. | Ayer yo bebí, hoy yo bebo y mañana yo beberé.
+¿Cómo se conjuga el verbo viajar en primera persona en presente? | En tiempo presente se conjuga: yo viajo.
+¿Cómo se conjuga el verbo viajar en primera persona en pasado? | En tiempo pasado se conjuga: yo viajé.
+¿Cómo se conjuga el verbo viajar en primera persona en futuro? | En tiempo futuro se conjuga: yo viajaré.
+¿Cuál es el gerundio del verbo viajar? | El gerundio de viajar es viajando.
+Muestra una secuencia temporal con el verbo viajar. | Ayer yo viajé, hoy yo viajo y mañana yo viajaré.
+¿Cómo se conjuga el verbo hablar en primera persona en presente? | En tiempo presente se conjuga: yo hablo.
+¿Cómo se conjuga el verbo hablar en primera persona en pasado? | En tiempo pasado se conjuga: yo hablé.
+¿Cómo se conjuga el verbo hablar en primera persona en futuro? | En tiempo futuro se conjuga: yo hablaré.
+¿Cuál es el gerundio del verbo hablar? | El gerundio de hablar es hablando.
+Muestra una secuencia temporal con el verbo hablar. | Ayer yo hablé, hoy yo hablo y mañana yo hablaré.
+¿Cómo se conjuga el verbo escuchar en primera persona en presente? | En tiempo presente se conjuga: yo escucho.
+¿Cómo se conjuga el verbo escuchar en primera persona en pasado? | En tiempo pasado se conjuga: yo escuché.
+¿Cómo se conjuga el verbo escuchar en primera persona en futuro? | En tiempo futuro se conjuga: yo escucharé.
+¿Cuál es el gerundio del verbo escuchar? | El gerundio de escuchar es escuchando.
+Muestra una secuencia temporal con el verbo escuchar. | Ayer yo escuché, hoy yo escucho y mañana yo escucharé.
+¿Cómo se conjuga el verbo pensar en primera persona en presente? | En tiempo presente se conjuga: yo pienso.
+¿Cómo se conjuga el verbo pensar en primera persona en pasado? | En tiempo pasado se conjuga: yo pensé.
+¿Cómo se conjuga el verbo pensar en primera persona en futuro? | En tiempo futuro se conjuga: yo pensaré.
+¿Cuál es el gerundio del verbo pensar? | El gerundio de pensar es pensando.
+Muestra una secuencia temporal con el verbo pensar. | Ayer yo pensé, hoy yo pienso y mañana yo pensaré.
+¿Cómo se conjuga el verbo recordar en primera persona en presente? | En tiempo presente se conjuga: yo recuerdo.
+¿Cómo se conjuga el verbo recordar en primera persona en pasado? | En tiempo pasado se conjuga: yo recordé.
+¿Cómo se conjuga el verbo recordar en primera persona en futuro? | En tiempo futuro se conjuga: yo recordaré.
+¿Cuál es el gerundio del verbo recordar? | El gerundio de recordar es recordando.
+Muestra una secuencia temporal con el verbo recordar. | Ayer yo recordé, hoy yo recuerdo y mañana yo recordaré.
+¿Cómo se conjuga el verbo trabajar en primera persona en presente? | En tiempo presente se conjuga: yo trabajo.
+¿Cómo se conjuga el verbo trabajar en primera persona en pasado? | En tiempo pasado se conjuga: yo trabajé.
+¿Cómo se conjuga el verbo trabajar en primera persona en futuro? | En tiempo futuro se conjuga: yo trabajaré.
+¿Cuál es el gerundio del verbo trabajar? | El gerundio de trabajar es trabajando.
+Muestra una secuencia temporal con el verbo trabajar. | Ayer yo trabajé, hoy yo trabajo y mañana yo trabajaré.
+¿Cómo se conjuga el verbo observar en primera persona en presente? | En tiempo presente se conjuga: yo observo.
+¿Cómo se conjuga el verbo observar en primera persona en pasado? | En tiempo pasado se conjuga: yo observé.
+¿Cómo se conjuga el verbo observar en primera persona en futuro? | En tiempo futuro se conjuga: yo observaré.
+¿Cuál es el gerundio del verbo observar? | El gerundio de observar es observando.
+Muestra una secuencia temporal con el verbo observar. | Ayer yo observé, hoy yo observo y mañana yo observaré.
+¿Cuál es el antónimo exacto de grande? | El antónimo exacto de grande es pequeño.
+¿Cuál es el antónimo exacto de alto? | El antónimo exacto de alto es bajo.
+¿Cuál es el antónimo exacto de rápido? | El antónimo exacto de rápido es lento.
+¿Cuál es el antónimo exacto de frío? | El antónimo exacto de frío es caliente.
+¿Cuál es el antónimo exacto de claro? | El antónimo exacto de claro es oscuro.
+¿Cuál es el antónimo exacto de fácil? | El antónimo exacto de fácil es difícil.
+¿Cuál es el antónimo exacto de bueno? | El antónimo exacto de bueno es malo.
+¿Cuál es el antónimo exacto de fuerte? | El antónimo exacto de fuerte es débil.
+¿Cuál es el antónimo exacto de alegre? | El antónimo exacto de alegre es triste.
+¿Cuál es el antónimo exacto de abierto? | El antónimo exacto de abierto es cerrado.
+¿Cuál es el antónimo exacto de limpio? | El antónimo exacto de limpio es sucio.
+¿Cuál es el antónimo exacto de lleno? | El antónimo exacto de lleno es vacío.
+¿Cuál es el antónimo exacto de cerca? | El antónimo exacto de cerca es lejos.
+¿Cuál es el antónimo exacto de arriba? | El antónimo exacto de arriba es abajo.
+¿Cuál es el antónimo exacto de dentro? | El antónimo exacto de dentro es fuera.
+¿Cuál es el antónimo exacto de primero? | El antónimo exacto de primero es último.
+¿Cuál es el antónimo exacto de pesado? | El antónimo exacto de pesado es ligero.
+¿Cuál es el antónimo exacto de dulce? | El antónimo exacto de dulce es amargo.
+¿Cuál es el antónimo exacto de nuevo? | El antónimo exacto de nuevo es viejo.
+¿Cuál es el antónimo exacto de temprano? | El antónimo exacto de temprano es tarde.
+¿Cuál es el antónimo exacto de valiente? | El antónimo exacto de valiente es cobarde.
+¿Cuál es el antónimo exacto de seco? | El antónimo exacto de seco es húmedo.
+¿Cuál es el antónimo exacto de ancho? | El antónimo exacto de ancho es estrecho.
+¿Cuál es el antónimo exacto de largo? | El antónimo exacto de largo es corto.
+¿Cuál es el antónimo exacto de suave? | El antónimo exacto de suave es áspero.
+¿Cuál es el antónimo exacto de rico? | El antónimo exacto de rico es pobre.
+¿Cuál es el antónimo exacto de justo? | El antónimo exacto de justo es injusto.
+¿Cuál es el antónimo exacto de posible? | El antónimo exacto de posible es imposible.
+¿Cuál es un sinónimo apropiado de feliz? | Un sinónimo apropiado de feliz es alegre.
+¿Cuál es un sinónimo apropiado de veloz? | Un sinónimo apropiado de veloz es rápido.
+¿Cuál es un sinónimo apropiado de inteligente? | Un sinónimo apropiado de inteligente es sabio.
+¿Cuál es un sinónimo apropiado de bello? | Un sinónimo apropiado de bello es hermoso.
+¿Cuál es un sinónimo apropiado de casa? | Un sinónimo apropiado de casa es hogar.
+¿Cuál es un sinónimo apropiado de empezar? | Un sinónimo apropiado de empezar es comenzar.
+¿Cuál es un sinónimo apropiado de terminar? | Un sinónimo apropiado de terminar es concluir.
+¿Cuál es un sinónimo apropiado de elegir? | Un sinónimo apropiado de elegir es escoger.
+¿Cuál es un sinónimo apropiado de difícil? | Un sinónimo apropiado de difícil es complejo.
+¿Cuál es un sinónimo apropiado de fácil? | Un sinónimo apropiado de fácil es sencillo.
+¿Cuál es un sinónimo apropiado de amplio? | Un sinónimo apropiado de amplio es espacioso.
+¿Cuál es un sinónimo apropiado de calma? | Un sinónimo apropiado de calma es tranquilidad.
+¿Cuál es un sinónimo apropiado de enojado? | Un sinónimo apropiado de enojado es enfadado.
+¿Cuál es un sinónimo apropiado de camino? | Un sinónimo apropiado de camino es sendero.
+¿Cuál es un sinónimo apropiado de docente? | Un sinónimo apropiado de docente es profesor.
+¿Cuál es un sinónimo apropiado de médico? | Un sinónimo apropiado de médico es doctor.
+El sustantivo es la categoría gramatical que nombra seres vivos, objetos físicos, lugares, fenómenos o conceptos abstractos. Posee género gramatical y número singular o plural.
+El adjetivo calificativo acompaña al sustantivo para expresar sus cualidades o propiedades y concuerda siempre con él en género y número.
+El artículo determinado antecede a un sustantivo conocido por los hablantes: el para masculino singular, la para femenino singular, los para masculino plural y las para femenino plural.
+En español, los sustantivos femeninos que comienzan con vocal a tónica como agua, águila, alma o hacha llevan el artículo singular el por eufonía fonética, pero mantienen género femenino en plural y en sus adjetivos como el agua clara o las aguas claras.
+Las palabras agudas llevan la mayor fuerza de voz en la última sílaba y llevan tilde ortográfica cuando terminan en vocal, en ene o en ese, como canción, compás y café.
+Las palabras graves o llanas tienen la sílaba tónica en la penúltima posición y llevan tilde cuando no terminan ni en vocal, ni en ene, ni en ese, como árbol, lápiz y fácil.
+Las palabras esdrújulas llevan la intensidad tónica en la antepenúltima sílaba y se acentúan ortográficamente siempre sin excepción, como célula, música, física y atmósfera.
+El diptongo es la unión de dos vocales que se pronuncian dentro de una misma sílaba, combinando una vocal abierta con una cerrada átona o dos vocales cerradas distintas, como cielo, aire o ciudad.
+El hiato es la separación de dos vocales contiguas en sílabas distintas, ya sea porque ambas son vocales abiertas como caer y océano, o porque la vocal cerrada lleva tilde tónica como río, raíz y búho.
+Los verbos copulativos ser, estar y parecer funcionan como enlace o cópula entre el sujeto y un atributo que describe su estado o esencia.
+Los verbos transitivos transfieren la acción del sujeto hacia un complemento directo, como construir una casa, leer un libro o escribir código.
+Los verbos intransitivos expresan una acción completa que no requiere complemento directo, como nacer, caminar, fluir, brillar o crecer.
+El modo indicativo expresa hechos reales, objetivos o verificables en pasado, presente o futuro, mientras que el modo subjuntivo expresa deseo, posibilidad, hipótesis o condición.
+Los conectores causales como porque, ya que, puesto que y debido a introducen la causa o razón de un hecho, mientras que los conectores consecutivos como por lo tanto, por consiguiente y en consecuencia introducen el efecto resultante.
+¿Qué significa vacilación? | La vacilación es el estado de dudar o titubear entre decisiones o acciones. Se caracteriza por la incapacidad de tomar una decisión o compromiso firme.

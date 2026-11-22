@@ -1,0 +1,13 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Python / temporales
+__pycache__/
+*.py[cod]
+*.log
+*.tmp

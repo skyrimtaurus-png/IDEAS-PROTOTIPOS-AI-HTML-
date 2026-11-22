@@ -1,0 +1,129 @@
+# CORPUS LIMPIO 06 — BIOLOGÍA CELULAR, CÉLULAS MADRE, GENÉTICA Y ANATOMÍA HUMANA
+La célula madre es una célula biológica indiferenciada que posee la capacidad de autorrenovarse por división mitótica y diferenciarse en células especializadas como neuronas, miocitos cardíacos o glóbulos sanguíneos. Además, sirve para regenerar tejidos dañados, sostener el desarrollo embrionario y aplicar terapias de medicina regenerativa.
+Las células madre embrionarias son células pluripotentes capaces de originar todos los tejidos celulares de un organismo adulto.
+Las células madre adultas o somáticas residen en tejidos específicos como la médula ósea y sirven para reparar y reponer las células desgastadas del órgano donde habitan.
+La célula procariota carece de núcleo celular definido y su ADN circular se encuentra libre en el citoplasma, como ocurre en las bacterias.
+La célula eucariota posee un núcleo verdadero delimitado por membrana nuclear y orgánulos especializados como mitocondrias, ribosomas y retículo endoplasmático.
+El ribosoma es el orgánulo celular encargado de sintetizar proteínas traduciendo la secuencia de nucleótidos del ARN mensajero.
+El sistema nervioso humano coordina las funciones conscientes e involuntarias del organismo mediante señales electroquímicas transmitidas por neuronas.
+El sistema circulatorio transporta oxígeno, nutrientes, hormonas y células defensivas a través de la sangre impulsada por el corazón hacia arterias, capilares y venas.
+El sistema respiratorio realiza el intercambio gaseoso en los alvéolos pulmonares captando oxígeno del aire inhalado y expulsando dióxido de carbono.
+El sistema inmunológico defiende al organismo frente a virus, bacterias y patógenos mediante leucocitos, anticuerpos y memoria inmunitaria.
+Una vacuna es una preparación biológica que entrena al sistema inmunológico para reconocer y neutralizar un agente infeccioso antes de que cause enfermedad grave.
+La homeostasis es la capacidad de los seres vivos para mantener estable su equilibrio interno de temperatura, pH e hidratación frente a cambios externos.
+La enzima es una proteína biológica catalizadora que acelera reacciones metabólicas específicas dentro de las células vivas.
+La hemoglobina es una proteína rica en hierro presente en los glóbulos rojos que sirve para transportar oxígeno desde los pulmones hasta los tejidos.
+La célula procariota es una célula simple sin núcleo definido cuyo ADN circular flota en el citoplasma, característica de las bacterias y las arqueas.
+La membrana plasmática es una bicapa lipídica semipermeable con proteínas integradas que delimita la célula y regula selectivamente el intercambio de sustancias con el exterior.
+El ribosoma es el complejo macromolecular celular encargado de leer el ARN mensajero y ensamblar aminoácidos mediante enlaces peptídicos para sintetizar proteínas.
+El retículo endoplasmático rugoso sintetiza y pliega proteínas gracias a sus ribosomas adheridos, mientras que el retículo endoplasmático liso sintetiza lípidos y desintoxica sustancias.
+El aparato de Golgi modifica, clasifica y empaqueta proteínas y lípidos en vesículas para su secreción o transporte hacia otros destinos celulares.
+El lisosoma es un orgánulo digestivo celular que contiene enzimas hidrolíticas ácidas encargadas de degradar desechos metabólicos, orgánulos envejecidos y patógenos fagocitados.
+El cloroplasto es el orgánulo exclusivo de las células vegetales y algas donde la clorofila captura energía luminosa para realizar la fotosíntesis.
+La pared celular vegetal está compuesta principalmente por celulosa y otorga rigidez estructural, soporte mecánico y protección osmótica a las plantas.
+El trifosfato de adenosina (ATP) actúa como la moneda energética universal de las células vivas, liberando energía química inmediata al hidrolizar su enlace fosfato terminal.
+Una enzima es una proteína biocatalizadora que acelera miles de veces las reacciones metabólicas específicas del organismo reduciendo su energía de activación.
+La ósmosis es el paso espontáneo de moléculas de agua a través de una membrana semipermeable desde una solución menos concentrada en solutos hacia otra más concentrada.
+La mitosis es el proceso de división celular somática que produce dos células hijas genéticamente idénticas a la célula madre, permitiendo el crecimiento y la reparación de tejidos.
+La meiosis es la división celular reductora que genera cuatro gametos haploides con la mitad de cromosomas y recombinación genética, fundamental para la reproducción sexual.
+Un gen es un segmento específico de ADN que contiene las instrucciones codificadas para sintetizar una proteína o una molécula de ARN funcional.
+Las leyes de Mendel explican cómo se transmiten los caracteres hereditarios a través de alelos dominantes y recesivos segregados durante la formación de gametos.
+La selección natural descrita por Charles Darwin es el mecanismo evolutivo mediante el cual los individuos con rasgos hereditarios ventajosos sobreviven y dejan mayor descendencia adaptada a su entorno.
+El sistema nervioso humano se divide en sistema nervioso central (encéfalo y médula espinal) y sistema nervioso periférico (nervios sensoriales y motores que recorren el cuerpo).
+El cerebelo es la estructura encefálica encargada de coordinar el equilibrio postural, la precisión de los movimientos voluntarios y el aprendizaje motor fino.
+El tronco encefálico controla funciones vitales autónomas involuntarias como el ritmo respiratorio, la frecuencia cardíaca y la presión arterial.
+Los neurotransmisores son mensajeros químicos liberados en la sinapsis neuronal: el glutamato excita la transmisión, el GABA la inhibe, la dopamina regula la motivación y la acetilcolina activa la contracción muscular.
+Los alvéolos pulmonares son diminutos sacos membranosos rodeados de capilares donde ocurre la hematosis: el paso de oxígeno del aire a la sangre y la expulsión de dióxido de carbono.
+El hígado es la glándula metabólica más grande del cuerpo humano: produce bilis para emulsionar grasas, almacena glucógeno, sintetiza proteínas plasmáticas y metaboliza fármacos y toxinas.
+El páncreas cumple una función exocrina segregando enzimas digestivas hacia el intestino delgado y una función endocrina produciendo insulina y glucagón para regular la glucosa en sangre.
+Los riñones filtran continuamente la sangre a través de millones de nefronas para eliminar urea y exceso de sales en la orina, manteniendo el equilibrio hídrico y electrolítico.
+El sistema inmunitario protege al organismo frente a virus, bacterias y parásitos mediante barreras innatas y respuesta adaptativa específica de linfocitos T y linfocitos B productores de anticuerpos.
+Las vacunas entrenan la memoria inmunológica presentando antígenos debilitados o fragmentos como ARN mensajero sin causar la enfermedad grave, permitiendo neutralizar rápido al patógeno real.
+La diferencia fundamental entre bacterias y virus es que las bacterias son células procariotas vivas sensibles a los antibióticos, mientras que los virus son partículas acelulares infecciosas que necesitan secuestrar células huésped para replicarse y no mueren con antibióticos.
+En las plantas vasculares, el xilema transporta agua y sales minerales (savia bruta) desde las raíces hasta las hojas, mientras que el floema distribuye azúcares fotosintéticos (savia elaborada) a toda la planta.
+Una cadena trófica describe el flujo de energía en un ecosistema desde los organismos productores autótrofos (plantas y fitoplancton), pasando por consumidores herbívoros y carnívoros, hasta los descomponedores (hongos y bacterias) que reciclan nutrientes al suelo.
+¿Qué significa ADN (o DNA)? | ADN (ácido desoxirribonucleico) es la biomolécula que almacena y transmite la información genética hereditaria de los seres vivos.
+Explica el proceso de selección natural. | La selección natural es el proceso evolutivo por el cual los organismos con rasgos ventajosos tienden a sobrevivir y reproducirse, mientras que aquellos con rasgos menos ventajosos mueren. Estos rasgos ventajosos se transmiten a la descendencia del organismo, y con el tiempo la selección natural puede llevar a cambios importantes en las poblaciones e incluso a la aparición de especies completamente nuevas.
+La transcripción genética es el proceso celular en el que la enzima ARN polimerasa copia la secuencia de un gen del ADN en una cadena complementaria de ARN mensajero dentro del núcleo.
+La traducción proteica ocurre en los ribosomas del citoplasma, donde cada triplete de bases del ARN mensajero llamado codón especifica qué aminoácido exacto trae el ARN de transferencia para formar la proteína.
+Los carbohidratos o glúcidos como la glucosa, el almidón y el glucógeno aportan energía metabólica rápida a las células y reserva energética de corto plazo.
+Los lípidos o grasas constituyen las membranas celulares fosfolipídicas, almacenan energía densa de largo plazo, aíslan térmicamente el organismo y forman hormonas esteroideas.
+Las proteínas son polímeros plegados de veinte tipos de aminoácidos que cumplen funciones estructurales (colágeno y queratina), catalíticas (enzimas), de transporte (hemoglobina), motoras (actina y miosina) y defensivas (anticuerpos).
+Las vitaminas son micronutrientes orgánicos esenciales en pequeñas dosis: la vitamina C participa en la síntesis de colágeno, la vitamina D regula la absorción de calcio óseo, la vitamina K interviene en la coagulación y el complejo B actúa como coenzima energética.
+El estómago humano digiere mecánicamente el bolo alimenticio y segrega jugo gástrico rico en ácido clorhídrico y pepsina para desnaturalizar proteínas y destruir microorganismos ingeridos.
+El intestino delgado (duodeno, yeyuno e íleon) posee millones de vellosidades y microvellosidades que multiplican su superficie de absorción para pasar aminoácidos, glucosa, ácidos grasos, vitaminas y minerales hacia el torrente sanguíneo.
+El intestino grueso o colon absorbe el agua y los electrolitos restantes de la digestión y aloja a la microbiota intestinal simbiótica que fermenta fibra vegetal y sintetiza vitamina K.
+El diafragma es el músculo principal de la respiración: al contraerse desciende expandiendo la cavidad torácica para inhalar aire hacia los pulmones, y al relajarse asciende expulsando el aire en la exhalación.
+La médula ósea roja situada en el interior de huesos planos y epífisis contiene células madre hematopoyéticas que producen continuamente glóbulos rojos, glóbulos blancos y plaquetas sanguíneas.
+Las plaquetas o trombocitos son fragmentos celulares de la sangre que se adhieren rápidamente a los vasos sanguíneos lesionados y activan la cascada de fibrina para detener hemorragias.
+La insulina es la hormona peptídica secretada por las células beta del páncreas cuando sube la glucosa tras comer, permitiendo que las células musculares, hepáticas y adiposas absorban glucosa de la sangre.
+La retina del ojo humano contiene dos tipos de fotorreceptores: los bastones especializados en visión nocturna con poca luz y los conos sensibles a las longitudes de onda roja, verde y azul para la visión en colores.
+El oído interno contiene la cóclea (órgano en espiral con células ciliadas que transforman las vibraciones mecánicas del sonido en impulsos nerviosos auditivos) y el sistema vestibular (canales semicirculares que detectan la aceleración y el equilibrio).
+La homeostasis fisiológica es el conjunto de mecanismos de retroalimentación autorregulada mediante los cuales un ser vivo mantiene estables sus condiciones internas como temperatura corporal (~37 °C), pH sanguíneo (~7,4) y glucemia.
+Los hongos constituyen el reino biológico Fungi: son organismos eucariotas heterótrofos con pared celular de quitina que descomponen materia orgánica, forman simbioses micorrízicas con raíces vegetales y producen compuestos médicos como la penicilina.
+La polinización es la transferencia de granos de polen desde los estambres masculinos hasta el estigma femenino de las flores mediante insectos como las abejas, aves o el viento, permitiendo la fecundación y la formación de frutos y semillas.
+La clorofila es un pigmento fotorreceptor verde de los cloroplastos. La clorofila posee un átomo central de magnesio. La clorofila absorbe fotones solares y sirve para impulsar la fotosíntesis vegetal.
+El ADN es una macromolécula biológica de doble hélice que almacena la información genética de los seres vivos. Contiene secuencias de nucleótidos que codifican proteínas celulares. Además, sirve para transmitir la herencia biológica entre generaciones.
+La neurona es una célula especializada del sistema nervioso que procesa y transmite impulsos bioeléctricos. Posee dendritas receptoras, un soma celular y un axón conductor. Se comunica con otras células mediante enlaces llamados sinapsis.
+La mitocondria es un orgánulo celular encargado de producir la mayor parte de la energía de la célula. Genera trifosfato de adenosina mediante la respiración celular aeróbica. Además, posee su propio material genético mitocondrial.
+La penicilina es un antibiótico betalactámico descubierto por Alexander Fleming a partir del hongo Penicillium. Destruye la pared celular de las bacterias patógenas durante su división. Sirve para tratar infecciones bacterianas graves en medicina humana.
+El ribosoma es un complejo macromolecular de ARN y proteínas presente en el citoplasma celular. Lee las instrucciones del ARN mensajero para ensamblar aminoácidos en orden exacto. Sirve para sintetizar todas las proteínas que necesita el organismo.
+El ARN mensajero es una molécula de cadena sencilla que copia la información genética desde el ADN nuclear. Transporta el código genético hacia los ribosomas del citoplasma celular. Sirve para dirigir la síntesis de proteínas y desarrollar vacunas modernas.
+Los animales herbívoros comen plantas, hierbas, hojas y frutos.
+Los animales carnívoros cazan a otras criaturas para alimentarse con carne.
+Los mamíferos nacen del vientre materno y beben leche al nacer.
+Las aves nacen de huevos, tienen plumas ligeras y casi todas pueden volar.
+Los peces respiran bajo el agua utilizando branquias especiales.
+Los insectos tienen seis patas y muchos poseen alas para desplazarse rápido.
+La célula es la unidad anatómica, funcional y de origen de todos los seres vivos sobre el planeta.
+Todos los organismos biológicos están constituidos por una o por millones de células organizadas.
+Los organismos unicelulares como las bacterias y las amebas están formados por una única célula independiente.
+Los organismos pluricelulares como las plantas, los hongos y los animales están compuestos por células diferenciadas en tejidos y órganos.
+La membrana celular envuelve a la célula, protege su contenido interno y regula la entrada de nutrientes y la salida de desechos.
+El citoplasma es el medio acuoso gelatinoso donde se encuentran inmersos los orgánulos celulares.
+El núcleo celular contiene el material genético con las instrucciones del desarrollo y la herencia biológica.
+Las mitocondrias son los orgánulos encargados de producir la energía celular mediante la respiración celular.
+El reino vegetal comprende organismos multicelulares capaces de producir su propia materia orgánica.
+Las plantas son seres autótrofos que fabrican azúcares mediante el proceso biológico de la fotosíntesis.
+Las raíces de las plantas se extienden en la tierra para fijar el tallo y absorber agua con minerales disueltos.
+La savia bruta asciende por los conductos del tallo hasta alcanzar las hojas verdes.
+Las hojas contienen clorofila, un pigmento verde que atrapa los fotones de la luz del sol.
+Las hojas toman dióxido de carbono de la atmósfera a través de pequeños poros microscópicos llamados estomas.
+Mediante la fotosíntesis, la energía solar transforma el agua y el dióxido de carbono en glucosa nutricia.
+Durante este proceso fotosintético vital, las plantas liberan oxígeno puro al aire que respiran los animales.
+Los animales constituyen el reino animal y son organismos eucariotas heterótrofos que deben alimentarse de otros seres.
+Los animales herbívoros como el venado, la vaca y el conejo se alimentan exclusivamente de vegetales, hojas y frutos.
+Los animales carnívoros como el león, el águila y el lobo cazan y se alimentan de la carne de otros animales.
+Los animales omnívoros como el ser humano, el oso y el cuervo consumen tanto materia vegetal como animal.
+Las cadenas tróficas muestran el flujo de energía alimentaria a través de los diferentes niveles de un ecosistema.
+Los productores primarios son las plantas verdes que transforman la energía lumínica en biomasa.
+Los consumidores primarios son los herbívoros que se alimentan de los productores vegetales.
+Los consumidores secundarios son los carnívoros y depredadores que se alimentan de los herbívoros.
+Los descomponedores son las bacterias y los hongos que degradan la materia orgánica muerta y devuelven los minerales al suelo fértil.
+El cuerpo humano es un organismo complejo constituido por varios sistemas de órganos coordinados.
+El corazón es un órgano muscular hueco que late rítmicamente bombeando la sangre por arterias y venas.
+El sistema respiratorio permite el intercambio gaseoso entre el organismo y el medio ambiente exterior.
+Al inhalar aire, los pulmones absorben oxígeno y lo transfieren a los glóbulos rojos de la sangre.
+Al exhalar, los pulmones expulsan el dióxido de carbono producido por el metabolismo de las células.
+El sistema digestivo descompone los alimentos en sustancias simples para que puedan ser asimiladas.
+El cerebro es el centro de control del sistema nervioso y procesa los estímulos sensoriales, la memoria y el pensamiento.
+Un ecosistema es el conjunto de seres vivos que habitan un lugar físico determinado y las relaciones que establecen entre sí y con su entorno inanimado.
+El medio físico comprende factores abióticos como la luz solar, la temperatura, el agua, el aire y el suelo mineral.
+La biosfera es la capa del planeta tierra donde se desarrolla y sostiene toda la diversidad de la vida.
+El ciclo hidrológico del agua es continuo: el sol calienta el agua marina, esta se evapora, forma nubes en la atmósfera, precipita en forma de lluvia o nieve sobre los continentes, y los ríos devuelven el agua a los mares.
+La conservación de los bosques y selvas es fundamental para regular el clima global y preservar la biodiversidad de la tierra.
+el pino es un árbol de hojas verdes
+rosa pertenece al conjunto de las flores
+la rosa es una flor aromática
+girasol pertenece al conjunto de las flores
+el girasol es una flor amarilla que sigue al sol
+todo pez vive en el agua
+los peces viven dentro del agua
+con la piel sentimos lo frío, lo caliente, lo suave y lo áspero
+el tacto nos avisa del dolor y del contacto físico
+la nariz es el órgano del olfato y percibe los olores del aire
+con la nariz olemos los aromas agradables y desagradables
+el olfato identifica sustancias en el aire al respirar
+la lengua es el órgano del gusto y saborea los alimentos
+con la lengua saboreamos lo dulce, lo salado, lo ácido y lo amargo
+el gusto nos ayuda a elegir alimentos saludables

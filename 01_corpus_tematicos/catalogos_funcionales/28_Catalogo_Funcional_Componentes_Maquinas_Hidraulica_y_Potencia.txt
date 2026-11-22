@@ -1,0 +1,270 @@
+El devanado induce fuerzas electromotrices ante variaciones del flujo magnético mediante espiras de cobre esmaltado con el efecto de transformar tensiones.
+El devanado sufre cortocircuito irreversible ante sobrecalentamiento térmico cuando la rotura dieléctrica del barniz funde el aislamiento entre espiras.
+El estator aloja las bobinas inductoras fijas ante la alimentación trifásica mediante ranuras en el núcleo magnético con el efecto de generar un campo magnético rotativo.
+El estator padece una degradación irreversible por sobrecorriente cuando la acumulación de calor calcina el devanado fijo paralizando el motor.
+El rotor gira concéntricamente ante el par electromagnético inducido mediante barras conductoras en cortocircuito con el efecto de entregar potencia mecánica al eje.
+El rotor experimenta desbalanceo dinámico irreversible cuando la rotura de una barra de jaula induce vibraciones severas que rozan contra el estator.
+La escobilla transmite corriente continua ante la rotación del inducido mediante contacto friccional de grafito con el efecto de alimentar las delgas del colector.
+La escobilla sufre desgaste abrasivo irreversible cuando el chisporroteo continuo erosiona el bloque de carbón interrumpiendo el circuito eléctrico.
+El colector conmuta las corrientes de armadura ante cada semiciclo de giro mediante delgas de cobre aisladas con el efecto de rectificar el par mecánico generado.
+El colector experimenta cortocircuito irreversible cuando la acumulación de polvo conductor carboniza la mica entre delgas desatando fuego circular.
+La subestación adecúa niveles de alta tensión ante el transporte de energía mediante transformadores de potencia con el efecto de alimentar redes de distribución.
+La subestación sufre un apagón sistémico irreversible cuando una sobretensión atmosférica supera los descargadores destruyendo las celdas blindadas.
+El seccionador aísla tramos de línea eléctrica ante labores de mantenimiento mediante apertura visible de cuchillas con el efecto de garantizar corte seguro.
+El seccionador queda soldado de modo irreversible ante apertura errónea bajo carga cuando un arco eléctrico masivo vaporiza los contactos mecánicos.
+El pararrayos desvía descargas atmosféricas ante sobretensiones de rayo mediante varistores de óxido de zinc con el efecto de derivar la energía a tierra.
+El pararrayos se destruye de modo irreversible ante un impacto de energía desmedida cuando la sobretensión perfora en cortocircuito los bloques cerámicos.
+El embarrado distribuye corrientes de gran intensidad ante derivaciones múltiples mediante pletinas rígidas de cobre con el efecto de alimentar celdas.
+El embarrado sufre deformación plástica irreversible ante esfuerzos electrodinámicos de cortocircuito cuando fuerzas repulsivas doblan las barras de soporte.
+La manguera conduce fluido oleohidráulico a alta presión ante movimientos de actuadores mediante trenzado de acero reforzado con el efecto de transmitir potencia.
+La manguera revienta con desgarro irreversible ante picos de sobrepresión cuando el envejecimiento del caucho debilita la malla metálica exterior.
+El tanque almacena hidrocarburos y fluidos de trabajo ante ciclos de demanda mediante envolvente cilíndrica de acero con el efecto de asegurar reserva.
+El tanque sufre colapso estructural irreversible por implosión cuando el drenaje rápido de líquido sin venteo adecuado genera vacío interno.
+La cisterna transporta cargas líquidas a granel ante traslados por carretera mediante compartimentos estancos con rompeolas con el efecto de limitar el oleaje.
+La cisterna sufre vuelco con rotura irreversible cuando la sobrecarga de líquido induce el balanceo descontrolado de la masa móvil en curva.
+La esclusa nivela cotas de agua navegables ante desniveles fluviales mediante compuertas y válvulas de llenado con el efecto de franquear el paso a barcos.
+La esclusa queda inoperativa con bloqueo irreversible cuando la rotura de los pistones hidráulicos impide la apertura estanca de los portones.
+El vertedero alivia excedentes de caudal ante crecidas extraordinarias mediante labio de derrame libre con el efecto de preservar la integridad de la presa.
+El vertedero padece socavación irreversible en el cuenco amortiguador cuando caudales torrenciales desbordan la solera de hormigón armado.
+El sifón trasvasa líquido salvando desniveles topográficos ante gradientes de presión hidrostática mediante cebado continuo con el efecto de drenar vasos.
+El sifón interrumpe el flujo de modo irreversible cuando la entrada de una bolsa de aire en el vértice quiebra la continuidad de la columna líquida.
+La boya señaliza canales navegables y monitoriza corrientes ante el oleaje marítimo mediante flotador lastrado con el efecto de guiar embarcaciones.
+La boya sufre deriva incontrolada con pérdida irreversible cuando el esfuerzo cíclico del oleaje rompe el grillete de la cadena de fondeo.
+El timón orienta el rumbo de navegación ante la fuerza hidrodinámica del flujo mediante pala deflectora articulada con el efecto de generar momento de giro.
+El timón sufre bloqueo mecánico irreversible cuando la deformación por impacto de la mecha traba la limera impidiendo gobernar el buque.
+La hélice convierte par rotativo en empuje axial ante el par del motor mediante palas de paso helicoidal con el efecto de propulsar el buque.
+La hélice padece cavitación severa con erosión irreversible cuando el régimen de giro excesivo desgarra el metal en los bordes de salida.
+La quilla aporta rigidez longitudinal y estabilidad ante esfuerzos de flexión mediante viga estructural principal con el efecto de sostener la cuaderna.
+La quilla sufre fractura catastrófica irreversible ante varada en roca cuando el peso del buque parte la estructura maestra del casco.
+El lastrado ajusta el calado y asiento ante descargas de mercancía mediante bombeo de agua marina a tanques de doble fondo con el efecto de dar estabilidad.
+El lastrado asimétrico provoca escora con peligro irreversible de zozobra cuando una válvula de fondo atascada desborda un solo tanque lateral.
+La paleta desplaza volumen de fluido ante la rotación del rotor excéntrico mediante deslizamiento radial en ranuras con el efecto de generar presión.
+La paleta sufre rotura por flexión irreversible cuando impurezas sólidas en el aceite traban su desplazamiento dentro de la pista del estator.
+El álabe desvía la corriente de vapor o gas ante gradientes de entalpía mediante perfil aerodinámico curvado con el efecto de transformar energía en par.
+El álabe se desintegra con rotura irreversible por fatiga térmica cuando sobretemperaturas prolongadas inducen microfisuras en la raíz de anclaje.
+El pistón comprime la mezcla gaseosa ante la carrera ascendente mediante carrera guiada en el cilindro con el efecto de transmitir la fuerza de combustión.
+El pistón sufre gripado mecánico irreversible cuando la rotura de la película de aceite funde la falda de aluminio contra la camisa.
+La biela articula el movimiento lineal alternativo ante el empuje del pistón mediante casquillos de pie y cabeza con el efecto de transferir par al cigüeñal.
+La biela se quiebra con perforación irreversible del bloque motor cuando una fuerza de sobreaceleración extrema dobla la espiga central.
+El cigüeñal convierte el empuje periódico de los pistones ante las carreras motrices mediante muñequillas acodadas con el efecto de entregar par de giro.
+El cigüeñal padece rotura por torsión irreversible cuando esfuerzos armónicos no amortiguados superan el límite de resistencia a la fatiga del acero.
+El árbol transmite potencia mecánica rotacional ante cargas de par motor mediante sección cilíndrica de alta resistencia con el efecto de accionar máquinas.
+El árbol experimenta cizalladura catastrófica irreversible cuando un bloqueo imprevisto aguas abajo supera su par torsional de rotura.
+La leva transforma movimiento circular en desplazamiento lineal periódico ante el giro del árbol mediante perfil excéntrico con el efecto de abrir válvulas.
+La leva sufre picado abrasivo irreversible cuando la pérdida de lubricante desgasta la cúspide del perfil reduciendo el alzado de la válvula.
+El engranaje transmite movimiento y par sin deslizamiento ante acoplamientos mecánicos mediante dentado conjugado con el efecto de variar velocidades.
+El engranaje experimenta fractura de dientes irreversible ante sobrecargas de choque cuando la fatiga en la base del diente rompe el metal.
+El piñón engrana con ruedas mayores ante etapas de reducción mediante dentado tallado con el efecto de multiplicar el par resistente.
+El piñón se desdenta de forma irreversible ante arranques bruscos cuando el esfuerzo de cizalla supera la tenacidad del tratamiento térmico.
+La cremallera convierte giro en avance lineal directo ante direcciones de vehículos mediante barra prismática dentada con el efecto de orientar ruedas.
+La cremallera sufre holgura con atasco irreversible cuando el desgaste del dentado central produce juego muerto peligroso en la dirección.
+El cojinete soporta cargas radiales y axiales ante rotaciones continuas mediante película lubricante hidrodinámica con el efecto de minimizar rozamientos.
+El cojinete se funde con daño irreversible ante fallo de engrase cuando la fricción seca eleva la temperatura soldando el metal antifricción al muñón.
+El rodamiento guía ejes en rotación ante cargas combinadas mediante pistas templadas y bolas de acero con el efecto de reducir la resistencia al giro.
+El rodamiento padece desconchado superficial irreversible por fatiga de contacto cuando millones de ciclos deforman las pistas de rodadura.
+La junta sella uniones embridadas ante presiones internas mediante deformación elastomérica o metálica con el efecto de impedir fugas de fluido.
+La junta revienta con pérdida irreversible de estanqueidad cuando un apriete irregular de pernos permite el escape de vapor a alta presión.
+El retén retiene el lubricante líquido ante rotaciones de ejes mediante labio elástico comprimido por muelle con el efecto de evitar goteos al exterior.
+El retén se cristaliza con agrietamiento irreversible ante temperaturas extremas perdiendo la elasticidad y desatando el vaciado de la carcasa.
+El prensaestopas asegura la estanqueidad axial en vástagos y ejes ante fluidos corrosivos mediante empaquetadura trenzada con el efecto de cerrar fugas.
+El prensaestopas quema la empaquetadura con holgura irreversible cuando un apriete excesivo calienta y raya la superficie pulida del vástago.
+El manómetro monitoriza la presión manométrica interna ante circuitos presurizados mediante deformación elástica de un tubo de Bourdon con el efecto de indicar bares.
+El manómetro queda falseado con descalibración irreversible ante golpes de ariete cuando la sobrepresión deforma permanentemente el tubo sensor.
+El caudalímetro cuantifica el gasto volumétrico ante conducciones hidráulicas mediante turbina o sensor electromagnético con el efecto de registrar litros por segundo.
+El caudalímetro se obtura de modo irreversible cuando sedimentos o limos acumulados traban el rodete sensor impidiendo la medición de flujo.
+El termostato regula circuitos de refrigeración ante ascensos térmicos mediante cápsula de cera dilatable con el efecto de abrir paso al radiador.
+El termostato queda agarrotado en cierre con sobrecalentamiento irreversible del motor cuando la pérdida de cera impide la apertura del paso.
+El presostato conmuta contactos eléctricos de control ante variaciones de presión mediante diafragma calibrado con el efecto de gobernar bombas.
+El presostato descalibra sus umbrales de modo irreversible cuando la fatiga del muelle antagónico bloquea la orden de desconexión del compresor.
+El acumulador almacena energía hidráulica potencial ante picos de demanda mediante vejiga precargada con nitrógeno con el efecto de amortiguar pulsos.
+El acumulador pierde capacidad con parada irreversible del sistema cuando la rotura de la vejiga de elastómero mezcla el gas con el aceite.
+El condensador licúa vapores calientes a la salida de la turbina ante agua refrigerante mediante haces de tubos con el efecto de restablecer agua pura.
+El condensador padece incrustación severa con caída irreversible del vacío cuando la acumulación de algas o cal bloquea la transferencia térmica.
+El inductor almacena energía magnética ante variaciones de corriente mediante bobina sobre núcleo ferrítico con el efecto de filtrar rizado eléctrico.
+El inductor satura su núcleo con pérdida irreversible de reactancia cuando corrientes excesivas anulan la permeabilidad disparando la intensidad.
+El diodo rectifica corrientes alternas ante polarizaciones periódicas mediante unión semiconductora p-n con el efecto de permitir paso en un solo sentido.
+El diodo sufre cortocircuito irreversible por avalancha cuando una sobretensión inversa de pico perfora la barrera de potencial de silicio.
+El puente rectificador convierte ondas completas alternas ante cuatro diodos interconectados con el efecto de suministrar corriente continua estable.
+El puente rectificador se destruye con daño irreversible cuando el cortocircuito de una rama transmite corriente alterna a la carga continua sensible.
+El transformador modifica niveles de voltaje alterno ante inducción electromagnética mediante devanados acoplados con el efecto de minimizar pérdidas.
+El transformador sufre explosión interna irreversible cuando la degradación química del aceite aislante desata un arco eléctrico de potencia.
+El autotransformador regula tensiones con menor tamaño ante devanado único con tomas intermedias con el efecto de arrancar motores con suavidad.
+El autotransformador transfiere la alta tensión de modo irreversible al circuito secundario si ocurre una rotura física en el punto común a tierra.
+El aislador soporta conductores de alta tensión ante torres metálicas mediante campanas de vidrio o porcelana con el efecto de impedir fugas a tierra.
+El aislador sufre contorneamiento destructivo irreversible cuando la niebla salina depositada sobre la superficie desata un arco eléctrico a tierra.
+El fusible interrumpe sobreintensidades peligrosas ante cortocircuitos mediante fusión térmica de una lámina calibrada con el efecto de salvar la instalación.
+El fusible funde con corte irreversible y seguro del circuito cuando la corriente excede el umbral de disparo por sobrecarga franca.
+El disyuntor abre circuitos bajo carga de cortocircuito ante disparos relé mediante soplado magnético de arco con el efecto de aislar fallas de red.
+El disyuntor padece soldadura irreversible de contactos cuando la capacidad de corte del mecanismo resulta rebasada por el cortocircuito.
+El telerruptor conmuta circuitos de potencia ante pulsos de mando breves mediante leva biestable y trinquete con el efecto de mantener el estado sin consumo.
+El telerruptor queda trabado de forma irreversible cuando el agarrotamiento mecánico del trinquete impide alternar la posición de los contactos.
+El contactor gobierna motores eléctricos ante señales de control mediante electroimán y contactos de potencia con el efecto de maniobrar cargas pesadas.
+El contactor sufre erosión galvánica irreversible en sus polos cuando arcos de apertura repetidos carcomen las pastillas de plata.
+El relé aísla galvánicamente circuitos de mando ante corrientes de bobina mediante basculamiento de armadura con el efecto de conmutar señales débiles.
+El relé falla con corte irreversible cuando la quemadura de la bobina de excitación por sobretensión impide atraer la armadura móvil.
+El tiristor controla grandes potencias ante pulsos en su electrodo de puerta mediante bloqueo en cuatro capas con el efecto de conmutar en directo.
+El tiristor sufre disparo incontrolado irreversible cuando una pendiente de tensión excesiva dv/dt activa la conducción sin señal de puerta.
+El triac modula corriente en ambos semiciclos ante ondas alternas mediante disparo bidireccional con el efecto de regular brillo y velocidad de motores.
+El triac queda en cortocircuito permanente irreversible cuando la temperatura de unión supera los límites admisibles destruyendo el cristal.
+El varistor recorta picos transitorios de voltaje ante descargas inductivas mediante resistencia no lineal con el efecto de proteger electrónica sensible.
+El varistor se destruye con fragmentación irreversible cuando la energía del transitorio absorbido excede la capacidad térmica de sus discos cerámicos.
+El termistor detecta gradientes térmicos ante calentamientos de bobinas mediante variación óhmica con el efecto de activar protecciones térmicas.
+El termistor pierde calibración de modo irreversible cuando un choque térmico brusco agrieta la perla cerámica alterando su curva de resistencia.
+El disipador evacua calor residual de componentes activos ante elevadas disipaciones mediante aletas de aluminio con el efecto de refrigerar por convección.
+El disipador resulta ineficaz con sobrecalentamiento irreversible del semiconductor si la pasta térmica interfacial se seca y aísla el calor.
+El ventilador fuerza corriente de aire sobre radiadores ante aumentos de temperatura mediante aspas axiales o centrífugas con el efecto de enfriar.
+El ventilador sufre agarrotamiento irreversible de rodamientos cuando el polvo acumulado frena el rotor quemando el bobinado del motor.
+El radiador cede calor del refrigerante al aire ambiental ante ciclos térmicos mediante paneles de tubos aleteados con el efecto de enfriar el motor.
+El radiador padece obstrucción interna irreversible cuando el óxido y los lodos del circuito ciegan los pasos finos de los conductos.
+El intercambiador transfiere energía calorífica entre dos fluidos ante gradientes térmicos mediante placas paralelas de acero con el efecto de recuperar calor.
+El intercambiador sufre mezcla irreversible de fluidos cuando la perforación por picadura de corrosión rompe la pared divisoria interna.
+La caldera genera vapor a alta presión ante combustión continua mediante transferencia a agua desmineralizada con el efecto de alimentar turbinas.
+La caldera padece rotura explosiva catastrófica irreversible si la falta de agua con fuego activo recalienta los tubos hasta colapso plástico.
+El quemador mezcla combustible y comburente ante encendidos de caldera mediante tobera de atomización con el efecto de mantener llama estable.
+El quemador sufre apagado con desprendimiento irreversible de llama cuando un exceso de tiro de aire pulveriza el flujo antes de la ignición.
+La tobera acelera gases a velocidades supersónicas ante expansiones termodinámicas mediante conducto convergente-divergente con el efecto de generar empuje.
+La tobera sufre erosión abrasiva irreversible cuando el flujo de gases a altísima temperatura carcome la garganta reduciendo la expansión.
+El difusor reduce la velocidad de entrada del fluido ante compresores mediante ensanchamiento progresivo con el efecto de elevar la presión estática.
+El difusor padece entrada en pérdida con desprendimiento irreversible de flujo cuando el ángulo de divergencia excede la estabilidad aerodinámica.
+El compresor eleva la presión de gases ante aportes de trabajo mecánico mediante émbolos o etapas axiales con el efecto de alimentar turbinas.
+El compresor entra en bombeo con pulsación destructiva irreversible cuando la contrapresión excesiva invierte repentinamente el flujo de aire.
+La turbina expande gas o vapor caliente ante escalonamientos de álabes mediante caída de entalpía con el efecto de impulsar el generador eléctrico.
+La turbina padece embalamiento con desintegración centrífuga irreversible si la pérdida de carga eléctrica desconecta la regulación de velocidad.
+La bomba impulsa caudales líquidos ante pérdidas de carga de la instalación mediante energía centrífuga con el efecto de elevar presiones en tuberías.
+La bomba sufre cavitación destructiva irreversible en el rodete cuando una presión de aspiración deficiente genera burbujas de vapor corrosivas.
+La voluta recoge el líquido lanzado por el rodete ante la descarga de la bomba mediante carcasa en espiral con el efecto de transformar velocidad en presión.
+La voluta sufre fisura por sobrepresión irreversible ante el cierre brusco de la válvula de impulsión cuando el golpe de ariete fractura el hierro.
+El rodete cede energía cinética al líquido ante la rotación del eje mediante álabes curvados hacia atrás con el efecto de crear gradiente centrífugo.
+El rodete experimenta desequilibrio por corrosión irreversible cuando el desgaste químico desigual de los álabes desata vibraciones violentas.
+El inyector pulveriza combustible a alta presión ante el final de la compresión mediante tobera piezoeléctrica con el efecto de optimizar la combustión.
+El inyector queda goteando con daño irreversible al cilindro cuando la carbonilla acumulada traba la aguja en posición semiabierta.
+El carburador dosifica aire y gasolina ante la depresión en el venturi mediante surtidores calibrados con el efecto de alimentar motores antiguos.
+El carburador sufre desborde con inundación irreversible del colector cuando el flotador de la cuba se perfora y no cierra la aguja.
+La bujía inflama la mezcla comprimida ante el salto de alta tensión mediante arco eléctrico en sus electrodos con el efecto de iniciar la ignición.
+La bujía pierde chispa con fallo irreversible de encendido cuando depósitos de aceite o carbonilla puentean el aislador cerámico central.
+El cilindro guía el desplazamiento del émbolo ante los ciclos térmicos mediante superficie interna rectificada con el efecto de contener la presión.
+El cilindro padece desgaste ovalado irreversible cuando la fricción continuada de los segmentos en frío raya las paredes de la camisa.
+La camisa intercambia calor con el agua de refrigeración ante la combustión mediante cilindro postizo húmedo con el efecto de disipar calor térmico.
+La camisa experimenta picaduras de cavitación irreversible en su cara exterior cuando vibraciones de alta frecuencia erosionan el metal en el agua.
+La culata cierra superiormente los cilindros ante elevadas presiones de combustión mediante fijación por pernos con el efecto de sellar la cámara.
+La culata sufre alabeo térmico irreversible cuando la falta de refrigerante deforma el plano de apoyo quemando la junta de estanqueidad.
+El cárter recoge el aceite lubricante ante el goteo de los componentes en movimiento mediante depósito inferior con el efecto de cebar la bomba de engrase.
+El cárter sufre pérdida masiva irreversible de aceite cuando un impacto en los bajos raja la chapa o el aluminio del fondo del motor.
+El embrague acopla o desacopla la transmisión de potencia ante cambios de marcha mediante fricción de disco contra volante con el efecto de suavizar giros.
+El embrague patina con quema irreversible de forros cuando el desgaste del material friccional elimina la presión de los muelles del plato.
+El diferencial compensa velocidades desiguales en ruedas motrices ante trazados de curva mediante tren de satélites y planetarios con el efecto de virar.
+El diferencial rompe con bloqueo irreversible cuando la pérdida de aceite funde los dientes de los satélites contra el eje de la caja.
+La junta cardán transmite rotación entre ejes desalineados angularmente ante movimientos de suspensión mediante cruceta articulada con el efecto de evitar quiebres.
+La cardán sufre rotura por holgura irreversible cuando la falta de grasa desintegra las agujas de los dados de la cruceta motriz.
+El semieje transfiere par desde el diferencial a la rueda motriz ante aceleraciones mediante barra de acero forjado con el efecto de propulsar el vehículo.
+El semieje se retuerce con fractura irreversible ante un exceso súbito de tracción cuando el esfuerzo de cizalla rebasa la resistencia torsional.
+El buje soporta la rueda montada sobre el rodamiento ante cargas de peso y viraje mediante cuerpo torneado con el efecto de permitir rotación libre.
+El buje sufre deformación irreversible por sobrecalentamiento cuando el colapso del rodamiento interior raya y traba el muñón de la maza.
+La chumacera sostiene árboles rotativos de maquinaria pesada ante esfuerzos radiales mediante casquillo bipartido engrasado con el efecto de guiar ejes.
+La chumacera sufre rayado irreversible del muñón cuando la entrada de partículas de sílice rompe la cuña hidrodinámica de sustentación.
+La válvula intercepta o regula el paso de fluidos ante maniobras operativas mediante obturador móvil con el efecto de controlar presiones y caudales.
+La válvula queda bloqueada de modo irreversible ante corrosión química cuando incrustaciones minerales sueldan el obturador a su asiento.
+El grifo dosifica la salida terminal de agua ante accionamiento manual mediante cierre esférico o de zapata con el efecto de regular el consumo.
+El grifo padece goteo continuo irreversible cuando la erosión por arrastre de sedimentos mella el elastómero de la junta de cierre.
+El obturador cierra el paso del asiento ante el empuje del actuador mediante superficie maquinada con el efecto de garantizar estanqueidad de flujo.
+El obturador sufre desgaste abrasivo irreversible por corte cuando caudales a alta velocidad arrancan metal de los bordes de cierre.
+La compuerta regula caudales de canales abiertos ante niveles de agua mediante tajadera deslizante vertical con el efecto de desaguar embalses.
+La compuerta se traba con bloqueo irreversible en las guías laterales cuando troncos o lodos arrastrados por avenidas vencen el mecanismo tractor.
+El diafragma aísla el fluido corrosivo del mecanismo de mando ante válvulas especiales mediante membrana flexible con el efecto de actuar sin fugas.
+El diafragma se desgarra de forma irreversible ante ciclos repetidos de fatiga liberando el ácido agresivo hacia el cuerpo del actuador.
+El actuador transforma señales neumáticas o hidráulicas en movimiento mecánico ante órdenes de proceso mediante vástago móvil con el efecto de mover válvulas.
+El actuador pierde fuerza de empuje de modo irreversible cuando fugas internas en las juntas del pistón desvían la presión de pilotaje.
+El servomotor posiciona órganos de control con precisión angular ante lazos cerrados mediante codificador integrado con el efecto de corregir rumbos.
+El servomotor sufre descontrol irreversible ante el fallo del sensor de posición girando desbocado hasta hacer tope contra las piezas mecánicas.
+El tacómetro mide la velocidad angular de ejes motrices ante rotaciones mecánicas mediante pulsos magnéticos con el efecto de prevenir sobrevelocidades.
+El tacómetro queda mudo con lectura nula irreversible cuando la pérdida de aislamiento en el cable sensor deja al motor sin protección de embalamiento.
+El dinamómetro cuantifica fuerzas de tracción o par al freno ante ensayos de máquinas mediante deformación elástica de muelles con el efecto de registrar newtons.
+El dinamómetro sufre rotura por sobrecarga irreversible cuando una fuerza de tracción no prevista deforma permanentemente la célula de carga.
+El anemómetro mide la velocidad del viento ante estudios meteorológicos mediante cazoletas giratorias con el efecto de registrar ráfagas de aire.
+El anemómetro se bloquea de modo irreversible durante heladas cuando la acumulación de hielo congela el eje impidiendo la rotación de cazoletas.
+El barómetro indica la presión atmosférica local ante frentes meteorológicos mediante cápsula aneroide con el efecto de anticipar temporales.
+El barómetro pierde calibración con lectura errónea irreversible cuando una pérdida de vacío en la cápsula deprime la aguja indicadora.
+El densímetro determina la gravedad específica de electrolitos ante cargas de batería mediante flotador graduado con el efecto de conocer sulfataciones.
+El densímetro se quiebra de modo irreversible por caída cuando el impacto rompe el tubo de vidrio vertiendo ácido sulfúrico concentrado.
+El viscosímetro evalúa la resistencia al flujo de lubricantes ante temperaturas normalizadas mediante capilar calibrado con el efecto de clasificar grados.
+El viscosímetro falsea lecturas de modo irreversible cuando sedimentos gomosos ensucian el tubo capilar reduciendo artificialmente el paso.
+El termohigrómetro monitoriza temperatura y humedad relativa ante salas de transformadores mediante sensores combinados con el efecto de evitar condensación.
+El termohigrómetro se descalibra de forma irreversible ante vapores disolventes cuando la membrana higroscópica pierde su sensibilidad capacitiva.
+El reóstato varía la resistencia óhmica ante arranques de motores mediante cursor deslizante sobre hilo con el efecto de limitar corrientes iniciales.
+El reóstato sufre corte irreversible de circuito cuando el recalentamiento por sobrecorriente funde el hilo de nicrom en la espira de contacto.
+El potenciómetro modula tensiones de consigna ante controles manuales mediante pista resistiva de carbón con el efecto de ajustar parámetros finos.
+El potenciómetro padece ruidos y cortes irreversibles de señal cuando el polvo abrasivo raya y desgasta la pista resistiva interna.
+El galvanómetro detecta corrientes eléctricas infinitesimales ante puentes de medida mediante cuadro móvil suspendido con el efecto de verificar equilibrio.
+El galvanómetro quema su cuadro móvil de modo irreversible cuando una corriente no limitada rompe el hilo de suspensión de la aguja.
+El amperímetro mide la intensidad que circula por una rama ante consumos de potencia mediante derivador en derivación con el efecto de vigilar sobrecargas.
+El amperímetro sufre destrucción irreversible si se conecta erróneamente en paralelo cuando el cortocircuito pleno funde el instrumento.
+El voltímetro verifica diferencias de potencial ante bornes de circuitos mediante altísima resistencia interna con el efecto de controlar voltajes de red.
+El voltímetro se inutiliza de modo irreversible cuando una sobretensión que supera el aislamiento de escala perfora las resistencias multiplicadoras.
+El vatímetro computa la potencia activa consumida ante cargas inductivas mediante bobinas voltimétrica y amperimétrica con el efecto de registrar vatios.
+El vatímetro quema su bobina de corriente con corte irreversible si la carga conectada supera en diez veces el fondo de escala del aparato.
+El osciloscopio visualiza formas de onda de tensión ante análisis de transitorios mediante barrido en pantalla con el efecto de diagnosticar armónicos.
+El osciloscopio sufre avería de entrada irreversible cuando la conexión directa a alta tensión sin sonda atenuadora destruye el preamplificador.
+El multímetro diagnostica magnitudes eléctricas múltiples ante averías de campo mediante selector rotativo con el efecto de verificar continuidades.
+El multímetro funde su fusible interno de modo irreversible cuando se intenta medir tensión en la escala de resistencia con el circuito energizado.
+La bobina concentra líneas de inducción magnética ante corrientes alternas mediante devanado cilíndrico con el efecto de generar reactancia.
+La bobina sufre perforación de aislamiento irreversible ante arcos de desconexión cuando una tensión inducida extrema perfora las capas interiores.
+El solenoide genera empuje mecánico lineal ante pulsos eléctricos mediante núcleo móvil de hierro dulce con el efecto de disparar pestillos.
+El solenoide se quema con fusión irreversible del hilo de cobre cuando el émbolo queda bloqueado a mitad de carrera consumiendo corriente de choque.
+El electroimán levanta chatarra y piezas ferrosas ante alimentación continua mediante polarización del núcleo con el efecto de suspender toneladas.
+El electroimán suelta la carga con caída catastrófica irreversible si un corte imprevisto de suministro desmagnetiza instantáneamente el núcleo.
+El blindaje confina perturbaciones electromagnéticas ante ruidos de potencia mediante envolvente de acero o cobre con el efecto de proteger señales.
+El blindaje deviene inútil con acoplamiento irreversible de zumbidos cuando la rotura de la conexión de tierra deja la malla flotante.
+La arandela reparte la presión de apriete ante uniones atornilladas mediante disco plano o elástico con el efecto de evitar el aflojamiento por vibración.
+La arandela sufre aplastamiento con deformación plástica irreversible cuando un par de apriete desmedido extingue su capacidad elástica grower.
+El perno une piezas mecánicas pesadas ante tracciones axiales mediante vástago roscado de alta resistencia con el efecto de cerrar ensamblajes.
+El perno padece estiramiento plástico irreversible con rotura súbita cuando tensiones de tracción superan el límite de elasticidad del acero.
+El tornillo sujeta componentes ligeros ante esfuerzos cortantes mediante filete helicoidal autorroscante con el efecto de inmovilizar carcasas.
+El tornillo se descabeza de forma irreversible durante el montaje cuando la llave desgasta la huella hexagonal impidiendo su extracción.
+La tuerca bloquea el avance del perno ante aprietes mecánicos mediante rosca interior calibrada con el efecto de comprimir las piezas acopladas.
+La tuerca se trasrosca con daño irreversible cuando la entrada oblicua o exceso de par desgarra los filetes de la rosca métrica.
+El remache une planchas metálicas estructurales ante esfuerzos de cizalla mediante deformación en frío de la cabeza con el efecto de fijar alas.
+El remache se corta de modo irreversible ante sobrecargas cortantes cuando la fatiga repetida rompe el cuerpo del pasador de aluminio.
+La chaveta transmite par entre árbol y buje ante rotaciones mecánicas mediante encaje en chavetero prismático con el efecto de evitar giros relativos.
+La chaveta se cizalla de forma irreversible ante un bloqueo violento del rodete partiendo la espiga y dejando el eje girando en vacío.
+El pasador posiciona piezas con precisión o cede como fusible ante sobrecargas mediante cuerpo cilíndrico o cónico con el efecto de alinear partes.
+El pasador se deforma con holgura irreversible ante esfuerzos cíclicos cuando el juego mecánico holgado desalinea el conjunto articulado.
+La brida conecta tramos de tubería de alta presión ante ensamblajes de líneas mediante corona de pernos apretados con el efecto de sellar tuberías.
+La brida se alabea con fuga irreversible de vapor cuando el apriete asimétrico de los pernos deforma el cuello de soldadura.
+El racor une tuberías rígidas con flexibles ante circuitos hidráulicos mediante rosca estanca de cono con el efecto de permitir desmontajes rápidos.
+El racor se agrieta con pérdida irreversible de presión cuando el apriete desmedido desboca el cono de estanqueidad de latón.
+El codo desvía el rumbo de la conducción ante trazados de planta mediante curvatura de noventa grados con el efecto de sortear obstáculos.
+El codo sufre perforación por erosión irreversible cuando el impacto turbulento de partículas sólidas en suspensión desgasta el lomo exterior.
+El manguito empalma dos tubos de igual diámetro ante prolongaciones de línea mediante unión roscada o encolada con el efecto de dar continuidad.
+El manguito se raja con inundación irreversible cuando presiones de congelación interna revientan la unión por dilatación del hielo.
+El reductor aminora la velocidad de giro ante motores rápidos mediante trenes epicicloidales con el efecto de multiplicar el par mecánico disponible.
+El reductor se encalla con bloqueo irreversible de engranajes cuando la falta de refrigeración agarrota y funde los satélites en la corona.
+El multiplicador eleva revoluciones ante turbinas eólicas mediante trenes de engranajes de alta velocidad con el efecto de acoplar al alternador.
+El multiplicador sufre rotura catastrófica irreversible cuando ráfagas de viento huracanadas imponen pares que rompen los dientes de alta velocidad.
+El volante de inercia acumula energía cinética rotacional ante impulsos del motor mediante gran masa periférica con el efecto de regular el giro.
+El volante se desintegra con peligro irreversible por fuerza centrífuga cuando el motor se embala superando la velocidad crítica de fractura.
+El amortiguador disipa oscilaciones dinámicas ante irregularidades del terreno mediante fricción viscosa de aceite con el efecto de dar estabilidad.
+El amortiguador pierde su eficacia con rebote irreversible cuando la rotura del retén evacua todo el fluido hidráulico de las cámaras.
+La ballesta soporta cargas pesadas de suspensión ante irregularidades del camino mediante hojas de acero curvadas superpuestas con el efecto de amortiguar.
+La ballesta padece fractura de la hoja maestra con caída irreversible del chasis cuando la corrosión y la sobrecarga superan el límite elástico.
+El muelle restituye la posición mecánica ante compresiones mediante espiras helicoidales elásticas con el efecto de mantener contactos apretados.
+El muelle pierde tensión de modo irreversible por fatiga cuando el calentamiento continuo deforma permanentemente la distancia entre espiras.
+El resorte almacena energía mecánica de deformación ante tracciones o compresiones mediante hilo elástico templado con el efecto de accionar válvulas.
+El resorte se rompe con fallo irreversible del mecanismo cuando la propagación de una microfisura transversal quiebra la espira en servicio.
+La cadena transmite potencia sin resbalamiento ante distancias entre centros mediante eslabones articulados y rodillos con el efecto de arrastrar ejes.
+La cadena se desgaja con rotura irreversible de eslabón cuando la falta de engrase genera desgaste de pasadores y sobreesfuerzo de tracción.
+La polea guía correas de transmisión ante traslados de par mediante garganta trapezoidal maquinada con el efecto de variar relaciones de giro.
+La polea se fisura con descentramiento irreversible cuando el desgaste abrasivo de la correa afila la garganta hasta romper las alas.
+La correa sincroniza árboles de levas ante giros de cigüeñal mediante perfil dentado de caucho sintético con el efecto de asegurar la distribución.
+La correa se desdentada con colisión catastrófica irreversible de pistones contra válvulas si transcurren los kilómetros sin reemplazarla.
+El cable iza cargas pesadas ante grúas y puentes mediante cordones trenzados de acero con el efecto de sostener esfuerzos de tracción pura.
+El cable padece rotura por deshilachado irreversible cuando el doblez continuado sobre poleas de diámetro insuficiente corta los alambres.
+El cabrestante arrastra cargas pesadas ante maniobras de tiro mediante tambor motorizado que enrolla cable con el efecto de remolcar navíos.
+El cabrestante se quema con rotura irreversible del motor cuando el atasco del cabo impone un par resistente que sobrepasa el embrague de tiro.
+El polipasto multiplica la fuerza manual de elevación ante izados de taller mediante combinación de poleas fijas y móviles con el efecto de alzar cargas.
+El polipasto sufre caída de carga con peligro irreversible si el desgaste del trinquete de freno desengrana la cadena bajo carga suspendida.
+El gato eleva maquinaria ante reparaciones de campo mediante multiplicación hidráulica manual con el efecto de calzar estructuras pesadas.
+El gato se deprime con caída irreversible del peso suspendido cuando una viruta en la válvula de retención vacía el aceite de alta presión.
+El freno disipa energía cinética mecánica ante necesidades de parada mediante fricción de zapatas o pastillas con el efecto de inmovilizar ruedas.
+El freno sufre desvanecimiento térmico con pérdida irreversible de frenada cuando la acumulación de calor gasifica el líquido de frenos.
+La pastilla muerde el disco en rotación ante el accionamiento del pistón de freno mediante material de fricción sinterizado con el efecto de frenar.
+La pastilla se agota con rayado irreversible del disco de acero cuando el soporte metálico desnudo roza directamente contra la pista de frenado.

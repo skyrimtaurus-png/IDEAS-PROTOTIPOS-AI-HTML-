@@ -1,0 +1,40 @@
+# CORPUS LIMPIO 20 — PROCESOS ESTOCÁSTICOS, GRAFOS LAPLACIANOS Y FÍSICA ESTADÍSTICA
+# 1. LA DUALIDAD REDES ELÉCTRICAS — CADENAS DE MARKOV (DOYLE & SNELL)
+Existe un isomorfismo matemático exacto y riguroso entre las redes de resistencias eléctricas interconectadas y las cadenas de Markov reversibles en tiempo discreto sobre grafos.
+En una red donde cada arista (u, v) posee una conductancia G_{uv} >= 0, la probabilidad de transición estocástica de un caminante aleatorio desde el nodo u hacia el vecino v es proporcional a la conductancia de la rama: P(u → v) = G_{uv} / Σ_{w} G_{uw}.
+El potencial electrostático Φ(u) en cada nodo intermedio u (con condiciones de frontera Dirichlet fijadas en nodos frontera fuente Φ(fuente) = 1.0 V y nodo meta tierra Φ(meta) = 0.0 V) es matemáticamente idéntico a la probabilidad P_escape(u → meta antes que volver a fuente) de que un caminante aleatorio partiendo de u alcance el nodo meta antes de ser reabsorbido en la fuente.
+La propiedad de valor medio armónico de los potenciales en nodos sin fuentes externas (Φ_u = Σ_v P(u → v) Φ_v) es la formulación discreta de las funciones armónicas que satisfacen la ecuación de Laplace discreta: (L · Φ)_u = 0.
+La corriente eléctrica neta I_{u → v} = G_{uv} · (Φ_u - Φ_v) entre dos nodos adyacentes representa el flujo neto esperado de transiciones de caminantes aleatorios por unidad de tiempo atravesando esa arista en dirección de u a v.
+La Ley de Corrientes de Kirchhoff en un nodo intermedio (Σ_v I_{u → v} = 0) equivale rigurosamente al principio de conservación de la probabilidad de flujo para cualquier estado transitorio de la cadena de Markov.
+Si un nodo o subgrafo no tiene ninguna trayectoria conductiva hacia el nodo meta (circuito abierto), su potencial armónico Φ decae idénticamente a 0.000 V y la corriente de flujo se anula de forma exacta: I = 0.000 A. Esta propiedad física actúa como el candado anti-alucinaciones absoluto en motores neuro-simbólicos de potencial.
+
+# 2. RESISTENCIA EFECTIVA, TIEMPOS DE CONMUTACIÓN Y LAPLACIANO DE GRAFOS
+La matriz Laplaciana combinatoria de un grafo ponderado no dirigido se define como L = D - A, donde D es la matriz diagonal de grados/conductancias totales de cada nodo (D_{uu} = Σ_v G_{uv}) y A es la matriz de adyacencia de conductancias (A_{uv} = G_{uv}).
+El Laplaciano L es una matriz simétrica, semidefinida positiva, con todos sus autovalores reales no negativos (0 = λ_1 <= λ_2 <= ... <= λ_n).
+La multiplicidad del autovalor cero (λ_1 = 0) indica el número exacto de componentes conexas disjuntas del grafo.
+El segundo autovalor más pequeño λ_2 (la conectividad algebraica o brecha espectral de Fiedler) cuantifica la velocidad de difusión del flujo y la dificultad de estrangulamiento o partición del grafo (cuanto mayor sea λ_2, más rápida es la mezcla y convergencia del flujo probabilístico).
+La pseudoinversa de Moore-Penrose del Laplaciano (L^†) permite calcular directamente la Resistencia Efectiva R_eff(u, v) entre cualquier par de nodos arbitrarios u y v mediante la forma cuadrática:
+  R_eff(u, v) = (e_u - e_v)^T · L^† · (e_u - e_v) = L^†_{uu} + L^†_{vv} - 2 L^†_{uv}.
+La Resistencia Efectiva cumple formalmente con todas las propiedades axiomáticas de una métrica de distancia en el grafo: simetría R_eff(u, v) = R_eff(v, u), positividad R_eff(u, v) >= 0 (con igualdad si y solo si u = v), y desigualdad triangular estricta R_eff(u, w) <= R_eff(u, v) + R_eff(v, w).
+El Teorema de Commute Time de Chandra et al. demuestra la equivalencia fundamental entre la resistencia eléctrica y la dinámica de caminatas aleatorias: el tiempo esperado total de ida y vuelta H(u, v) + H(v, u) entre el nodo u y el nodo v es exactamente igual al volumen total de conductancia de la red multiplicado por la resistencia efectiva:
+  CommuteTime(u, v) = H(u, v) + H(v, u) = 2 · M · R_eff(u, v), donde M = Σ_{e} G_e.
+El Teorema del Árbol de Matrices de Kirchhoff (Matrix Tree Theorem) postula que el número total de árboles generadores ponderados (spanning trees) de un grafo es igual a cualquier cofactor principal de la matriz Laplaciana L, o de forma espectral mediante el producto de sus autovalores no nulos: N_arboles = (1/n) · Π_{i=2}^n λ_i.
+
+# 3. PRINCIPIO DE MÍNIMA DISIPACIÓN DE RAYLEIGH Y FORMULACIONES VARIACIONALES
+El Teorema de Thomson postula que la distribución de corrientes en una red que satisface la LCK con una corriente unitaria inyectada en la fuente y extraída en la meta minimiza la disipación total de energía por efecto Joule:
+  Potencia_Joule = Σ_e R_e · I_e^2.
+El Principio de Dirichlet establece que la función de potenciales armónicos Φ que satisface la ecuación de Laplace con valores de frontera fijos minimiza la integral de energía de Dirichlet discreta:
+  Energía(Φ) = (1/2) · Φ^T · L · Φ = (1/2) · Σ_{(u, v)} G_{uv} · (Φ_u - Φ_v)^2.
+El Principio de Monotonicidad de Rayleigh establece que si la resistencia de cualquier rama del circuito se incrementa (o su conductancia disminuye), la resistencia efectiva neta R_eff entre cualquier par de nodos de la red no puede disminuir bajo ninguna circunstancia (∂ R_eff / ∂ R_e >= 0). En un motor probabilístico, añadir resistencia bayesiana beta a una transición dudosa garantiza que la probabilidad de paso por esa vía decrezca monótonamente en toda la red.
+
+# 4. FÍSICA ESTADÍSTICA, MODELOS DE GIBBS Y PROPAGACIÓN DE CREENCIAS
+La distribución de Gibbs-Boltzmann asigna la probabilidad canónica de que un sistema en equilibrio térmico a temperatura absoluta T se encuentre en un microestado s con energía E(s):
+  P(s) = (1 / Z) · e^(-E(s) / (k_B · T)), donde Z = Σ_s e^(-E(s) / (k_B · T)) es la función de partición del sistema.
+La temperatura estadística T modula el compromiso fundamental entre exploración y explotación: a T → 0 (límite congelado), el sistema colapsa deterministamente en el estado de mínima energía (máxima verosimilitud o argmax); a T → ∞, todos los caminos con corriente positiva se equiprobabilizan de forma uniforme.
+La Energía Libre de Helmholtz F = U - T · S combina la energía interna media U y la entropía de Shannon S = -Σ p ln p. El estado de equilibrio termodinámico de la red minimiza la energía libre, equilibrando máxima certidumbre empírica (baja energía) con máxima diversidad de opciones no sesgadas (alta entropía).
+La condición de reversibilidad o balance detallado de una cadena de Markov establece que para todo par de estados u, v: π_u · P(u → v) = π_v · P(v → u), donde π es la distribución estacionaria invariante.
+El Teorema de los Ciclos de Kolmogorov estipula que una cadena de Markov irreducible es reversible si y solo si para todo ciclo cerrado u_1 → u_2 → ... → u_k → u_1 el producto de las probabilidades de transición en sentido horario es exactamente idéntico al producto en sentido antihorario:
+  Π P(u_i → u_{i+1}) = Π P(u_{i+1} → u_i).
+En términos de circuitos eléctricos, la condición de Kolmogorov equivale a la Ley de Mallas de Kirchhoff (LVK) aplicada al logaritmo de las tasas de transición: Σ_malla ln(P_forward / P_backward) = 0.
+El algoritmo de Propagación de Creencias de Judea Pearl (Belief Propagation / Algoritmo Sum-Product) resuelve la inferencia marginal exacta en modelos gráficos probabilísticos estructurados como árboles y poliforestas mediante el paso secuencial de mensajes locales entre nodos contiguos:
+  μ_{u → v}(x_v) = Σ_{x_u} ψ(x_u, x_v) · φ(x_u) · Π_{w ∈ vecinos(u) \ {v}} μ_{w → u}(x_u), evitando la explosión combinatoria exponencial del espacio de estados.

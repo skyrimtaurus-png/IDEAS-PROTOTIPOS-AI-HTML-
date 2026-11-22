@@ -1,0 +1,240 @@
+{
+  "version": "1.2-P7",
+  "descripcion": "Ontologia declarativa monosemica de modificadores dinamicos de segundo orden (COMO ocurre el mecanismo causal). Auditada contra falsos positivos morfologicos (ej. veloc/velocidad, discret/prudente, critica/reproche, parcial/subjetivo) y sin polisemia de sustantivos concretos. Cero contacto con corpus 2.0.",
+  "diadas": [
+    {
+      "id_diada": "REVERSIBILIDAD",
+      "polo_a": {
+        "nombre": "MOD_REVERSIBLE_ELASTICO",
+        "definicion": "Retorno elastico o transitorio al estado previo sin dano permanente al cesar el estimulo.",
+        "prefijos": [
+          "reversibl", "elastic", "rearm", "transitori", "temporal",
+          "provisional", "interin", "recuperabl", "restituibl", "restablec",
+          "retorn", "regres", "devuelv", "devolv", "reabr", "resilien",
+          "reutiliz", "recargabl", "revocabl", "subsanabl", "corregibl",
+          "flexibl", "suspens"
+        ],
+        "palabras_exactas": ["tregua", "muelle", "resorte", "vuelve", "vuelven"]
+      },
+      "polo_b": {
+        "nombre": "MOD_IRREVERSIBLE_PERMANENTE",
+        "definicion": "Trinquete termodinamico, deformacion plastica o destruccion definitiva sin retorno.",
+        "prefijos": [
+          "irreversibl", "permanent", "definitiv", "irrevocabl", "irreparabl",
+          "irremediabl", "irrecuperabl", "trinquet", "unidireccional",
+          "descartabl", "desechabl", "perpetu", "vitalici", "indelebl",
+          "inmutabl", "extincion", "extingu", "letal", "mortal", "necros",
+          "apoptos", "cicatriz", "vitrific", "carboniz", "calcin", "ceniz",
+          "demolic", "aniquil", "destru", "autodestru", "fundicion",
+          "amput", "sacrific", "quemad", "bancarrot"
+        ],
+        "palabras_exactas": ["fatal", "plastica", "plastico", "funde", "funden"]
+      }
+    },
+    {
+      "id_diada": "CINEMATICA_TEMPORAL",
+      "polo_a": {
+        "nombre": "MOD_AGUDO_SUBITO",
+        "definicion": "Pulso instantaneo, choque brusco o disparo abrupto de alta pendiente temporal.",
+        "prefijos": [
+          "subit", "brusc", "abrupt", "instant", "repentin", "inmediat",
+          "fulminant", "explosiv", "estall", "relampag", "rafag", "espasm",
+          "ariet", "destell", "chisp", "transient", "sacudid", "veloz",
+          "rapid", "raud", "precipitad", "microseg", "miliseg", "sorpres",
+          "emergenc", "urgenc", "urgent", "choqu", "impact"
+        ],
+        "palabras_exactas": [
+          "agudo", "aguda", "agudos", "agudas", "golpe", "golpes",
+          "shock", "flash", "breve", "breves", "pico", "picos", "punta"
+        ]
+      },
+      "polo_b": {
+        "nombre": "MOD_CRONICO_ACUMULATIVO",
+        "definicion": "Integracion lenta, fatiga progresiva o persistencia cronica acumulada.",
+        "prefijos": [
+          "cronic", "acumulativ", "paulatin", "gradual", "progresiv",
+          "prolongad", "sostenid", "persistent", "durader", "lentament",
+          "lentitud", "pausad", "secular", "sediment", "fatig", "erosion",
+          "corros", "envejec", "desgast", "incub", "latent", "demorad",
+          "aplaz", "diferid", "plazo", "decada", "siglo", "milen",
+          "mensual", "anual", "trimestr"
+        ],
+        "palabras_exactas": [
+          "lento", "lenta", "lentos", "lentas", "meses", "anos", "semanas"
+        ]
+      }
+    },
+    {
+      "id_diada": "ALCANCE_TOPOLOGICO",
+      "polo_a": {
+        "nombre": "MOD_LOCAL_CONFINADO",
+        "definicion": "Efecto circunscrito a un compartimento, rama, celula o modulo puntual aislado.",
+        "prefijos": [
+          "localiz", "focaliz", "puntual", "acotad", "confinad", "aislad",
+          "encapsulad", "compartiment", "estanc", "hermetic", "periferic",
+          "sectorial", "regional", "municipal", "unitari", "individual",
+          "singular", "circunscrit", "sucursal", "filial", "subred",
+          "intracelular"
+        ],
+        "palabras_exactas": [
+          "local", "locales", "focal", "focales", "unico", "unica", "tramo"
+        ]
+      },
+      "polo_b": {
+        "nombre": "MOD_SISTEMICO_GLOBAL",
+        "definicion": "Propagacion o alcance que compromete el sistema entero, red completa o escala macro.",
+        "prefijos": [
+          "sistemic", "global", "generaliz", "universal", "masiv",
+          "colectiv", "macroeconom", "pandemi", "epidemi", "transversal",
+          "ubicu", "mundial", "nacional", "internacional", "ecosistem",
+          "omnipresent", "poblacion", "comunitari", "mancomun", "totalidad"
+        ],
+        "palabras_exactas": [
+          "integral", "integrales", "entero", "entera", "enteros", "enteras",
+          "completo", "completa", "unanimidad", "unanime"
+        ]
+      }
+    },
+    {
+      "id_diada": "ACOPLAMIENTO_ESTRUCTURAL",
+      "polo_a": {
+        "nombre": "MOD_SERIE_SECUENCIAL",
+        "definicion": "Eslabones encadenados secuencialmente donde cada etapa depende de la previa.",
+        "prefijos": [
+          "secuencial", "consecutiv", "sucesiv", "escalonad", "encadenad",
+          "eslabon", "bloqueant", "monohil", "unifilar", "jerarquic",
+          "predeces", "sucesor", "subsecuent", "serial", "etapa",
+          "intermedi", "relev"
+        ],
+        "palabras_exactas": ["serie", "fila", "turnos", "turno", "cola", "pasos", "fases"]
+      },
+      "polo_b": {
+        "nombre": "MOD_PARALELO_CONCURRENTE",
+        "definicion": "Multiples vias simultaneas independientes o sincronizadas que reparten carga o coordinan.",
+        "prefijos": [
+          "paralel", "simultane", "sincroniz", "unison", "concurrent",
+          "multicanal", "multihil", "multiproces", "multipl", "ramificad",
+          "distribuid", "repart", "compartid", "redundan", "respald",
+          "suplent", "alternativ", "duplicad", "replicad", "bifurc",
+          "descentraliz", "federad", "diversific", "coordin"
+        ],
+        "palabras_exactas": [
+          "malla", "clon", "copias", "ambos", "ambas", "juntos", "juntas",
+          "varios", "varias"
+        ]
+      }
+    },
+    {
+      "id_diada": "LEY_DE_RESPUESTA",
+      "polo_a": {
+        "nombre": "MOD_LINEAL_PROPORCIONAL",
+        "definicion": "Variacion continua, constante, graduada y proporcional a la entrada sin saltos bruscos.",
+        "prefijos": [
+          "lineal", "proporcional", "graduad", "dosific", "modulad",
+          "amortigu", "estabiliz", "uniform", "homogene", "constant",
+          "continuad", "equitativ", "prorrate", "alicuot", "estacionari",
+          "suaviz"
+        ],
+        "palabras_exactas": [
+          "parejo", "pareja", "parejos", "parejas", "estable", "estables"
+        ]
+      },
+      "polo_b": {
+        "nombre": "MOD_DISCONTINUO_UMBRAL",
+        "definicion": "Respuesta no lineal todo-o-nada, escalon binario o avalancha al cruzar umbral.",
+        "prefijos": [
+          "discontinu", "binari", "cuantic", "umbral", "gatill", "dispar",
+          "avalanch", "histeres", "exponencial", "nolineal", "asimetric",
+          "escalon", "ruptur", "saturac", "rebas", "supera", "exced",
+          "minimo", "maximo", "limite"
+        ],
+        "palabras_exactas": [
+          "salto", "saltos", "tope", "topes", "techo", "piso", "corte"
+        ]
+      }
+    },
+    {
+      "id_diada": "FASE_DE_INTERVENCION",
+      "polo_a": {
+        "nombre": "MOD_PREVENTIVO_ANTICIPADO",
+        "definicion": "Intervencion ex-ante mediante profilaxis, margen o anticipacion previa al fallo.",
+        "prefijos": [
+          "preventiv", "preven", "previen", "anticipad", "anticip",
+          "preliminar", "precoz", "tempran", "profilac", "precaut",
+          "precauc", "proactiv", "previs", "vacun", "inmuniz",
+          "cautelar", "adelantad", "precalent", "precarg", "anterior",
+          "potencial", "evitand", "impidiend"
+        ],
+        "palabras_exactas": [
+          "previo", "previa", "previos", "previas", "antes", "evita", "evitar"
+        ]
+      },
+      "polo_b": {
+        "nombre": "MOD_REACTIVO_CORRECTIVO",
+        "definicion": "Intervencion ex-post de rescate, remediacion o curacion una vez producido el dano.",
+        "prefijos": [
+          "reactiv", "correctiv", "corrig", "correg", "rectific", "tardi",
+          "paliativ", "rescat", "auxili", "socorr", "remedi", "subsan",
+          "indemniz", "compens", "curativ", "curacion", "terapeutic",
+          "antidot", "reanim", "rehabilit", "repara", "reconstru",
+          "restaur", "repon", "repuest", "saneam"
+        ],
+        "palabras_exactas": [
+          "posterior", "posteriores", "despues", "postmortem", "cura", "curar"
+        ]
+      }
+    },
+    {
+      "id_diada": "AGENCIA_ENERGETICA",
+      "polo_a": {
+        "nombre": "MOD_ENDOGENO_PASIVO",
+        "definicion": "Mecanismo intrinseco, espontaneo o impulsado por gradiente fisico sin mandato externo.",
+        "prefijos": [
+          "endogen", "espontane", "intrinsec", "inherent", "innat",
+          "automatic", "autorregul", "autoregul", "autolimit", "autocatal",
+          "autoorganiz", "inercial", "osmotic", "osmos", "difusion",
+          "conveccion", "homeost", "gravedad", "gravitatori", "capilar",
+          "pasivament", "gradiente"
+        ],
+        "palabras_exactas": ["implicito", "implicita"]
+      },
+      "polo_b": {
+        "nombre": "MOD_EXOGENO_ACTIVO",
+        "definicion": "Mecanismo forzado desde fuera mediante bombeo energetico, inyeccion o mandato.",
+        "prefijos": [
+          "exogen", "forzad", "forzar", "forzand", "oblig", "impon",
+          "impuest", "decret", "mandat", "prohib", "exig", "inducid",
+          "artificial", "extern", "asistid", "bombe", "inyect", "inyeccion",
+          "motoriz", "subsidi", "intervencion", "intervien", "sancion",
+          "multa"
+        ],
+        "palabras_exactas": [
+          "exterior", "exteriores", "manual", "fuerza", "ley"
+        ]
+      }
+    },
+    {
+      "id_diada": "SELECTIVIDAD_DE_BLANCO",
+      "polo_a": {
+        "nombre": "MOD_SELECTIVO_ESPECIFICO",
+        "definicion": "Reconocimiento fino tipo llave-cerradura o filtro discriminante dirigido al objetivo.",
+        "prefijos": [
+          "selectiv", "especific", "exclusiv", "personaliz", "individualiz",
+          "diferencial", "quirurgic", "afinidad", "receptor", "ligando",
+          "anticuerp", "semipermeabl", "credencial", "autentic", "priorit",
+          "dirigid", "destinad"
+        ],
+        "palabras_exactas": ["diana", "llave"]
+      },
+      "polo_b": {
+        "nombre": "MOD_INDISCRIMINADO_DIFUSO",
+        "definicion": "Accion ciega, estocastica o de barrido uniforme sin distinguir entre elementos.",
+        "prefijos": [
+          "indiscriminad", "difus", "generic", "aleatori", "estocastic",
+          "azaros", "ciegament", "barrid", "promiscu", "cualquier"
+        ],
+        "palabras_exactas": ["azar", "ciego", "ciega", "ciegos", "ciegas"]
+      }
+    }
+  ]
+}

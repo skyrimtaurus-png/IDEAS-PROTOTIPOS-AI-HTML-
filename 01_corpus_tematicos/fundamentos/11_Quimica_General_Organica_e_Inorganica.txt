@@ -1,0 +1,116 @@
+# CORPUS LIMPIO 11 — QUÍMICA GENERAL, INORGÁNICA, ORGÁNICA Y ESTEQUIOMETRÍA
+# 1. ESTRUCTURA ATÓMICA, MODELOS Y CONFIGURACIÓN ELECTRÓNICA
+El átomo está constituido por un núcleo central denso de protones y neutrones rodeado por una nube extranuclear de electrones distribuidos en orbitales probabilísticos.
+El número atómico Z define la cantidad de protones en el núcleo y determina unívocamente la identidad del elemento químico en la tabla periódica.
+El número másico A es la suma de protones y neutrones presentes en el núcleo atómico (A = Z + N).
+Los isótopos son átomos del mismo elemento químico que poseen idéntico número atómico Z pero diferente número de neutrones N y por tanto distinto número másico A (ejemplo: protio ¹H, deuterio ²H y tritio ³H).
+La masa atómica relativa de un elemento es el promedio ponderado de las masas de sus isótopos naturales según su abundancia relativa porcentual en la Tierra.
+El modelo atómico cuántico moderno se fundamenta en la ecuación de onda de Schrödinger, donde los electrones no siguen órbitas circulares fijas sino regiones de probabilidad denominadas orbitales atómicos (s, p, d, f).
+Los cuatro números cuánticos que describen un electrón son: principal n (nivel de energía: 1, 2, 3...), secundario o azimutal l (forma del orbital: s=0, p=1, d=2, f=3), magnético m_l (orientación espacial: de -l a +l) y de espín m_s (+1/2 o -1/2).
+El principio de exclusión de Pauli establece que en un mismo átomo no pueden existir dos electrones con los cuatro números cuánticos idénticos; un orbital puede albergar un máximo de 2 electrones con espines opuestos.
+El principio de Aufbau dicta que los electrones llenan los orbitales atómicos en orden creciente de energía (diagrama de Moeller: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s...).
+La regla de Hund establece que al llenar orbitales degenerados de igual energía (como los tres orbitales p), los electrones se distribuyen con espines paralelos en orbitales separados antes de aparearse.
+
+# 2. TABLA PERIÓDICA, GRUPOS Y PROPIEDADES PERIÓDICAS
+La tabla periódica moderna organiza los 118 elementos conocidos en orden creciente de su número atómico Z, distribuidos en 7 periodos horizontales y 18 grupos o familias verticales.
+El grupo 1 comprende los metales alcalinos (Li, Na, K, Rb, Cs, Fr): poseen un electrón de valencia s¹, baja densidad, bajo punto de fusión y extrema reactividad con agua formando hidróxidos e hidrógeno.
+El grupo 2 comprende los metales alcalinotérreos (Be, Mg, Ca, Sr, Ba, Ra): configuración s², divalentes (+2), menos reactivos que los alcalinos pero oxidables fácilmente.
+Los grupos 3 al 12 constituyen los metales de transición: presentan orbitales d incompletos, múltiples estados de oxidación variables, forman compuestos coloreados y complejos de coordinación.
+Los lantánidos (Z=57 a 71) y actínidos (Z=89 a 103) constituyen los elementos de transición interna o tierras raras, caracterizados por el llenado progresivo de orbitales f.
+El grupo 16 comprende los anfígenos o calcógenos (O, S, Se, Te, Po): configuración s²p⁴, con estados de oxidación típicos -2, +4 y +6.
+El grupo 17 comprende los halógenos (F, Cl, Br, I, At): configuración s²p⁵, altamente electronegativos, forman sales halogenuros con metales (estado de oxidación -1) y existen como moléculas diatómicas (F2, Cl2 gases; Br2 líquido; I2 sólido).
+El grupo 18 comprende los gases nobles (He, Ne, Ar, Kr, Xe, Rn): capa de valencia completa con octeto estable (s²p⁶, excepto He con 1s²), energía de ionización máxima y reactividad química casi nula en condiciones estándar.
+El radio atómico disminuye de izquierda a derecha a lo largo de un periodo debido al aumento de la carga nuclear efectiva que atrae más a los electrones, y aumenta de arriba hacia abajo en un grupo por la adición de nuevos niveles de energía.
+La energía de ionización es la energía mínima requerida para arrancar un electrón de un átomo neutro gaseoso en su estado fundamental; aumenta hacia la derecha en un periodo y hacia arriba en un grupo.
+La afinidad electrónica es la energía liberada o absorbida cuando un átomo neutro en estado gaseoso acepta un electrón para formar un anión monovalente.
+La electronegatividad mide la capacidad relativa de un átomo para atraer hacia sí el par de electrones compartidos en un enlace químico; según la escala de Pauling el flúor es el elemento más electronegativo (4,0) y el cesio/francio el menor (~0,7).
+
+# 3. ENLACE QUÍMICO Y FUERZAS INTERMOLECULARES
+La regla del octeto establece que los átomos tienden a ganar, perder o compartir electrones hasta alcanzar una configuración estable con 8 electrones en su capa de valencia (isoelectrónica con un gas noble).
+El enlace iónico se produce por transferencia completa de uno o más electrones desde un metal de baja electronegatividad hacia un no metal de alta electronegatividad (diferencia de electronegatividad ΔEN > 1,7), formando cationes y aniones unidos por atracción electrostática reticular (ejemplo: NaCl, MgO).
+Los compuestos iónicos son sólidos cristalinos duros pero frágiles, con altos puntos de fusión y ebullición, solubles en disolventes polares como el agua, y conductores de electricidad en estado fundido o disuelto, pero aislantes en estado sólido.
+El enlace covalente se forma por la compartición de pares de electrones entre átomos no metálicos de electronegatividades similares.
+El enlace covalente es no polar o apolar cuando los electrones se comparten equitativamente entre átomos iguales o de diferencia ΔEN < 0,4 (ejemplo: H2, O2, CH4).
+El enlace covalente es polar cuando existe una diferencia moderada de electronegatividad (0,4 ≤ ΔEN ≤ 1,7), generando dipolos eléctricos permanentes con densidad de carga parcial positiva δ+ y negativa δ- (ejemplo: H2O, HCl).
+El enlace covalente coordinado o dativo ocurre cuando el par de electrones compartidos es aportado enteramente por uno solo de los átomos enlazantes (ejemplo: ion amonio NH4+, monóxido de carbono CO).
+El enlace metálico une átomos de metales formando una red tridimensional de cationes inmersos en un 'mar de electrones' deslocalizados, lo que explica su alta conductividad eléctrica, térmica, maleabilidad y ductilidad.
+La teoría de repulsión de pares de electrones de la capa de valencia (RPECV) predice la geometría molecular: lineal (180°, BeCl2, CO2), trigonal plana (120°, BF3), tetraédrica (109,5°, CH4), piramidal trigonal (107°, NH3) y angular (104,5°, H2O).
+La hibridación de orbitales atómicos describe la mezcla de orbitales puros para formar orbitales híbridos equivalentes: sp (lineal, 180°), sp² (trigonal plana, 120°) y sp³ (tetraédrica, 109,5°).
+Las fuerzas de Van der Waals son interacciones intermoleculares débiles que incluyen las fuerzas dipolo-dipolo (entre moléculas polares), fuerzas de dispersión de London (fluctuaciones instantáneas en moléculas apolares) y dipolo-dipolo inducido.
+El puente de hidrógeno es una interacción intermolecular atractiva especialmente intensa que ocurre cuando un átomo de hidrógeno unido covalentemente a un átomo muy electronegativo y pequeño (F, O, N) es atraído por el par solitario de otro átomo de F, O o N cercano.
+Los puentes de hidrógeno explican el elevado punto de ebullición del agua líquida, su dilatación anómala al congelarse (hielo menos denso que el agua líquida) y la estabilidad estructural de la doble hélice del ADN.
+
+# 4. NOMENCLATURA INORGÁNICA Y REACCIONES FUNDAMENTALES
+El estado de oxidación o número de oxidación representa la carga eléctrica formal aparente que adquiere un átomo al formar enlaces si los electrones se asignasen al elemento más electronegativo.
+Reglas del estado de oxidación: el oxígeno actúa con -2 (excepto en peróxidos con -1 y con flúor con +2); el hidrógeno actúa con +1 (excepto en hidruros metálicos con -1); los elementos libres en estado puro tienen oxidación 0; la suma de estados de oxidación en una molécula neutra es 0 y en un ion poliatómico es igual a su carga neta.
+Los óxidos básicos se forman por combinación de un metal con oxígeno (ejemplo: Na2O, CaO, Fe2O3) y al reaccionar con agua producen hidróxidos o bases.
+Los óxidos ácidos o anhídridos se forman por combinación de un no metal con oxígeno (ejemplo: CO2, SO3, N2O5) y al reaccionar con agua producen oxácidos.
+Los hidróxidos o bases contienen el anión hidróxido (OH⁻) coordinado a un catión metálico; tienen sabor amargo, tacto jabonoso y viran el tornasol a azul (ejemplo: NaOH hidróxido de sodio, Ca(OH)2 hidróxido de calcio).
+Los ácidos hidrácidos son disoluciones acuosas de hidruros no metálicos del grupo 16 y 17 (ejemplo: HCl ácido clorhídrico, HF ácido fluorhídrico, H2S ácido sulfhídrico); no contienen oxígeno.
+Los ácidos oxácidos resultan de la combinación de un óxido ácido con agua y contienen hidrógeno, no metal y oxígeno (ejemplo: H2SO4 ácido sulfúrico, HNO3 ácido nítrico, H3PO4 ácido fosfórico, H2CO3 ácido carbónico).
+Las sales binarias o haloideas resultan de la neutralización entre un hidróxido y un hidrácido, sin oxígeno (ejemplo: NaOH + HCl → NaCl + H2O).
+Las sales oxisales resultan de la neutralización entre un hidróxido y un oxácido (ejemplo: Ca(OH)2 + H2SO4 → CaSO4 + 2H2O, sulfato de calcio).
+Una reacción de neutralización ácido-base clásica ocurre cuando un ácido reacciona con una base produciendo sal y agua líquida: Ácido + Base → Sal + H2O.
+Una reacción de precipitación ocurre cuando dos disoluciones acuosas con iones solubles se combinan formando un compuesto iónico insoluble que sedimenta como sólido (ejemplo: AgNO3(aq) + NaCl(aq) → AgCl(s)↓ + NaNO3(aq)).
+Una reacción de óxido-reducción (redox) implica transferencia neta de electrones: la especie que se oxida pierde electrones y aumenta su número de oxidación; la especie que se reduce gana electrones y disminuye su número de oxidación.
+El agente oxidante es la sustancia que provoca la oxidación de otra y por tanto se reduce a sí misma; el agente reductor es la sustancia que provoca la reducción de otra y se oxida a sí misma.
+
+# 5. ESTEQUIOMETRÍA, GASES IDEALES Y DISOLUCIONES
+El mol es la unidad del Sistema Internacional para cantidad de sustancia; un mol de cualquier entidad química contiene exactamente 6,02214076 × 10²³ partículas elementales (número de Avogadro N_A).
+La masa molar M de una sustancia es la masa de un mol de dicha sustancia expresada en gramos por mol (g/mol) y coincide numéricamente con su masa molecular o atómica en unidades de masa atómica (u).
+La relación entre masa m, masa molar M y número de moles n es n = m / M.
+La ley de conservación de la masa de Lavoisier establece que en toda reacción química ordinaria la masa total de los reactivos es exactamente igual a la masa total de los productos; ningún átomo se crea ni se destruye.
+Para balancear una ecuación química estequiométrica se ajustan los coeficientes enteros delante de las fórmulas de modo que el número de átomos de cada elemento sea idéntico en ambos miembros de la ecuación.
+El reactivo limitante es aquel reactivo que se consume primero y por completo en una reacción química, determinando y limitando la cantidad máxima teórica de producto que puede formarse.
+El reactivo en exceso es aquel del cual queda una cantidad sobrante sin reaccionar una vez que el reactivo limitante se ha consumido totalmente.
+El rendimiento porcentual de una reacción es el cociente entre el rendimiento real obtenido experimentalmente y el rendimiento teórico calculado multiplicado por 100: Rendimiento = (Masa_real / Masa_teórica) × 100%.
+La ley de los gases ideales relaciona presión P, volumen V, cantidad de sustancia n y temperatura absoluta T mediante la ecuación P × V = n × R × T, donde R es la constante universal de los gases (R = 0,082057 atm·L/(mol·K) = 8,314 J/(mol·K)).
+La ley de Boyle establece que a temperatura constante el volumen de una masa fija de gas es inversamente proporcional a su presión: P1 × V1 = P2 × V2.
+La ley de Charles establece que a presión constante el volumen de un gas es directamente proporcional a su temperatura absoluta en Kelvin: V1 / T1 = V2 / T2.
+La ley de Gay-Lussac establece que a volumen constante la presión de un gas es directamente proporcional a su temperatura absoluta en Kelvin: P1 / T1 = P2 / T2.
+La ley de Dalton de las presiones parciales establece que la presión total de una mezcla de gases no reactivos es igual a la suma de las presiones parciales de cada gas individual: P_total = P1 + P2 + P3 + ...
+En condiciones normales de presión y temperatura (CNPT: 0 °C = 273,15 K y 1 atm = 101,325 kPa), un mol de cualquier gas ideal ocupa un volumen molar de exactamente 22,414 litros.
+La concentración molar o molaridad M de una disolución se define como los moles de soluto disueltos por cada litro de disolución: M = n_soluto / V_disolución(L).
+La concentración molal o molalidad m se define como los moles de soluto por cada kilogramo de disolvente: m = n_soluto / Masa_disolvente(kg).
+La fracción molar X_A de un componente A en una mezcla es el cociente entre los moles de A y los moles totales de todas las sustancias presentes: X_A = n_A / n_total; la suma de todas las fracciones molares es igual a 1.
+El porcentaje en masa (% p/p) es (masa de soluto / masa total de disolución) × 100; el porcentaje volumen/volumen (% v/v) es (volumen de soluto / volumen de disolución) × 100.
+La fórmula de dilución establece que al añadir disolvente puro a una disolución concentrada los moles de soluto no varían: C1 × V1 = C2 × V2.
+
+# 6. EQUILIBRIO QUÍMICO, CINÉTICA, TERMOQUÍMICA Y ÁCIDO-BASE
+La velocidad de una reacción química mide la variación de la concentración de reactivos o productos por unidad de tiempo y depende de la naturaleza de los reactivos, concentración, temperatura, área de contacto y catalizadores.
+La teoría de las colisiones establece que para que ocurra una reacción química las moléculas deben chocar con orientación espacial adecuada y con una energía cinética mínima igual o superior a la energía de activación E_a.
+Un catalizador es una sustancia que acelera la velocidad de una reacción química disminuyendo la energía de activación E_a sin consumirse ni alterar el equilibrio termodinámico final.
+Un equilibrio químico dinámico se alcanza en una reacción reversible cuando las velocidades de la reacción directa y de la reacción inversa se igualan, manteniéndose constantes las concentraciones macroscópicas de reactivos y productos.
+La constante de equilibrio K_c para una reacción general aA + bB ⇌ cC + dD se calcula como K_c = ([C]^c × [D]^d) / ([A]^a × [B]^b); en la expresión solo participan especies gaseosas y en disolución acuosa, excluyendo sólidos y líquidos puros.
+El principio de Le Chatelier establece que si un sistema en equilibrio dinámico se perturba modificando la concentración, temperatura o presión, el sistema se desplaza espontáneamente en el sentido que contrarreste dicha perturbación.
+En una reacción endotérmica (ΔH > 0) el sistema absorbe calor del entorno; un aumento de temperatura desplaza el equilibrio hacia los productos. En una reacción exotérmica (ΔH < 0) el sistema libera calor; un aumento de temperatura desplaza el equilibrio hacia los reactivos.
+La entalpía de reacción ΔH mide el calor absorbido o liberado a presión constante; la entropía ΔS mide el grado de dispersión energética o desorden molecular del sistema.
+La energía libre de Gibbs ΔG determina la espontaneidad de un proceso a temperatura y presión constantes mediante la ecuación ΔG = ΔH - T·ΔS; si ΔG < 0 el proceso es espontáneo, si ΔG = 0 está en equilibrio y si ΔG > 0 es no espontáneo.
+Según la definición de Brønsted-Lowry, un ácido es una especie capaz de donar protones (iones H⁺) y una base es una especie capaz de aceptar protones.
+Según la definición de Lewis, un ácido es un aceptor de pares de electrones y una base es un donante de pares de electrones.
+La autoionización del agua a 25 °C establece el producto iónico K_w = [H3O⁺] × [OH⁻] = 1,0 × 10⁻¹⁴.
+El pH se define formalmente como el logaritmo negativo en base 10 de la concentración molar de iones hidronio: pH = -log10[H3O⁺]; a 25 °C un pH < 7 es ácido, pH = 7 es neutro y pH > 7 es básico o alcalino.
+El pOH se define como -log10[OH⁻], y en agua a 25 °C se cumple siempre la relación matemática pH + pOH = 14.
+Un ácido fuerte (como HCl, HNO3, H2SO4) se disocia completamente en agua al 100%, mientras que un ácido débil (como el ácido acético CH3COOH) se disocia parcialmente estableciendo un equilibrio gobernado por su constante de acidez K_a.
+Una disolución amortiguadora, tampón o buffer está formada por un ácido débil y su base conjugada (o una base débil y su ácido conjugado) y tiene la propiedad de resistir variaciones bruscas de pH ante el agregado de pequeñas cantidades de ácido o base fuerte.
+La ecuación de Henderson-Hasselbalch calcula el pH de un amortiguador: pH = pK_a + log10([Base conjugada] / [Ácido débil]).
+
+# 7. QUÍMICA ORGÁNICA, GRUPOS FUNCIONALES E ISOMERÍA
+El átomo de carbono posee número atómico 6 y valencia 4 (tetravalencia), lo que le permite formar cuatro enlaces covalentes estables consigo mismo y con otros elementos mediante cadenas lineales, ramificadas y anillos cíclicos.
+Los hidrocarburos son compuestos orgánicos formados exclusivamente por carbono e hidrógeno y se clasifican en alifáticos (alcanos, alquenos, alquinos, cicloalcanos) y aromáticos.
+Los alcanos son hidrocarburos saturados que contienen únicamente enlaces simples C-C con hibridación sp³; su fórmula general es C_n H_(2n+2); son poco reactivos pero sufren combustión y halogenación por radicales libres (ejemplo: metano CH4, propano C3H8, octano C8H18).
+Los alquenos son hidrocarburos insaturados que poseen al menos un doble enlace carbono-carbono C=C con hibridación sp²; su fórmula general alifática es C_n H_2n; sufren reacciones de adición electrofílica e hidrogenación (ejemplo: etileno o eteno C2H4).
+Los alquinos son hidrocarburos insaturados que poseen al menos un triple enlace carbono-carbono C≡C con hibridación sp; su fórmula general es C_n H_(2n-2); son muy reactivos y arden con llama caliente (ejemplo: acetileno o etino C2H2).
+Los hidrocarburos aromáticos o arenos contienen un anillo bencénico de 6 carbonos con enlaces deslocalizados y resonancia aromática (regla de Hückel de 4n+2 electrones π); el benceno C6H6 es termodinámicamente muy estable y experimenta sustitución electrofílica aromática en lugar de adición.
+Los alcoholes contienen el grupo funcional hidroxilo (-OH) unido a un carbono sp³; son polares, forman puentes de hidrógeno, tienen puntos de ebullición elevados y se clasifican en primarios, secundarios o terciarios (ejemplo: metanol CH3OH tóxico, etanol CH3CH2OH alcohol de bebidas).
+Los éteres contienen un átomo de oxígeno puente unido a dos radicales alquilo o arilo (R-O-R'); son disolventes apolares volátiles e inflamables (ejemplo: éter dietílico CH3CH2-O-CH2CH3).
+Los aldehídos contienen el grupo carbonilo (C=O) en un carbono terminal (-CHO); se oxidan fácilmente a ácidos carboxílicos y dan positiva la prueba de Tollens y Fehling (ejemplo: formaldehído o metanal HCHO, acetaldehído o etanal CH3CHO).
+Las cetonas contienen el grupo carbonilo (C=O) en un carbono secundario no terminal (R-CO-R'); son más resistentes a la oxidación que los aldehídos (ejemplo: acetona o propanona CH3-CO-CH3, disolvente universal de esmaltes y resinas).
+Los ácidos carboxílicos contienen el grupo funcional carboxilo (-COOH); son ácidos orgánicos débiles que forman dímeros por puentes de hidrógeno (ejemplo: ácido fórmico o metanoico HCOOH en picaduras de hormiga, ácido acético o etanoico CH3COOH en vinagre).
+Los ésteres se forman por la reacción de esterificación de Fischer entre un ácido carboxílico y un alcohol con eliminación de agua (Ácido + Alcohol ⇌ Éster + H2O); poseen aromas frutales agradables y forman las grasas y aceites (ejemplo: acetato de etilo CH3COOCH2CH3).
+Las aminas son derivados orgánicos del amoníaco (NH3) donde uno o más hidrógenos se sustituyen por grupos alquilo (R-NH2 primaria, R2NH secundaria, R3N terciaria); actúan como bases orgánicas y tienen olores penetrantes.
+Las amidas contienen un grupo carbonilo unido directamente a un nitrógeno (-CO-NH2); constituyen el enlace peptídico que une a los aminoácidos para formar las proteínas.
+La isomería estructural ocurre cuando dos moléculas tienen la misma fórmula molecular pero distinta conectividad en sus átomos: de cadena (pentano vs isopentano), de posición (1-butanol vs 2-butanol) o de función (etanol vs dimetiléter).
+La estereoisomería ocurre cuando las moléculas tienen la misma conectividad pero distinta disposición espacial tridimensional; incluye la isomería geométrica cis-trans (en alquenos y ciclos) y la isomería óptica o enantiomería.
+Un carbono quiral o asimétrico es aquel unido a cuatro sustituyentes diferentes; las moléculas quirales no son superponibles con su imagen especular y existen como enantiómeros que desvían el plano de la luz polarizada hacia la derecha (dextrógiro) o hacia la izquierda (levógiro).
+Los polímeros sintéticos son macromoléculas formadas por la unión repetitiva de unidades monoméricas mediante polimerización por adición (polietileno, polipropileno, PVC) o polimerización por condensación con liberación de agua (nailon, poliéster, PET).
